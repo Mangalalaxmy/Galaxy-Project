@@ -1,0 +1,22 @@
+Cluster name:	ramya-galaxy-cloud-18-02-07t19-21
+galaxy username - ramya.ts1@gmail.com
+pswd - mycloudgalaxy123
+
+1) the number of single nucleotide variants, 2) the number of insertion/deletion variants, 3) the number of multi-necleotide variants, 4) the number of variants with multiple alternate alleles, and 5) the names of the 5 genes with the largest number of polymorphic sites.
+
+ snp, mnp, ins, del, or complex.
+
+-f "TYPE = snp" - 1977
+
+-f "TYPE = ins" - 114
+-f "TYPE = del" -  93
+both ins + del -  202
+
+-f "TYPE = mnp" - 22
+-f "TYPE = complex" - 56
+
+RBFOX1	146
+CACNA1H	84
+ABAT	50
+PKD1	44
+TPSB2	41

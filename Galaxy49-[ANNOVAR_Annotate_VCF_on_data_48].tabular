@@ -1,0 +1,1288 @@
+Chr	Start	End	Ref	Alt	Func.refGene	Gene.refGene	ExonicFunc.refGene	AAChange.refGene	Func.gencodeV19	Gene.gencodeV19	ExonicFunc.gencodeV19	AAChange.gencodeV19	genomicSuperDups	phastConsElements46way	1000g2012apr_all	avsift	snp137NonFlagged	esp6500si_all	snp137	cosmic67
+chr16	61641	61641	C	T	ncRNA_exonic	DDX11L10	.	.	ncRNA_exonic	DDX11L10	.	.	Score=0.985389;Name=chr1:10485	.	0.10	.	rs145946973	.	rs145946973	.
+chr16	61651	61651	A	G	ncRNA_exonic	DDX11L10	.	.	ncRNA_exonic	DDX11L10	.	.	Score=0.985389;Name=chr1:10485	.	.	.	rs112391704	.	rs112391704	.
+chr16	61730	61730	C	G	ncRNA_exonic	DDX11L10	.	.	ncRNA_exonic	DDX11L10	.	.	Score=0.985389;Name=chr1:10485	.	.	.	rs201731689	.	rs201731689	.
+chr16	79609	79609	C	G	intergenic	DDX11L10(dist=15519),POLR3K(dist=17370)	.	.	ncRNA_exonic	IL9RP3	.	.	Score=0.969759;Name=chrX:155229997,chrY:59333003	.	0.70	.	rs2854549	.	rs2854549	.
+chr16	79811	79811	T	C	intergenic	DDX11L10(dist=15721),POLR3K(dist=17168)	.	.	ncRNA_exonic	IL9RP3	.	.	Score=0.969759;Name=chrX:155229997,chrY:59333003	.	.	.	rs2228650	.	rs2228650	.
+chr16	80174	80174	A	G	intergenic	DDX11L10(dist=16084),POLR3K(dist=16805)	.	.	ncRNA_intronic	IL9RP3,Z84812.4	.	.	Score=0.969759;Name=chrX:155229997,chrY:59333003	.	.	.	rs2236793	.	rs2236793	.
+chr16	80212	80212	A	C	intergenic	DDX11L10(dist=16122),POLR3K(dist=16767)	.	.	ncRNA_intronic	IL9RP3,Z84812.4	.	.	Score=0.969759;Name=chrX:155229997,chrY:59333003	.	0.27	.	rs145936344	.	rs145936344	.
+chr16	80318	80318	-	CA	intergenic	DDX11L10(dist=16228),POLR3K(dist=16661)	.	.	ncRNA_intronic	IL9RP3,Z84812.4	.	.	Score=0.969759;Name=chrX:155229997,chrY:59333003	.	.	.	.	.	.	.
+chr16	81639	81639	C	A	intergenic	DDX11L10(dist=17549),POLR3K(dist=15340)	.	.	ncRNA_intronic	IL9RP3,Z84812.4	.	.	Score=0.969759;Name=chrX:155229997,chrY:59333003	.	.	.	rs118023239	.	rs118023239	.
+chr16	84170	84170	C	T	intergenic	DDX11L10(dist=20080),POLR3K(dist=12809)	.	.	ncRNA_exonic	IL9RP3	.	.	Score=0.969759;Name=chrX:155229997,chrY:59333003	.	0.51	.	rs2562132	.	rs2562132	.
+chr16	84870	84870	C	G	intergenic	DDX11L10(dist=20780),POLR3K(dist=12109)	.	.	ncRNA_exonic	IL9RP3,Z84812.4	.	.	Score=0.969759;Name=chrX:155229997,chrY:59333003	Score=393;Name=lod=53	0.27	.	rs2541688	.	rs2541688	.
+chr16	85667	85667	C	A	intergenic	DDX11L10(dist=21577),POLR3K(dist=11312)	.	.	ncRNA_exonic	IL9RP3	.	.	Score=0.969759;Name=chrX:155229997,chrY:59333003	.	0.01	.	rs117923034	.	rs117923034	.
+chr16	108585	108585	T	C	exonic	RHBDF1	synonymous SNV	RHBDF1:NM_022450:exon18:c.A2322G:p.S774S	exonic	RHBDF1	synonymous SNV	RHBDF1:ENST00000262316.6:exon18:c.A2322G:p.S774S	.	.	0.79	.	rs216598	0.873827	rs216598	.
+chr16	108798	108798	-	G	intronic	RHBDF1	.	.	intronic	RHBDF1	.	.	.	.	.	.	.	.	.	.
+chr16	128179	128179	T	C	UTR5	MPG	.	.	UTR5	MPG	.	.	.	.	0.85	.	rs2562162	.	rs2562162	.
+chr16	128954	128954	C	T	intronic	MPG	.	.	intronic	MPG	.	.	.	.	0.62	.	rs1013358	.	rs1013358	.
+chr16	130890	130893	GGCG	GGCC	intronic	MPG	.	.	intronic	MPG	.	.	.	.	.	.	.	.	.	.
+chr16	133613	133613	T	A	intronic	MPG	.	.	intronic	MPG	.	.	.	.	0.71	.	rs2858049	.	rs2858049	.
+chr16	136142	136142	C	T	UTR3	NPRL3	.	.	UTR3	NPRL3	.	.	.	.	0.83	.	rs2541623	.	rs2541623	.
+chr16	148352	148352	G	A	intronic	NPRL3	.	.	intronic	NPRL3	.	.	.	.	0.80	.	rs2541616	.	rs2541616	.
+chr16	197878	197895	CAAAAAAAAAAAAAAAAT	CAAAAAAAAAAAAAAAT	intergenic	NPRL3(dist=9181),HBZ(dist=4959)	.	.	intergenic	NPRL3(dist=9202),HBZ(dist=4791)	.	.	.	.	.	.	.	.	.	.
+chr16	203072	203072	A	G	intronic	HBZ	.	.	intronic	HBZ	.	.	Score=0.975101;Name=chr16:212932	.	.	.	.	.	.	.
+chr16	203078	203078	C	G	intronic	HBZ	.	.	intronic	HBZ	.	.	Score=0.975101;Name=chr16:212932	.	.	.	.	.	.	.
+chr16	203081	203081	T	G	intronic	HBZ	.	.	intronic	HBZ	.	.	Score=0.975101;Name=chr16:212932	.	.	.	.	.	.	.
+chr16	203086	203086	A	G	intronic	HBZ	.	.	intronic	HBZ	.	.	Score=0.975101;Name=chr16:212932	.	.	.	.	.	.	.
+chr16	203100	203100	A	G	intronic	HBZ	.	.	intronic	HBZ	.	.	Score=0.975101;Name=chr16:212932	.	.	.	.	.	.	.
+chr16	203132	203135	CACT	GACA	intronic	HBZ	.	.	intronic	HBZ	.	.	Score=0.975101;Name=chr16:212932	.	.	.	.	.	.	.
+chr16	203152	203152	G	A	intronic	HBZ	.	.	intronic	HBZ	.	.	Score=0.975101;Name=chr16:212932	.	0.18	.	rs12931817	.	rs12931817	.
+chr16	203164	203164	T	A	intronic	HBZ	.	.	intronic	HBZ	.	.	Score=0.975101;Name=chr16:212932	.	.	.	rs12921551	.	rs12921551	.
+chr16	203254	203254	A	G	intronic	HBZ	.	.	intronic	HBZ	.	.	Score=0.975101;Name=chr16:212932	.	0.75	.	rs2461286	.	rs2461286	.
+chr16	204126	204126	A	G	intronic	HBZ	.	.	intronic	HBZ	.	.	Score=0.975101;Name=chr16:212932	.	.	.	.	.	.	.
+chr16	204214	204217	CGCC	CGCG	intronic	HBZ	.	.	intronic	HBZ	.	.	Score=0.975101;Name=chr16:212932	.	.	.	.	.	.	.
+chr16	204247	204247	T	G	intronic	HBZ	.	.	intronic	HBZ	.	.	Score=0.975101;Name=chr16:212932	.	0.65	.	rs71382264	.	rs71382264	.
+chr16	213449	213449	A	G	intergenic	HBZ(dist=8945),HBM(dist=2524)	.	.	ncRNA_intronic	HBZP1	.	.	Score=0.975101;Name=chr16:202720	.	.	.	.	.	.	.
+chr16	213497	213497	A	G	intergenic	HBZ(dist=8993),HBM(dist=2476)	.	.	ncRNA_intronic	HBZP1	.	.	Score=0.975101;Name=chr16:202720	.	0.05	.	rs59783807	.	rs59783807	.
+chr16	214941	214942	GC	GTC	intergenic	HBZ(dist=10437),HBM(dist=1031)	.	.	ncRNA_intronic	HBZP1	.	.	Score=0.975101;Name=chr16:202720	Score=259;Name=lod=15	.	.	.	.	.	.
+chr16	214986	214986	-	G	upstream	HBM	.	.	ncRNA_intronic	HBZP1	.	.	Score=0.975101;Name=chr16:202720	.	.	.	.	.	.	.
+chr16	215019	215019	G	C	upstream	HBM	.	.	ncRNA_intronic	HBZP1	.	.	Score=0.975101;Name=chr16:202720	.	.	.	.	.	.	.
+chr16	223706	223706	A	G	UTR3	HBA2	.	.	UTR3	HBA2	.	.	Score=0.926103;Name=chr16:219366	.	0.99	.	.	.	rs2541640	.
+chr16	338334	338334	-	C	intronic	AXIN1	.	.	intronic	AXIN1	.	.	.	.	.	.	.	.	.	.
+chr16	339415	339415	G	T	intronic	AXIN1	.	.	intronic	AXIN1	.	.	.	.	0.19	.	rs387467	0.249539	rs387467	.
+chr16	339672	339672	T	C	intronic	AXIN1	.	.	intronic	AXIN1	.	.	.	.	0.26	.	rs412243	.	rs412243	.
+chr16	339727	339727	C	T	intronic	AXIN1	.	.	intronic	AXIN1	.	.	.	.	0.09	.	rs423749	.	rs423749	.
+chr16	341476	341476	T	C	intronic	AXIN1	.	.	intronic	AXIN1	.	.	.	.	0.37	.	rs2685119	.	rs2685119	.
+chr16	343905	343905	T	C	intronic	AXIN1	.	.	intronic	AXIN1	.	.	.	.	0.29	.	rs545769	.	rs545769	.
+chr16	347184	347184	A	G	exonic	AXIN1	synonymous SNV	AXIN1:NM_003502:exon7:c.T1827C:p.A609A,AXIN1:NM_181050:exon7:c.T1827C:p.A609A	exonic	AXIN1	synonymous SNV	AXIN1:ENST00000262320.3:exon7:c.T1827C:p.A609A,AXIN1:ENST00000354866.3:exon7:c.T1827C:p.A609A	.	.	0.22	.	rs214252	0.280947	rs214252	.
+chr16	347326	347326	G	A	intronic	AXIN1	.	.	intronic	AXIN1	.	.	.	.	0.22	.	rs214251	.	rs214251	.
+chr16	348222	348222	C	T	exonic	AXIN1	synonymous SNV	AXIN1:NM_003502:exon6:c.G1284A:p.S428S,AXIN1:NM_181050:exon6:c.G1284A:p.S428S	exonic	AXIN1	synonymous SNV	AXIN1:ENST00000262320.3:exon6:c.G1284A:p.S428S,AXIN1:ENST00000354866.3:exon6:c.G1284A:p.S428S	.	.	0.22	.	rs214250	0.248706	rs214250	ID=COSM143800;OCCURENCE=1(central_nervous_system)
+chr16	359953	359953	A	G	intronic	AXIN1	.	.	intronic	AXIN1	.	.	.	.	0.60	.	rs2301522	0.727587	rs2301522	.
+chr16	396264	396264	A	G	exonic	AXIN1	synonymous SNV	AXIN1:NM_003502:exon2:c.T762C:p.D254D,AXIN1:NM_181050:exon2:c.T762C:p.D254D	exonic	AXIN1	synonymous SNV	AXIN1:ENST00000262320.3:exon2:c.T762C:p.D254D,AXIN1:ENST00000354866.3:exon2:c.T762C:p.D254D	.	.	0.58	.	rs1805105	0.714132	rs1805105	.
+chr16	404750	404750	T	C	intergenic	AXIN1(dist=2074),MRPL28(dist=12634)	.	.	intergenic	AXIN1(dist=2091),MRPL28(dist=12634)	.	.	.	.	0.58	.	rs3743883	.	rs3743883	.
+chr16	413814	413814	G	A	intergenic	AXIN1(dist=11138),MRPL28(dist=3570)	.	.	intergenic	AXIN1(dist=11155),MRPL28(dist=3570)	.	.	.	.	0.0009	.	rs150411236	.	rs150411236	.
+chr16	414925	414925	C	A	intergenic	AXIN1(dist=12249),MRPL28(dist=2459)	.	.	intergenic	AXIN1(dist=12266),MRPL28(dist=2459)	.	.	.	.	.	.	.	.	.	.
+chr16	421723	421723	A	C	UTR3	TMEM8A	.	.	UTR3	TMEM8A	.	.	.	.	0.05	.	rs413390	.	rs413390	.
+chr16	449345	449345	G	C	intronic	NME4	.	.	intronic	NME4	.	.	.	.	0.46	.	rs763151	0.474312	rs763151	ID=COSN165084;OCCURENCE=1(NS),1(haematopoietic_and_lymphoid_tissue),1(urinary_tract),1(skin),2(large_intestine)
+chr16	460673	460673	G	A	intronic	DECR2	.	.	intronic	DECR2	.	.	.	.	0.14	.	rs3743895	0.094825	rs3743895	.
+chr16	470596	470600	GTGAG	ATGAT	intergenic	DECR2(dist=8109),RAB11FIP3(dist=5068)	.	.	intergenic	DECR2(dist=8109),RAB11FIP3(dist=5019)	.	.	.	.	.	.	.	.	.	.
+chr16	511080	511080	C	T	intronic	RAB11FIP3	.	.	intronic	RAB11FIP3	.	.	.	.	0.16	.	rs3743896	.	rs3743896	.
+chr16	581146	581146	C	A	intronic	CAPN15	.	.	intronic	CAPN15	.	.	.	.	.	.	.	.	.	.
+chr16	581205	581205	A	G	intronic	CAPN15	.	.	intronic	CAPN15	.	.	.	.	.	.	.	.	.	.
+chr16	603471	603471	A	G	exonic	CAPN15	synonymous SNV	CAPN15:NM_005632:exon14:c.A3216G:p.P1072P	exonic	CAPN15	synonymous SNV	CAPN15:ENST00000219611.2:exon14:c.A3216G:p.P1072P	.	Score=501;Name=lod=145	0.43	.	rs11248937	0.455665	rs11248937	.
+chr16	672799	672799	T	C	intronic	RAB40C	.	.	intronic	RAB40C	.	.	.	.	0.53	.	rs8054842	.	rs8054842	.
+chr16	680695	680695	A	G	upstream	WFIKKN1	.	.	upstream	WFIKKN1	.	.	.	.	0.54	.	rs4984903	.	rs4984903	.
+chr16	715448	715448	G	A	intronic	WDR90	.	.	UTR5	WDR90	.	.	.	.	.	.	.	.	.	.
+chr16	771648	771648	G	A	exonic	FAM173A	synonymous SNV	FAM173A:NM_001271285:exon2:c.G213A:p.L71L,FAM173A:NM_023933:exon2:c.G213A:p.L71L	exonic	FAM173A	synonymous SNV	FAM173A:ENST00000219535.3:exon2:c.G213A:p.L71L,FAM173A:ENST00000564000.1:exon2:c.G213A:p.L71L,FAM173A:ENST00000569529.1:exon2:c.G213A:p.L71L	.	Score=417;Name=lod=66	.	.	.	.	.	.
+chr16	795746	795746	G	A	intergenic	NARFL(dist=4749),MSLN(dist=15019)	.	.	intergenic	NARFL(dist=4417),MSLN(dist=15016)	.	.	.	.	.	.	.	.	.	.
+chr16	798229	798229	G	A	intergenic	NARFL(dist=7232),MSLN(dist=12536)	.	.	intergenic	NARFL(dist=6900),MSLN(dist=12533)	.	.	.	.	0.35	.	rs8050465	.	rs8050465	.
+chr16	798263	798263	G	C	intergenic	NARFL(dist=7266),MSLN(dist=12502)	.	.	intergenic	NARFL(dist=6934),MSLN(dist=12499)	.	.	.	.	0.35	.	rs8050486	.	rs8050486	.
+chr16	852873	852873	C	A	intergenic	GNG13(dist=2140),PRR25(dist=2570)	.	.	intergenic	GNG13(dist=2140),PRR25(dist=2570)	.	.	.	.	.	.	.	.	.	.
+chr16	903426	903426	G	A	downstream	LMF1	.	.	downstream	LMF1	.	.	.	.	0.54	.	rs7188051	.	rs7188051	.
+chr16	904209	904209	G	A	UTR3	LMF1	.	.	UTR3	LMF1	.	.	.	.	.	.	.	.	.	.
+chr16	907738	907738	T	A	intronic	LMF1	.	.	intronic	LMF1	.	.	Score=0.919937;Name=chr16:908683	.	.	.	rs148395638	.	rs148395638	.
+chr16	907791	907791	T	C	intronic	LMF1	.	.	intronic	LMF1	.	.	Score=0.919937;Name=chr16:908683	.	.	.	.	.	.	.
+chr16	918776	918789	CGGGGGGGGGGGGC	CGGGGGGGGGGGGGC	intronic	LMF1	.	.	intronic	LMF1	.	.	.	.	.	.	.	.	.	.
+chr16	924383	924383	G	A	intronic	LMF1	.	.	intronic	LMF1	.	.	.	.	.	.	.	.	.	.
+chr16	938205	938205	G	T	intronic	LMF1	.	.	intronic	LMF1	.	.	.	.	.	.	.	.	.	.
+chr16	942989	942989	G	C	intronic	LMF1	.	.	intronic	LMF1	.	.	.	.	0.49	.	rs11864203	0.394170	rs11864203	.
+chr16	943107	943107	A	G	intronic	LMF1	.	.	intronic	LMF1	.	.	.	.	0.43	.	rs4984705	0.341743	rs4984705	.
+chr16	943130	943130	C	G	intronic	LMF1	.	.	intronic	LMF1	.	.	.	.	0.43	.	rs4984706	0.358519	rs4984706	.
+chr16	943319	943319	-	T	intronic	LMF1	.	.	intronic	LMF1	.	.	.	.	.	.	.	.	.	.
+chr16	943361	943361	T	C	intronic	LMF1	.	.	intronic	LMF1	.	.	.	.	0.49	.	rs4984707	.	rs4984707	.
+chr16	943996	943996	A	G	intronic	LMF1	.	.	intronic	LMF1	.	.	.	.	0.48	.	rs62013778	.	rs62013778	.
+chr16	960725	960725	G	A	intronic	LMF1	.	.	intronic	LMF1	.	.	.	.	0.51	.	rs742036	.	rs742036	.
+chr16	981361	981361	G	A	intronic	LMF1	.	.	ncRNA_intronic	LA16c-366D3.1	.	.	.	.	0.09	.	rs73499255	.	rs73499255	.
+chr16	981861	981861	A	G	intronic	LMF1	.	.	ncRNA_intronic	LA16c-366D3.1	.	.	.	.	0.42	.	rs4984720	.	rs4984720	.
+chr16	981959	981959	A	G	intronic	LMF1	.	.	ncRNA_intronic	LA16c-366D3.1	.	.	.	.	0.07	.	rs73499257	.	rs73499257	.
+chr16	984003	984003	G	C	intronic	LMF1	.	.	ncRNA_exonic	LA16c-366D3.1	.	.	.	.	0.05	.	rs73483808	.	rs73483808	.
+chr16	984444	984444	G	A	intronic	LMF1	.	.	ncRNA_exonic	LA16c-366D3.1	.	.	.	.	0.05	.	rs73483809	.	rs73483809	.
+chr16	994716	994716	G	A	intronic	LMF1	.	.	intronic	LMF1	.	.	.	.	0.06	.	rs112258597	.	rs112258597	.
+chr16	1004038	1004038	C	T	intronic	LMF1	.	.	intronic	LMF1	.	.	.	.	.	.	rs2573131	.	rs2573131	.
+chr16	1004554	1004554	C	T	exonic	LMF1	synonymous SNV	LMF1:NM_022773:exon2:c.G306A:p.T102T	exonic	LMF1	synonymous SNV	LMF1:ENST00000262301.11:exon2:c.G306A:p.T102T,LMF1:ENST00000399843.2:exon2:c.G306A:p.T102T,LMF1:ENST00000539379.1:exon2:c.G285A:p.T95T,LMF1:ENST00000562226.1:exon2:c.G306A:p.T102T,LMF1:ENST00000562380.1:exon2:c.G189A:p.T63T	.	.	0.32	.	rs3751667	0.277662	rs3751667	ID=COSM434590;OCCURENCE=2(breast)
+chr16	1004694	1004694	A	G	intronic	LMF1	.	.	intronic	LMF1	.	.	.	.	0.49	.	rs3751666	0.479170	rs3751666	.
+chr16	1004743	1004743	C	T	intronic	LMF1	.	.	intronic	LMF1	.	.	.	.	0.49	.	rs3751665	.	rs3751665	.
+chr16	1004757	1004757	C	T	intronic	LMF1	.	.	intronic	LMF1	.	.	.	.	0.06	.	rs113750251	.	rs113750251	.
+chr16	1004834	1004834	T	C	intronic	LMF1	.	.	intronic	LMF1	.	.	.	.	0.49	.	rs3829491	.	rs3829491	.
+chr16	1004873	1004873	C	T	intronic	LMF1	.	.	intronic	LMF1	.	.	.	.	0.06	.	rs112638341	.	rs112638341	.
+chr16	1004892	1004892	T	C	intronic	LMF1	.	.	intronic	LMF1	.	.	.	.	.	.	rs67964082	.	rs67964082	.
+chr16	1004905	1004909	GAACT	AAACC	intronic	LMF1	.	.	intronic	LMF1	.	.	.	.	.	.	.	.	.	.
+chr16	1004935	1004935	C	T	intronic	LMF1	.	.	intronic	LMF1	.	.	.	.	.	.	rs71384617	.	rs71384617	.
+chr16	1004946	1004950	CGGTG	GGGTC	intronic	LMF1	.	.	intronic	LMF1	.	.	.	.	.	.	.	.	.	.
+chr16	1006844	1006862	CAAAAAAAAAAAAAAAAAG	CAAAAAAAAAAAG	intronic	LMF1	.	.	intronic	LMF1	.	.	.	.	.	.	.	.	.	.
+chr16	1020874	1020874	C	T	exonic	LMF1	nonsynonymous SNV	LMF1:NM_022773:exon1:c.G107A:p.G36D	exonic	LMF1	nonsynonymous SNV	LMF1:ENST00000262301.11:exon1:c.G107A:p.G36D,LMF1:ENST00000399843.2:exon1:c.G107A:p.G36D,LMF1:ENST00000539379.1:exon1:c.G86A:p.G29D,LMF1:ENST00000562226.1:exon1:c.G107A:p.G36D	.	.	0.05	1	rs111980103	0.063812	rs111980103	.
+chr16	1021000	1021021	CCGGAGGCCCCGCCCATTCTCG	CAGGAGGCCCCGCCCATTCTCG	upstream	LMF1	.	.	intronic	LMF1	.	.	.	Score=321;Name=lod=27	.	.	.	.	.	.
+chr16	1021266	1021266	G	A	upstream	LMF1	.	.	intronic	LMF1	.	.	.	.	0.47	.	rs2432296	.	rs2432296	.
+chr16	1024913	1024913	G	C	intergenic	LMF1(dist=3929),SOX8(dist=6895)	.	.	intronic	LMF1	.	.	.	.	0.50	.	rs2858991	.	rs2858991	.
+chr16	1025473	1025473	A	G	intergenic	LMF1(dist=4489),SOX8(dist=6335)	.	.	intronic	LMF1	.	.	.	.	0.07	.	rs2858992	.	rs2858992	.
+chr16	1025983	1025983	G	A	intergenic	LMF1(dist=4999),SOX8(dist=5825)	.	.	ncRNA_exonic	RP11-161M6.2	.	.	.	.	0.17	.	rs2382948	.	rs2382948	.
+chr16	1026008	1026012	TGGGC	-	intergenic	LMF1(dist=5024),SOX8(dist=5796)	.	.	ncRNA_exonic	RP11-161M6.2	.	.	.	.	.	.	.	.	.	.
+chr16	1026094	1026094	T	C	intergenic	LMF1(dist=5110),SOX8(dist=5714)	.	.	ncRNA_exonic	RP11-161M6.2	.	.	.	.	0.06	.	rs9931054	.	rs9931054	.
+chr16	1026209	1026209	G	A	intergenic	LMF1(dist=5225),SOX8(dist=5599)	.	.	ncRNA_exonic	RP11-161M6.2	.	.	.	.	0.28	.	rs2516061	.	rs2516061	.
+chr16	1026398	1026398	G	A	intergenic	LMF1(dist=5414),SOX8(dist=5410)	.	.	ncRNA_exonic	RP11-161M6.2	.	.	.	.	0.51	.	rs1978480	.	rs1978480	.
+chr16	1026910	1026910	T	C	intergenic	LMF1(dist=5926),SOX8(dist=4898)	.	.	ncRNA_exonic	RP11-161M6.2	.	.	.	.	1.00	.	rs553256	.	rs553256	.
+chr16	1026980	1026980	C	T	intergenic	LMF1(dist=5996),SOX8(dist=4828)	.	.	ncRNA_exonic	RP11-161M6.2	.	.	.	.	0.45	.	rs3803698	.	rs3803698	.
+chr16	1027069	1027069	T	C	intergenic	LMF1(dist=6085),SOX8(dist=4739)	.	.	ncRNA_exonic	RP11-161M6.2	.	.	.	.	0.52	.	rs3803699	.	rs3803699	.
+chr16	1027099	1027099	A	G	intergenic	LMF1(dist=6115),SOX8(dist=4709)	.	.	ncRNA_intronic	RP11-161M6.2	.	.	.	.	0.53	.	rs3803700	.	rs3803700	.
+chr16	1028545	1028545	A	G	intergenic	LMF1(dist=7561),SOX8(dist=3263)	.	.	ncRNA_intronic	RP11-161M6.2	.	.	.	.	0.49	.	rs11248958	.	rs11248958	.
+chr16	1029361	1029361	T	C	intergenic	LMF1(dist=8377),SOX8(dist=2447)	.	.	ncRNA_exonic	RP11-161M6.2	.	.	.	.	0.07	.	rs116370314	.	rs116370314	.
+chr16	1030154	1030154	G	C	intergenic	LMF1(dist=9170),SOX8(dist=1654)	.	.	ncRNA_exonic	RP11-161M6.2	.	.	.	.	0.47	.	rs11863963	.	rs11863963	.
+chr16	1031348	1031349	GT	GA	upstream	SOX8	.	.	ncRNA_exonic	RP11-161M6.2	.	.	.	.	.	.	.	.	.	.
+chr16	1032776	1032776	A	G	intronic	SOX8	.	.	intronic	SOX8	.	.	.	.	0.54	.	rs9931183	.	rs9931183	.
+chr16	1034421	1034421	C	G	intronic	SOX8	.	.	intronic	SOX8	.	.	.	.	0.53	.	rs11248960	.	rs11248960	.
+chr16	1034494	1034494	T	C	intronic	SOX8	.	.	intronic	SOX8	.	.	.	.	0.52	.	rs11248961	.	rs11248961	.
+chr16	1034503	1034503	A	C	intronic	SOX8	.	.	intronic	SOX8	.	.	.	.	0.07	.	rs71380229	.	rs71380229	.
+chr16	1034675	1034676	CC	AT	intronic	SOX8	.	.	intronic	SOX8	.	.	.	.	.	.	.	.	.	.
+chr16	1034834	1034834	T	C	exonic	SOX8	synonymous SNV	SOX8:NM_014587:exon3:c.T789C:p.N263N	exonic	SOX8	synonymous SNV	SOX8:ENST00000293894.3:exon3:c.T789C:p.N263N	.	Score=548;Name=lod=226	1.00	.	rs237674	.	rs237674	.
+chr16	1034954	1034954	T	C	exonic	SOX8	synonymous SNV	SOX8:NM_014587:exon3:c.T909C:p.Y303Y	exonic	SOX8	synonymous SNV	SOX8:ENST00000293894.3:exon3:c.T909C:p.Y303Y	.	.	0.31	.	rs11542178	0.372822	rs11542178	.
+chr16	1035422	1035422	G	C	UTR3	SOX8	.	.	UTR3	SOX8	.	.	.	.	0.23	.	rs11542180	0.140825	rs11542180	.
+chr16	1035456	1035456	A	G	UTR3	SOX8	.	.	UTR3	SOX8	.	.	.	.	0.45	.	rs11866418	.	rs11866418	.
+chr16	1035548	1035548	G	A	UTR3	SOX8	.	.	UTR3	SOX8	.	.	.	.	0.20	.	rs3751669	.	rs3751669	.
+chr16	1035653	1035653	C	T	UTR3	SOX8	.	.	UTR3	SOX8	.	.	.	.	0.29	.	rs3751668	.	rs3751668	.
+chr16	1065859	1065859	C	T	intergenic	SOX8(dist=28880),SSTR5-AS1(dist=48223)	.	.	intergenic	RP11-161M6.3(dist=14933),SSTR5-AS1(dist=48234)	.	.	.	.	0.76	.	rs385277	.	rs385277	.
+chr16	1113847	1113847	T	G	downstream	SSTR5-AS1	.	.	downstream	SSTR5-AS1	.	.	.	.	0.42	.	rs213656	.	rs213656	.
+chr16	1116912	1116912	C	G	ncRNA_intronic	SSTR5-AS1	.	.	ncRNA_intronic	SSTR5-AS1	.	.	.	.	0.23	.	rs11860147	.	rs11860147	.
+chr16	1129441	1129441	G	A	exonic	SSTR5	synonymous SNV	SSTR5:NM_001053:exon1:c.G573A:p.P191P,SSTR5:NM_001172560:exon2:c.G573A:p.P191P	exonic	SSTR5	synonymous SNV	SSTR5:ENST00000293897.4:exon1:c.G573A:p.P191P,SSTR5:ENST00000562758.1:exon1:c.G573A:p.P191P,SSTR5:ENST00000397547.2:exon2:c.G573A:p.P191P	.	.	0.02	.	rs34608001	0.018120	rs34608001	.
+chr16	1129872	1129872	C	T	exonic	SSTR5	nonsynonymous SNV	SSTR5:NM_001053:exon1:c.C1004T:p.P335L,SSTR5:NM_001172560:exon2:c.C1004T:p.P335L	exonic	SSTR5	nonsynonymous SNV	SSTR5:ENST00000293897.4:exon1:c.C1004T:p.P335L,SSTR5:ENST00000397547.2:exon2:c.C1004T:p.P335L	.	.	0.56	0.31	rs169068	0.486557	rs169068	.
+chr16	1129912	1129912	A	G	exonic	SSTR5	synonymous SNV	SSTR5:NM_001053:exon1:c.A1044G:p.P348P,SSTR5:NM_001172560:exon2:c.A1044G:p.P348P	exonic	SSTR5	synonymous SNV	SSTR5:ENST00000293897.4:exon1:c.A1044G:p.P348P,SSTR5:ENST00000397547.2:exon2:c.A1044G:p.P348P	.	.	0.95	.	rs642249	0.957602	rs642249	.
+chr16	1163093	1163093	C	A	intergenic	C1QTNF8(dist=16849),CACNA1H(dist=40148)	.	.	ncRNA_exonic	LA16c-381G6.1	.	.	.	.	.	.	.	.	.	.
+chr16	1168642	1168642	A	C	intergenic	C1QTNF8(dist=22398),CACNA1H(dist=34599)	.	.	intergenic	LA16c-381G6.1(dist=5243),CACNA1H(dist=34599)	.	.	.	.	1.00	.	rs2729579	.	rs2729579	.
+chr16	1192375	1192375	A	G	intergenic	C1QTNF8(dist=46131),CACNA1H(dist=10866)	.	.	intergenic	LA16c-381G6.1(dist=28976),CACNA1H(dist=10866)	.	.	.	.	0.42	.	rs8051668	.	rs8051668	.
+chr16	1204054	1204054	C	G	intronic	CACNA1H	.	.	intronic	CACNA1H	.	.	.	.	.	.	.	.	.	.
+chr16	1204061	1204061	C	G	intronic	CACNA1H	.	.	intronic	CACNA1H	.	.	.	.	.	.	.	.	.	.
+chr16	1204068	1204068	C	G	intronic	CACNA1H	.	.	intronic	CACNA1H	.	.	.	.	.	.	.	.	.	.
+chr16	1204075	1204077	CGT	GGG	intronic	CACNA1H	.	.	intronic	CACNA1H	.	.	.	.	.	.	.	.	.	.
+chr16	1204082	1204086	AGGGT	GGGGG	intronic	CACNA1H	.	.	intronic	CACNA1H	.	.	.	.	.	.	.	.	.	.
+chr16	1204116	1204116	A	G	intronic	CACNA1H	.	.	intronic	CACNA1H	.	.	.	.	0.12	.	rs112034409	.	rs112034409	.
+chr16	1232808	1232808	C	A	intronic	CACNA1H	.	.	intronic	CACNA1H	.	.	.	.	.	.	.	.	.	.
+chr16	1241997	1241997	G	A	intronic	CACNA1H	.	.	intronic	CACNA1H	.	.	.	.	0.29	.	rs11248859	.	rs11248859	.
+chr16	1244877	1244877	G	A	intronic	CACNA1H	.	.	intronic	CACNA1H	.	.	.	.	0.85	.	rs9936834	.	rs9936834	.
+chr16	1244887	1244887	T	A	intronic	CACNA1H	.	.	intronic	CACNA1H	.	.	.	.	0.35	.	rs3751661	.	rs3751661	.
+chr16	1245156	1245156	C	G	intronic	CACNA1H	.	.	intronic	CACNA1H	.	.	.	.	.	.	.	.	.	.
+chr16	1245162	1245162	C	G	intronic	CACNA1H	.	.	intronic	CACNA1H	.	.	.	.	.	.	.	.	.	.
+chr16	1245293	1245293	G	A	intronic	CACNA1H	.	.	intronic	CACNA1H	.	.	.	.	0.13	.	rs35250176	.	rs35250176	.
+chr16	1246255	1246255	A	C	intronic	CACNA1H	.	.	intronic	CACNA1H	.	.	.	.	0.34	.	rs1005453	.	rs1005453	.
+chr16	1246270	1246270	A	G	intronic	CACNA1H	.	.	intronic	CACNA1H	.	.	.	.	0.34	.	rs1005454	.	rs1005454	.
+chr16	1248371	1248371	C	T	intronic	CACNA1H	.	.	intronic	CACNA1H	.	.	.	.	0.15	.	rs11643076	.	rs11643076	.
+chr16	1248374	1248374	G	C	intronic	CACNA1H	.	.	intronic	CACNA1H	.	.	.	.	0.15	.	rs34569984	.	rs34569984	.
+chr16	1248890	1248890	C	T	intronic	CACNA1H	.	.	intronic	CACNA1H	.	.	.	.	0.07	.	rs35395847	.	rs35395847	.
+chr16	1248937	1248937	C	T	intronic	CACNA1H	.	.	intronic	CACNA1H	.	.	.	.	0.08	.	rs7500621	.	rs7500621	.
+chr16	1249051	1249051	C	T	intronic	CACNA1H	.	.	intronic	CACNA1H	.	.	.	.	0.16	.	rs113630167	.	rs113630167	.
+chr16	1249093	1249093	T	C	intronic	CACNA1H	.	.	intronic	CACNA1H	.	.	.	.	0.15	.	rs78749747	.	rs78749747	.
+chr16	1249101	1249101	A	G	intronic	CACNA1H	.	.	intronic	CACNA1H	.	.	.	.	0.14	.	rs192875240	.	rs192875240	.
+chr16	1249668	1249668	C	G	intronic	CACNA1H	.	.	intronic	CACNA1H	.	.	.	.	0.15	.	rs34997164	.	rs34997164	.
+chr16	1250389	1250389	A	G	exonic	CACNA1H	nonsynonymous SNV	CACNA1H:NM_001005407:exon7:c.A937G:p.M313V,CACNA1H:NM_021098:exon7:c.A937G:p.M313V	exonic	CACNA1H	nonsynonymous SNV	CACNA1H:ENST00000565831.1:exon6:c.A937G:p.M313V,CACNA1H:ENST00000348261.5:exon7:c.A937G:p.M313V,CACNA1H:ENST00000358590.4:exon7:c.A937G:p.M313V	.	Score=441;Name=lod=83	0.10	0.57	rs36117280	0.120132	rs36117280	.
+chr16	1250559	1250559	T	C	exonic	CACNA1H	synonymous SNV	CACNA1H:NM_001005407:exon7:c.T1107C:p.I369I,CACNA1H:NM_021098:exon7:c.T1107C:p.I369I	exonic	CACNA1H	synonymous SNV	CACNA1H:ENST00000565831.1:exon6:c.T1107C:p.I369I,CACNA1H:ENST00000348261.5:exon7:c.T1107C:p.I369I,CACNA1H:ENST00000358590.4:exon7:c.T1107C:p.I369I	.	.	0.34	.	rs8044363	0.438139	rs8044363	.
+chr16	1250933	1250933	A	G	intronic	CACNA1H	.	.	intronic	CACNA1H	.	.	.	.	.	.	.	.	.	.
+chr16	1250943	1250943	A	G	intronic	CACNA1H	.	.	intronic	CACNA1H	.	.	.	.	.	.	.	.	.	.
+chr16	1250949	1250949	C	G	intronic	CACNA1H	.	.	intronic	CACNA1H	.	.	.	.	.	.	.	.	.	.
+chr16	1251562	1251562	G	A	intronic	CACNA1H	.	.	intronic	CACNA1H	.	.	.	.	0.34	.	rs8043905	.	rs8043905	.
+chr16	1251803	1251803	C	T	exonic	CACNA1H	synonymous SNV	CACNA1H:NM_001005407:exon9:c.C1353T:p.S451S,CACNA1H:NM_021098:exon9:c.C1353T:p.S451S	exonic	CACNA1H	synonymous SNV	CACNA1H:ENST00000565831.1:exon8:c.C1353T:p.S451S,CACNA1H:ENST00000348261.5:exon9:c.C1353T:p.S451S,CACNA1H:ENST00000358590.4:exon9:c.C1353T:p.S451S	.	.	0.08	.	rs9922076	0.097159	rs9922076	ID=COSM434627,COSM434626;OCCURENCE=1(breast)
+chr16	1252118	1252118	C	T	exonic	CACNA1H	synonymous SNV	CACNA1H:NM_001005407:exon9:c.C1668T:p.P556P,CACNA1H:NM_021098:exon9:c.C1668T:p.P556P	exonic	CACNA1H	synonymous SNV	CACNA1H:ENST00000565831.1:exon8:c.C1668T:p.P556P,CACNA1H:ENST00000348261.5:exon9:c.C1668T:p.P556P,CACNA1H:ENST00000358590.4:exon9:c.C1668T:p.P556P	.	.	0.08	.	rs2407083	0.079210	rs2407083	.
+chr16	1252259	1252259	A	G	exonic	CACNA1H	synonymous SNV	CACNA1H:NM_001005407:exon9:c.A1809G:p.R603R,CACNA1H:NM_021098:exon9:c.A1809G:p.R603R	exonic	CACNA1H	synonymous SNV	CACNA1H:ENST00000565831.1:exon8:c.A1809G:p.R603R,CACNA1H:ENST00000348261.5:exon9:c.A1809G:p.R603R,CACNA1H:ENST00000358590.4:exon9:c.A1809G:p.R603R	.	Score=300;Name=lod=22	0.40	.	rs9934839	0.546069	rs9934839	.
+chr16	1252441	1252441	T	C	exonic	CACNA1H	nonsynonymous SNV	CACNA1H:NM_001005407:exon9:c.T1991C:p.V664A,CACNA1H:NM_021098:exon9:c.T1991C:p.V664A	exonic	CACNA1H	nonsynonymous SNV	CACNA1H:ENST00000565831.1:exon8:c.T1991C:p.V664A,CACNA1H:ENST00000348261.5:exon9:c.T1991C:p.V664A,CACNA1H:ENST00000358590.4:exon9:c.T1991C:p.V664A	.	Score=265;Name=lod=16	0.13	0.01	rs4984636	0.179784	rs4984636	ID=COSM1563262,COSM1563261;OCCURENCE=1(large_intestine)
+chr16	1253907	1253907	G	T	intronic	CACNA1H	.	.	intronic	CACNA1H	.	.	.	.	0.19	.	rs4984768	.	rs4984768	.
+chr16	1254791	1254791	C	T	intronic	CACNA1H	.	.	intronic	CACNA1H	.	.	.	.	0.15	.	rs71384633	.	rs71384633	.
+chr16	1254872	1254872	G	C	intronic	CACNA1H	.	.	intronic	CACNA1H	.	.	.	.	0.10	.	rs9930047	.	rs9930047	.
+chr16	1254956	1254960	GCCCC	CCCCA	intronic	CACNA1H	.	.	intronic	CACNA1H	.	.	.	.	.	.	.	.	.	.
+chr16	1254956	1254960	GCCCC	GCCCA	intronic	CACNA1H	.	.	intronic	CACNA1H	.	.	.	.	.	.	.	.	.	.
+chr16	1255030	1255030	A	G	intronic	CACNA1H	.	.	intronic	CACNA1H	.	.	.	.	0.62	.	rs2974835	.	rs2974835	.
+chr16	1255042	1255042	C	-	intronic	CACNA1H	.	.	intronic	CACNA1H	.	.	.	.	.	.	.	.	.	.
+chr16	1255058	1255058	T	G	intronic	CACNA1H	.	.	intronic	CACNA1H	.	.	.	.	0.15	.	rs8052049	.	rs8052049	.
+chr16	1255277	1255277	C	T	intronic	CACNA1H	.	.	intronic	CACNA1H	.	.	.	.	0.08	.	rs2745150	0.106048	rs2745150	.
+chr16	1255390	1255390	C	T	intronic	CACNA1H	.	.	intronic	CACNA1H	.	.	.	.	0.08	.	rs2745165	.	rs2745165	.
+chr16	1255545	1255545	T	C	intronic	CACNA1H	.	.	intronic	CACNA1H	.	.	.	.	0.32	.	rs2745167	.	rs2745167	.
+chr16	1255832	1255832	C	T	intronic	CACNA1H	.	.	intronic	CACNA1H	.	.	.	.	0.14	.	rs35482321	.	rs35482321	.
+chr16	1255885	1255885	A	G	intronic	CACNA1H	.	.	intronic	CACNA1H	.	.	.	.	0.29	.	rs8049080	.	rs8049080	.
+chr16	1256085	1256085	C	T	intronic	CACNA1H	.	.	intronic	CACNA1H	.	.	.	.	0.06	.	rs11646893	0.069944	rs11646893	.
+chr16	1256939	1256939	A	C	intronic	CACNA1H	.	.	ncRNA_intronic	RP11-616M22.3	.	.	.	.	.	.	.	.	.	.
+chr16	1257731	1257731	G	A	intronic	CACNA1H	.	.	intronic	CACNA1H	.	.	.	.	0.83	.	rs12930875	0.749510	rs12930875	.
+chr16	1257940	1257940	T	C	intronic	CACNA1H	.	.	intronic	CACNA1H	.	.	.	.	0.16	.	rs2738896	.	rs2738896	.
+chr16	1259456	1259456	G	C	intronic	CACNA1H	.	.	intronic	CACNA1H	.	.	.	.	0.06	.	rs2745166	0.083237	rs2745166	.
+chr16	1259727	1259727	G	A	intronic	CACNA1H	.	.	intronic	CACNA1H	.	.	.	.	0.48	.	rs12051002	.	rs12051002	.
+chr16	1260021	1260021	G	T	intronic	CACNA1H	.	.	intronic	CACNA1H	.	.	.	.	0.90	.	rs8056494	0.869356	rs8056494	.
+chr16	1260354	1260354	G	C	intronic	CACNA1H	.	.	intronic	CACNA1H	.	.	.	.	.	.	.	.	.	.
+chr16	1260360	1260360	G	C	intronic	CACNA1H	.	.	intronic	CACNA1H	.	.	.	.	.	.	.	.	.	.
+chr16	1260364	1260364	A	C	intronic	CACNA1H	.	.	intronic	CACNA1H	.	.	.	.	.	.	.	.	.	.
+chr16	1260481	1260481	T	C	exonic	CACNA1H	synonymous SNV	CACNA1H:NM_001005407:exon19:c.T3957C:p.D1319D,CACNA1H:NM_021098:exon19:c.T3957C:p.D1319D	exonic	CACNA1H	synonymous SNV	CACNA1H:ENST00000565831.1:exon18:c.T3957C:p.D1319D,CACNA1H:ENST00000348261.5:exon19:c.T3957C:p.D1319D,CACNA1H:ENST00000358590.4:exon19:c.T3957C:p.D1319D	.	Score=358;Name=lod=38	0.90	.	rs8063574	0.847037	rs8063574	.
+chr16	1260767	1260767	G	A	intronic	CACNA1H	.	.	intronic	CACNA1H	.	.	.	.	0.64	.	rs2738897	0.519203	rs2738897	.
+chr16	1261024	1261024	C	T	intronic	CACNA1H	.	.	intronic	CACNA1H	.	.	.	.	0.71	.	rs2738898	.	rs2738898	.
+chr16	1261119	1261119	G	A	intronic	CACNA1H	.	.	intronic	CACNA1H	.	.	.	.	0.72	.	rs2738899	0.631485	rs2738899	.
+chr16	1261219	1261222	ATCA	GTCG	exonic	CACNA1H	nonframeshift substitution	CACNA1H:NM_001005407:exon22:c.4275_4278GTCG,CACNA1H:NM_021098:exon22:c.4275_4278GTCG	exonic	CACNA1H	nonframeshift substitution	CACNA1H:ENST00000565831.1:exon21:c.4275_4278GTCG,CACNA1H:ENST00000348261.5:exon22:c.4275_4278GTCG,CACNA1H:ENST00000358590.4:exon22:c.4275_4278GTCG	.	Score=284;Name=lod=19	.	.	.	.	.	.
+chr16	1261282	1261282	T	C	exonic	CACNA1H	synonymous SNV	CACNA1H:NM_001005407:exon22:c.T4338C:p.I1446I,CACNA1H:NM_021098:exon22:c.T4338C:p.I1446I	exonic	CACNA1H	synonymous SNV	CACNA1H:ENST00000565831.1:exon21:c.T4338C:p.I1446I,CACNA1H:ENST00000348261.5:exon22:c.T4338C:p.I1446I,CACNA1H:ENST00000358590.4:exon22:c.T4338C:p.I1446I	.	Score=610;Name=lod=403	0.90	.	rs4984637	0.847972	rs4984637	.
+chr16	1261377	1261377	G	A	intronic	CACNA1H	.	.	intronic	CACNA1H	.	.	.	.	0.73	.	rs2738900	.	rs2738900	.
+chr16	1261516	1261516	C	T	exonic	CACNA1H	synonymous SNV	CACNA1H:NM_001005407:exon23:c.C4386T:p.P1462P,CACNA1H:NM_021098:exon23:c.C4386T:p.P1462P	exonic	CACNA1H	synonymous SNV	CACNA1H:ENST00000565831.1:exon22:c.C4386T:p.P1462P,CACNA1H:ENST00000348261.5:exon23:c.C4386T:p.P1462P,CACNA1H:ENST00000358590.4:exon23:c.C4386T:p.P1462P	.	.	0.0005	.	rs142856193	0.000161	rs142856193	.
+chr16	1262855	1262855	T	C	intronic	CACNA1H	.	.	intronic	CACNA1H	.	.	.	.	0.90	.	rs4984769	.	rs4984769	.
+chr16	1264302	1264302	C	T	intronic	CACNA1H	.	.	intronic	CACNA1H	.	.	.	.	0.89	.	rs10438679	.	rs10438679	.
+chr16	1265621	1265621	G	A	intronic	CACNA1H	.	.	intronic	CACNA1H	.	.	.	.	0.06	.	rs2753322	0.090366	rs2753322	.
+chr16	1265720	1265720	C	T	intronic	CACNA1H	.	.	intronic	CACNA1H	.	.	.	.	0.89	.	rs3897150	.	rs3897150	.
+chr16	1265854	1265854	C	T	intronic	CACNA1H	.	.	intronic	CACNA1H	.	.	.	.	0.46	.	rs12920709	.	rs12920709	.
+chr16	1266676	1266676	G	A	intronic	CACNA1H	.	.	intronic	CACNA1H	.	.	.	.	.	.	rs2753324	.	rs2753324	.
+chr16	1266803	1266804	CC	CTC	intronic	CACNA1H	.	.	intronic	CACNA1H	.	.	.	.	.	.	.	.	.	.
+chr16	1267380	1267380	C	G	intronic	CACNA1H	.	.	intronic	CACNA1H	.	.	.	.	0.90	.	rs4984770	.	rs4984770	.
+chr16	1267656	1267656	C	G	intronic	CACNA1H	.	.	intronic	CACNA1H	.	.	.	.	0.89	.	rs12930662	.	rs12930662	.
+chr16	1268044	1268044	C	T	intronic	CACNA1H	.	.	intronic	CACNA1H	.	.	.	.	0.0027	.	rs147142971	0.002319	rs147142971	.
+chr16	1268485	1268485	C	T	exonic	CACNA1H	synonymous SNV	CACNA1H:NM_001005407:exon32:c.C5703T:p.G1901G,CACNA1H:NM_021098:exon33:c.C5721T:p.G1907G	exonic	CACNA1H	synonymous SNV	CACNA1H:ENST00000565831.1:exon31:c.C5703T:p.G1901G,CACNA1H:ENST00000358590.4:exon32:c.C5703T:p.G1901G,CACNA1H:ENST00000348261.5:exon33:c.C5721T:p.G1907G	.	.	0.06	.	rs2738891	0.087461	rs2738891	.
+chr16	1268494	1268494	C	T	exonic	CACNA1H	synonymous SNV	CACNA1H:NM_001005407:exon32:c.C5712T:p.D1904D,CACNA1H:NM_021098:exon33:c.C5730T:p.D1910D	exonic	CACNA1H	synonymous SNV	CACNA1H:ENST00000565831.1:exon31:c.C5712T:p.D1904D,CACNA1H:ENST00000358590.4:exon32:c.C5712T:p.D1904D,CACNA1H:ENST00000348261.5:exon33:c.C5730T:p.D1910D	.	.	0.73	.	rs2745136	0.651011	rs2745136	ID=COSM434640,COSM434641;OCCURENCE=1(breast)
+chr16	1268758	1268758	A	G	intronic	CACNA1H	.	.	intronic	CACNA1H	.	.	.	.	0.83	.	rs2738892	.	rs2738892	.
+chr16	1269029	1269029	T	C	exonic	CACNA1H	synonymous SNV	CACNA1H:NM_001005407:exon33:c.T5929C:p.L1977L,CACNA1H:NM_021098:exon34:c.T5947C:p.L1983L	exonic	CACNA1H	synonymous SNV	CACNA1H:ENST00000565831.1:exon32:c.T5929C:p.L1977L,CACNA1H:ENST00000358590.4:exon33:c.T5929C:p.L1977L,CACNA1H:ENST00000348261.5:exon34:c.T5947C:p.L1983L	.	.	0.72	.	rs2738893	0.660443	rs2738893	.
+chr16	1269292	1269292	T	C	intronic	CACNA1H	.	.	intronic	CACNA1H	.	.	.	.	0.90	.	rs4496143	.	rs4496143	.
+chr16	1269422	1269422	T	C	intronic	CACNA1H	.	.	intronic	CACNA1H	.	.	.	.	0.91	.	rs7195608	.	rs7195608	.
+chr16	1270162	1270162	G	A	exonic	CACNA1H	nonsynonymous SNV	CACNA1H:NM_001005407:exon34:c.G6212A:p.R2071H,CACNA1H:NM_021098:exon35:c.G6230A:p.R2077H	exonic	CACNA1H	nonsynonymous SNV	CACNA1H:ENST00000565831.1:exon33:c.G6212A:p.R2071H,CACNA1H:ENST00000358590.4:exon34:c.G6212A:p.R2071H,CACNA1H:ENST00000348261.5:exon35:c.G6230A:p.R2077H	.	Score=272;Name=lod=17	0.73	0.16	rs1054645	0.646833	rs1054645	ID=COSM434645,COSM434644;OCCURENCE=1(breast)
+chr16	1270349	1270349	T	C	exonic	CACNA1H	synonymous SNV	CACNA1H:NM_001005407:exon34:c.T6399C:p.D2133D,CACNA1H:NM_021098:exon35:c.T6417C:p.D2139D	exonic	CACNA1H	synonymous SNV	CACNA1H:ENST00000565831.1:exon33:c.T6399C:p.D2133D,CACNA1H:ENST00000358590.4:exon34:c.T6399C:p.D2133D,CACNA1H:ENST00000348261.5:exon35:c.T6417C:p.D2139D	.	.	0.90	.	rs4247094	0.859674	rs4247094	.
+chr16	1271095	1271095	C	T	UTR3	CACNA1H	.	.	UTR3	CACNA1H	.	.	.	.	0.06	.	rs2745138	.	rs2745138	.
+chr16	1271189	1271189	G	A	UTR3	CACNA1H	.	.	UTR3	CACNA1H	.	.	.	.	0.71	.	rs2248457	.	rs2248457	.
+chr16	1277004	1277004	G	T	intergenic	TPSG1(dist=1750),TPSB2(dist=1332)	.	.	intergenic	TPSG1(dist=1747),TPSB2(dist=1332)	.	.	Score=0.983779;Name=chr16:1289042	.	.	.	.	.	.	.
+chr16	1278424	1278424	G	A	UTR3	TPSB2	.	.	UTR3	TPSB2	.	.	Score=0.983779;Name=chr16:1289042	.	0.53	.	rs1060341	.	rs1060341	.
+chr16	1278599	1278599	A	G	UTR3	TPSB2	.	.	UTR3	TPSB2	.	.	Score=0.983779;Name=chr16:1289042	.	0.99	.	rs4360940	0.975644	rs4360940	.
+chr16	1278744	1278744	C	T	exonic	TPSB2	nonsynonymous SNV	TPSB2:NM_024164:exon7:c.G734A:p.G245D	exonic	TPSB2	nonsynonymous SNV	TPSB2:ENST00000430512.2:exon7:c.G731A:p.G244D	Score=0.983779;Name=chr16:1289042	Score=445;Name=lod=86	0.36	.	rs1060292	.	rs1060292	.
+chr16	1278767	1278767	C	T	exonic	TPSB2	synonymous SNV	TPSB2:NM_024164:exon7:c.G711A:p.L237L	exonic	TPSB2	synonymous SNV	TPSB2:ENST00000430512.2:exon7:c.G708A:p.L236L	Score=0.983779;Name=chr16:1289042	Score=445;Name=lod=86	.	.	rs1060290	.	rs1060290	.
+chr16	1278806	1278806	G	A	exonic	TPSB2	synonymous SNV	TPSB2:NM_024164:exon7:c.C672T:p.S224S	exonic	TPSB2	synonymous SNV	TPSB2:ENST00000430512.2:exon7:c.C669T:p.S223S	Score=0.983779;Name=chr16:1289042	.	.	.	rs1137383	.	rs1137383	.
+chr16	1278847	1278847	A	G	intronic	TPSB2	.	.	intronic	TPSB2	.	.	Score=0.983779;Name=chr16:1289042	.	.	.	.	.	.	.
+chr16	1278852	1278852	T	G	intronic	TPSB2	.	.	intronic	TPSB2	.	.	Score=0.983779;Name=chr16:1289042	.	.	.	.	.	.	.
+chr16	1278856	1278858	AGT	GGG	intronic	TPSB2	.	.	intronic	TPSB2	.	.	Score=0.983779;Name=chr16:1289042	.	.	.	.	.	.	.
+chr16	1278865	1278865	T	G	intronic	TPSB2	.	.	intronic	TPSB2	.	.	Score=0.983779;Name=chr16:1289042	.	.	.	.	.	.	.
+chr16	1278870	1278872	GGC	TGC	intronic	TPSB2	.	.	intronic	TPSB2	.	.	Score=0.983779;Name=chr16:1289042	.	.	.	.	.	.	.
+chr16	1278870	1278872	GGC	GGG	intronic	TPSB2	.	.	intronic	TPSB2	.	.	Score=0.983779;Name=chr16:1289042	.	.	.	.	.	.	.
+chr16	1278888	1278888	G	C	intronic	TPSB2	.	.	intronic	TPSB2	.	.	Score=0.983779;Name=chr16:1289042	.	.	.	rs200768967	.	rs200768967	.
+chr16	1278950	1278950	C	T	exonic	TPSB2	nonsynonymous SNV	TPSB2:NM_024164:exon6:c.G613A:p.V205I	exonic	TPSB2	nonsynonymous SNV	TPSB2:ENST00000430512.2:exon6:c.G610A:p.V204I	Score=0.983779;Name=chr16:1289042	.	.	.	rs1060284	.	rs1060284	.
+chr16	1279041	1279041	A	G	exonic	TPSB2	synonymous SNV	TPSB2:NM_024164:exon6:c.T522C:p.P174P	exonic	TPSB2	synonymous SNV	TPSB2:ENST00000430512.2:exon6:c.T519C:p.P173P	Score=0.983779;Name=chr16:1289042	.	.	.	rs1141970	.	rs1141970	.
+chr16	1279060	1279060	C	G	exonic	TPSB2	nonsynonymous SNV	TPSB2:NM_024164:exon6:c.G503C:p.R168P	exonic	TPSB2	nonsynonymous SNV	TPSB2:ENST00000430512.2:exon6:c.G500C:p.R167P	Score=0.983779;Name=chr16:1289042	.	.	.	rs1141969	.	rs1141969	.
+chr16	1279091	1279091	C	G	intronic	TPSB2	.	.	intronic	TPSB2	.	.	Score=0.983779;Name=chr16:1289042	.	.	.	rs2234656	.	rs2234656	.
+chr16	1279119	1279129	GAGCCCAGAGG	-	intronic	TPSB2	.	.	intronic	TPSB2	.	.	Score=0.983779;Name=chr16:1289042	.	.	.	.	.	.	.
+chr16	1279173	1279173	-	C	intronic	TPSB2	.	.	intronic	TPSB2	.	.	Score=0.983779;Name=chr16:1289042	.	.	.	.	.	.	.
+chr16	1279237	1279245	CGGGGGGGA	CGGGGGGA	exonic	TPSB2	nonframeshift substitution	TPSB2:NM_024164:exon4:c.446_453TCCCCCCG	exonic	TPSB2	nonframeshift substitution	TPSB2:ENST00000430512.2:exon4:c.446_453TCCCCCCG	Score=0.983779;Name=chr16:1289042	.	.	.	.	.	.	.
+chr16	1279253	1279253	T	C	exonic	TPSB2	synonymous SNV	TPSB2:NM_024164:exon4:c.A438G:p.S146S	exonic	TPSB2	synonymous SNV	TPSB2:ENST00000430512.2:exon4:c.A438G:p.S146S	Score=0.983779;Name=chr16:1289042	.	.	.	rs1064783	.	rs1064783	.
+chr16	1279268	1279269	GG	CA	exonic	TPSB2	nonframeshift substitution	TPSB2:NM_024164:exon4:c.422_423TG	exonic	TPSB2	nonframeshift substitution	TPSB2:ENST00000430512.2:exon4:c.422_423TG	Score=0.983779;Name=chr16:1289042	Score=321;Name=lod=27	.	.	.	.	.	.
+chr16	1279284	1279284	T	C	exonic	TPSB2	nonsynonymous SNV	TPSB2:NM_024164:exon4:c.A407G:p.H136R	exonic	TPSB2	nonsynonymous SNV	TPSB2:ENST00000430512.2:exon4:c.A407G:p.H136R	Score=0.983779;Name=chr16:1289042	.	.	.	rs1064780	.	rs1064780	.
+chr16	1279294	1279294	C	T	exonic	TPSB2	nonsynonymous SNV	TPSB2:NM_024164:exon4:c.G397A:p.V133I	exonic	TPSB2	nonsynonymous SNV	TPSB2:ENST00000430512.2:exon4:c.G397A:p.V133I	Score=0.983779;Name=chr16:1289042	.	.	.	rs1064779	.	rs1064779	.
+chr16	1279301	1279301	C	G	exonic	TPSB2	synonymous SNV	TPSB2:NM_024164:exon4:c.G390C:p.P130P	exonic	TPSB2	synonymous SNV	TPSB2:ENST00000430512.2:exon4:c.G390C:p.P130P	Score=0.983779;Name=chr16:1289042	.	.	.	rs1064778	.	rs1064778	.
+chr16	1279328	1279328	G	A	exonic	TPSB2	synonymous SNV	TPSB2:NM_024164:exon4:c.C363T:p.D121D	exonic	TPSB2	synonymous SNV	TPSB2:ENST00000430512.2:exon4:c.C363T:p.D121D	Score=0.983779;Name=chr16:1289042	Score=361;Name=lod=39	.	.	rs1064777	.	rs1064777	.
+chr16	1279337	1279338	GA	AG	exonic	TPSB2	nonframeshift substitution	TPSB2:NM_024164:exon4:c.353_354CT	exonic	TPSB2	nonframeshift substitution	TPSB2:ENST00000430512.2:exon4:c.353_354CT	Score=0.983779;Name=chr16:1289042	.	.	.	.	.	.	.
+chr16	1279344	1279347	GCGG	ATGA	exonic	TPSB2	nonframeshift substitution	TPSB2:NM_024164:exon4:c.344_347TCAT	exonic	TPSB2	nonframeshift substitution	TPSB2:ENST00000430512.2:exon4:c.344_347TCAT	Score=0.983779;Name=chr16:1289042	.	.	.	.	.	.	.
+chr16	1279438	1279438	C	T	exonic	TPSB2	nonsynonymous SNV	TPSB2:NM_024164:exon4:c.G253A:p.A85T	exonic	TPSB2	nonsynonymous SNV	TPSB2:ENST00000430512.2:exon4:c.G253A:p.A85T	Score=0.983779;Name=chr16:1289042	.	.	.	rs1141968	.	rs1141968	ID=COSM1478518;OCCURENCE=1(breast)
+chr16	1279537	1279537	C	G	intronic	TPSB2	.	.	intronic	TPSB2	.	.	Score=0.983779;Name=chr16:1289042	.	0.28	.	rs188458795	.	rs188458795	.
+chr16	1279545	1279545	T	C	intronic	TPSB2	.	.	intronic	TPSB2	.	.	Score=0.983779;Name=chr16:1289042	.	.	.	rs1800990	.	rs1800990	.
+chr16	1279555	1279555	C	T	intronic	TPSB2	.	.	intronic	TPSB2	.	.	Score=0.983779;Name=chr16:1289042	.	0.32	.	rs148897236	.	rs148897236	.
+chr16	1279574	1279574	C	G	exonic	TPSB2	nonsynonymous SNV	TPSB2:NM_024164:exon3:c.G226C:p.V76L	exonic	TPSB2	nonsynonymous SNV	TPSB2:ENST00000430512.2:exon3:c.G226C:p.V76L	Score=0.983779;Name=chr16:1289042	.	.	.	rs199887053	.	rs199887053	.
+chr16	1279584	1279584	T	C	exonic	TPSB2	synonymous SNV	TPSB2:NM_024164:exon3:c.A216G:p.A72A	exonic	TPSB2	synonymous SNV	TPSB2:ENST00000430512.2:exon3:c.A216G:p.A72A	Score=0.983779;Name=chr16:1289042	.	.	.	rs111992451	.	rs111992451	.
+chr16	1279623	1279623	G	A	exonic	TPSB2	synonymous SNV	TPSB2:NM_024164:exon3:c.C177T:p.C59C	exonic	TPSB2	synonymous SNV	TPSB2:ENST00000430512.2:exon3:c.C177T:p.C59C	Score=0.983779;Name=chr16:1289042	Score=387;Name=lod=50	0.38	.	rs2230084	0.298184	rs2230084	.
+chr16	1279704	1279704	A	G	exonic	TPSB2	synonymous SNV	TPSB2:NM_024164:exon3:c.T96C:p.V32V	exonic	TPSB2	synonymous SNV	TPSB2:ENST00000430512.2:exon3:c.T96C:p.V32V	Score=0.983779;Name=chr16:1289042	.	.	.	rs202107419	.	rs202107419	.
+chr16	1279710	1279717	GCCCACTC	ACCCGCTT	exonic	TPSB2	nonframeshift substitution	TPSB2:NM_024164:exon3:c.83_90AAGCGGGT	exonic	TPSB2	nonframeshift substitution	TPSB2:ENST00000430512.2:exon3:c.83_90AAGCGGGT	Score=0.983779;Name=chr16:1289042	Score=325;Name=lod=28	.	.	.	.	.	.
+chr16	1279732	1279732	C	A	exonic	TPSB2	nonsynonymous SNV	TPSB2:NM_024164:exon3:c.G68T:p.G23V	exonic	TPSB2	nonsynonymous SNV	TPSB2:ENST00000430512.2:exon3:c.G68T:p.G23V	Score=0.983779;Name=chr16:1289042	.	.	.	rs1141965	.	rs1141965	.
+chr16	1279778	1279778	G	C	intronic	TPSB2	.	.	intronic	TPSB2	.	.	Score=0.983779;Name=chr16:1289042	.	.	.	rs1800985	.	rs1800985	.
+chr16	1279816	1279817	GA	AG	intronic	TPSB2	.	.	intronic	TPSB2	.	.	Score=0.983779;Name=chr16:1289042	.	.	.	.	.	.	.
+chr16	1279816	1279817	GA	GG	intronic	TPSB2	.	.	intronic	TPSB2	.	.	Score=0.983779;Name=chr16:1289042	.	.	.	.	.	.	.
+chr16	1280087	1280087	G	C	intronic	TPSB2	.	.	intronic	TPSB2	.	.	Score=0.983779;Name=chr16:1289042	.	0.48	.	rs143547788	.	rs143547788	.
+chr16	1288795	1288796	TA	-	intergenic	TPSB2(dist=8610),TPSAB1(dist=1882)	.	.	intergenic	TPSB2(dist=8581),TPSAB1(dist=1901)	.	.	Score=0.969919;Name=chr16:1297504	Score=259;Name=lod=15	.	.	rs58792599	.	rs58792599	.
+chr16	1290805	1290805	C	G	intronic	TPSAB1	.	.	UTR5	TPSAB1	.	.	Score=0.983779;Name=chr16:1275687	.	.	.	rs1800982	.	rs1800982	.
+chr16	1290818	1290818	C	T	intronic	TPSAB1	.	.	UTR5	TPSAB1	.	.	Score=0.983779;Name=chr16:1275687	.	.	.	rs760212	.	rs760212	.
+chr16	1291075	1291075	T	C	intronic	TPSAB1	.	.	intronic	TPSAB1	.	.	Score=0.983779;Name=chr16:1275687	.	.	.	rs71380253	.	rs71380253	.
+chr16	1291188	1291188	C	T	exonic	TPSAB1	synonymous SNV	TPSAB1:NM_003294:exon3:c.C96T:p.V32V	exonic	TPSAB1	synonymous SNV	TPSAB1:ENST00000461509.2:exon2:c.C117T:p.V39V,TPSAB1:ENST00000338844.3:exon3:c.C96T:p.V32V	Score=0.983779;Name=chr16:1275687	Score=340;Name=lod=32	0.20	.	rs17434400	.	rs17434400	ID=COSM434652;OCCURENCE=1(breast)
+chr16	1291318	1291318	G	C	exonic	TPSAB1	nonsynonymous SNV	TPSAB1:NM_003294:exon3:c.G226C:p.V76L	exonic	TPSAB1	nonsynonymous SNV	TPSAB1:ENST00000561736.1:exon1:c.G67C:p.V23L,TPSAB1:ENST00000461509.2:exon2:c.G247C:p.V83L,TPSAB1:ENST00000338844.3:exon3:c.G226C:p.V76L	Score=0.983779;Name=chr16:1275687	Score=369;Name=lod=42	.	0.2	rs151324823	.	rs151324823	.
+chr16	1291337	1291337	G	A	intronic	TPSAB1	.	.	intronic	TPSAB1	.	.	Score=0.983779;Name=chr16:1275687	.	.	.	rs200843295	.	rs200843295	.
+chr16	1291355	1291355	G	C	intronic	TPSAB1	.	.	intronic	TPSAB1	.	.	Score=0.983779;Name=chr16:1275687	.	.	.	rs112842602	.	rs112842602	.
+chr16	1291454	1291454	G	A	exonic	TPSAB1	nonsynonymous SNV	TPSAB1:NM_003294:exon4:c.G253A:p.A85T	exonic	TPSAB1	nonsynonymous SNV	TPSAB1:ENST00000461509.2:exon3:c.G274A:p.A92T,TPSAB1:ENST00000338844.3:exon4:c.G253A:p.A85T	Score=0.983779;Name=chr16:1275687	.	.	0.66	rs1141968	.	rs1141968	ID=COSM1478520;OCCURENCE=2(breast)
+chr16	1291597	1291597	C	G	exonic	TPSAB1	nonsynonymous SNV	TPSAB1:NM_003294:exon4:c.C396G:p.N132K	exonic	TPSAB1	nonsynonymous SNV	TPSAB1:ENST00000561736.1:exon2:c.C210G:p.N70K,TPSAB1:ENST00000461509.2:exon3:c.C417G:p.N139K,TPSAB1:ENST00000338844.3:exon4:c.C396G:p.N132K	Score=0.983779;Name=chr16:1275687	.	0.45	0.1	rs144979264	0.380575	rs144979264	.
+chr16	1292003	1292003	C	G	intronic	TPSAB1	.	.	intronic	TPSAB1	.	.	Score=0.983779;Name=chr16:1275687	.	.	.	rs199639987	.	rs199639987	.
+chr16	1292021	1292021	C	A	intronic	TPSAB1	.	.	intronic	TPSAB1	.	.	Score=0.983779;Name=chr16:1275687	.	.	.	rs200521594	.	rs200521594	.
+chr16	1292425	1292425	T	C	UTR3	TPSAB1	.	.	UTR3	TPSAB1	.	.	Score=0.983779;Name=chr16:1275687	.	.	.	rs67723611	.	rs67723611	.
+chr16	1294912	1294912	-	G	intergenic	TPSAB1(dist=2357),TPSD1(dist=11361)	.	.	intergenic	TPSAB1(dist=2357),TPSD1(dist=11148)	.	.	Score=0.983779;Name=chr16:1275687	.	.	.	.	.	.	.
+chr16	1295793	1295793	G	A	intergenic	TPSAB1(dist=3238),TPSD1(dist=10480)	.	.	intergenic	TPSAB1(dist=3238),TPSD1(dist=10267)	.	.	.	.	0.27	.	rs35375463	.	rs35375463	.
+chr16	1297145	1297145	A	C	intergenic	TPSAB1(dist=4590),TPSD1(dist=9128)	.	.	intergenic	TPSAB1(dist=4590),TPSD1(dist=8915)	.	.	.	.	0.83	.	rs9927989	.	rs9927989	.
+chr16	1305587	1305587	C	T	upstream	TPSD1	.	.	upstream	TPSD1	.	.	Score=0.969919;Name=chr16:1278547	.	.	.	rs192983454	.	rs192983454	.
+chr16	1306040	1306040	C	G	upstream	TPSD1	.	.	upstream	TPSD1	.	.	Score=0.969919;Name=chr16:1278547	.	0.84	.	rs2003630	.	rs2003630	.
+chr16	1306126	1306126	C	T	upstream	TPSD1	.	.	intronic	TPSD1	.	.	Score=0.969919;Name=chr16:1278547	.	0.28	.	rs2092385	.	rs2092385	.
+chr16	1306346	1306347	CG	GC	exonic	TPSD1	nonframeshift substitution	TPSD1:NM_012217:exon1:c.65_66GC	exonic	TPSD1	nonframeshift substitution	TPSD1:ENST00000211076.3:exon1:c.65_66GC,TPSD1:ENST00000397534.2:exon2:c.44_45GC	Score=0.969919;Name=chr16:1278547	.	.	.	.	.	.	.
+chr16	1306355	1306355	T	C	exonic	TPSD1	nonsynonymous SNV	TPSD1:NM_012217:exon1:c.T74C:p.V25A	exonic	TPSD1	nonsynonymous SNV	TPSD1:ENST00000211076.3:exon1:c.T74C:p.V25A,TPSD1:ENST00000397534.2:exon2:c.T53C:p.V18A	Score=0.969919;Name=chr16:1278547	.	0.71	0.21	rs1800984	0.601401	rs1800984	ID=COSM1563251;OCCURENCE=1(large_intestine)
+chr16	1306410	1306410	A	G	intronic	TPSD1	.	.	intronic	TPSD1	.	.	Score=0.969919;Name=chr16:1278547	.	.	.	rs3993979	.	rs3993979	.
+chr16	1306439	1306439	C	T	intronic	TPSD1	.	.	intronic	TPSD1	.	.	Score=0.969919;Name=chr16:1278547	.	.	.	rs2401941	.	rs2401941	.
+chr16	1306469	1306469	T	G	intronic	TPSD1	.	.	intronic	TPSD1	.	.	Score=0.969919;Name=chr16:1278547	.	.	.	rs2401940	.	rs2401940	.
+chr16	1306484	1306484	G	T	intronic	TPSD1	.	.	intronic	TPSD1	.	.	Score=0.969919;Name=chr16:1278547	.	.	.	rs2401939	.	rs2401939	.
+chr16	1306671	1306671	G	A	exonic	TPSD1	synonymous SNV	TPSD1:NM_012217:exon2:c.G237A:p.A79A	exonic	TPSD1	synonymous SNV	TPSD1:ENST00000211076.3:exon2:c.G237A:p.A79A,TPSD1:ENST00000397534.2:exon3:c.G216A:p.A72A	Score=0.969919;Name=chr16:1278547	.	0.40	.	rs1141966	0.304371	rs1141966	.
+chr16	1306681	1306681	G	A	exonic	TPSD1	nonsynonymous SNV	TPSD1:NM_012217:exon2:c.G247A:p.V83M	exonic	TPSD1	nonsynonymous SNV	TPSD1:ENST00000211076.3:exon2:c.G247A:p.V83M,TPSD1:ENST00000397534.2:exon3:c.G226A:p.V76M	Score=0.969919;Name=chr16:1278547	.	0.45	0.01	rs1141967	0.304063	rs1141967	.
+chr16	1306802	1306802	A	G	exonic	TPSD1	nonsynonymous SNV	TPSD1:NM_012217:exon3:c.A259G:p.I87V	exonic	TPSD1	nonsynonymous SNV	TPSD1:ENST00000211076.3:exon3:c.A259G:p.I87V,TPSD1:ENST00000397534.2:exon4:c.A238G:p.I80V	Score=0.969919;Name=chr16:1278547	.	.	0.34	rs2401930	.	rs2401930	.
+chr16	1306817	1306817	G	A	exonic	TPSD1	nonsynonymous SNV	TPSD1:NM_012217:exon3:c.G274A:p.A92T	exonic	TPSD1	nonsynonymous SNV	TPSD1:ENST00000211076.3:exon3:c.G274A:p.A92T,TPSD1:ENST00000397534.2:exon4:c.G253A:p.A85T	Score=0.969919;Name=chr16:1278547	.	.	0.6	rs1141968	.	rs1141968	ID=COSM226769;OCCURENCE=1(skin)
+chr16	1306918	1306921	CGGG	TGGA	exonic	TPSD1	nonframeshift substitution	TPSD1:NM_012217:exon3:c.375_378TGGA	exonic	TPSD1	nonframeshift substitution	TPSD1:ENST00000211076.3:exon3:c.375_378TGGA,TPSD1:ENST00000397534.2:exon4:c.354_357TGGA	Score=0.969919;Name=chr16:1278547	.	.	.	.	.	.	.
+chr16	1306927	1306927	C	T	exonic	TPSD1	synonymous SNV	TPSD1:NM_012217:exon3:c.C384T:p.D128D	exonic	TPSD1	synonymous SNV	TPSD1:ENST00000211076.3:exon3:c.C384T:p.D128D,TPSD1:ENST00000397534.2:exon4:c.C363T:p.D121D	Score=0.969919;Name=chr16:1278547	Score=374;Name=lod=44	0.36	.	rs79472859	.	rs79472859	ID=COSM148003;OCCURENCE=1(stomach)
+chr16	1306971	1306973	ACA	GCG	exonic	TPSD1	nonframeshift substitution	TPSD1:NM_012217:exon3:c.428_430GCG	exonic	TPSD1	nonframeshift substitution	TPSD1:ENST00000211076.3:exon3:c.428_430GCG,TPSD1:ENST00000397534.2:exon4:c.407_409GCG	Score=0.969919;Name=chr16:1278547	.	.	.	.	.	.	.
+chr16	1306986	1306986	C	T	exonic	TPSD1	nonsynonymous SNV	TPSD1:NM_012217:exon3:c.C443T:p.T148M	exonic	TPSD1	nonsynonymous SNV	TPSD1:ENST00000211076.3:exon3:c.C443T:p.T148M,TPSD1:ENST00000397534.2:exon4:c.C422T:p.T141M	Score=0.969919;Name=chr16:1278547	Score=272;Name=lod=17	0.35	0.05	rs72775467	.	rs72775467	ID=COSM1579273;OCCURENCE=1(NS)
+chr16	1307050	1307050	C	T	exonic	TPSD1	synonymous SNV	TPSD1:NM_012217:exon3:c.C507T:p.D169D	exonic	TPSD1	synonymous SNV	TPSD1:ENST00000211076.3:exon3:c.C507T:p.D169D,TPSD1:ENST00000397534.2:exon4:c.C486T:p.D162D	Score=0.969919;Name=chr16:1278547	.	.	0.01	.	.	.	.
+chr16	1307060	1307060	A	G	exonic	TPSD1	nonsynonymous SNV	TPSD1:NM_012217:exon3:c.A517G:p.N173D	exonic	TPSD1	nonsynonymous SNV	TPSD1:ENST00000211076.3:exon3:c.A517G:p.N173D,TPSD1:ENST00000397534.2:exon4:c.A496G:p.N166D	Score=0.969919;Name=chr16:1278547	.	.	0.09	rs201543585	.	rs201543585	.
+chr16	1307069	1307071	TGT	TC	intronic	TPSD1	.	.	intronic	TPSD1	.	.	Score=0.969919;Name=chr16:1278547	.	.	.	.	.	.	.
+chr16	1307081	1307081	C	T	intronic	TPSD1	.	.	intronic	TPSD1	.	.	Score=0.969919;Name=chr16:1278547	.	.	.	.	.	.	.
+chr16	1307088	1307089	CC	TG	intronic	TPSD1	.	.	intronic	TPSD1	.	.	Score=0.969919;Name=chr16:1278547	.	.	.	.	.	.	.
+chr16	1307097	1307108	GTGGGCACCAAG	GG	intronic	TPSD1	.	.	intronic	TPSD1	.	.	Score=0.969919;Name=chr16:1278547	.	.	.	.	.	.	.
+chr16	1307111	1307112	AC	TT	intronic	TPSD1	.	.	intronic	TPSD1	.	.	Score=0.969919;Name=chr16:1278547	.	.	.	.	.	.	.
+chr16	1307121	1307121	G	C	intronic	TPSD1	.	.	intronic	TPSD1	.	.	Score=0.969919;Name=chr16:1278547	.	.	.	.	.	.	.
+chr16	1307126	1307129	TCCG	CCCC	intronic	TPSD1	.	.	intronic	TPSD1	.	.	Score=0.969919;Name=chr16:1278547	.	.	.	.	.	.	.
+chr16	1307296	1307296	C	T	intronic	TPSD1	.	.	intronic	TPSD1	.	.	Score=0.969919;Name=chr16:1278547	.	0.42	.	rs12917724	.	rs12917724	.
+chr16	1308686	1308686	-	C	downstream	TPSD1	.	.	downstream	RP11-616M22.5,TPSD1	.	.	.	.	.	.	.	.	.	.
+chr16	1308707	1308707	T	C	downstream	TPSD1	.	.	downstream	RP11-616M22.5,TPSD1	.	.	.	.	0.64	.	rs2982419	.	rs2982419	.
+chr16	1308714	1308714	T	G	downstream	TPSD1	.	.	downstream	RP11-616M22.5,TPSD1	.	.	.	.	.	.	.	.	.	.
+chr16	1308752	1308752	T	G	downstream	TPSD1	.	.	downstream	RP11-616M22.5,TPSD1	.	.	.	.	0.07	.	rs189557064	.	rs189557064	.
+chr16	1308760	1308765	TCCCTC	CCACTG	downstream	TPSD1	.	.	downstream	RP11-616M22.5,TPSD1	.	.	.	.	.	.	.	.	.	.
+chr16	1308778	1308778	C	T	downstream	TPSD1	.	.	downstream	RP11-616M22.5,TPSD1	.	.	.	.	.	.	.	.	.	.
+chr16	1308840	1308840	C	A	downstream	TPSD1	.	.	downstream	RP11-616M22.5,TPSD1	.	.	.	.	0.06	.	rs145972767	.	rs145972767	.
+chr16	1308851	1308857	GCCCCCT	GCCCCT	downstream	TPSD1	.	.	downstream	RP11-616M22.5,TPSD1	.	.	.	.	.	.	.	.	.	.
+chr16	1312826	1312826	A	G	intergenic	TPSD1(dist=4332),UBE2I(dist=46328)	.	.	ncRNA_exonic	PRSS29P	.	.	.	.	0.52	.	rs7184111	.	rs7184111	.
+chr16	1312976	1312976	T	G	intergenic	TPSD1(dist=4482),UBE2I(dist=46178)	.	.	ncRNA_exonic	PRSS29P	.	.	.	.	0.50	.	rs8048322	.	rs8048322	.
+chr16	1313637	1313637	T	C	intergenic	TPSD1(dist=5143),UBE2I(dist=45517)	.	.	ncRNA_exonic	PRSS29P	.	.	.	.	0.74	.	rs11641981	.	rs11641981	.
+chr16	1315705	1315705	G	C	intergenic	TPSD1(dist=7211),UBE2I(dist=43449)	.	.	intergenic	PRSS29P(dist=1859),RP11-616M22.10(dist=8047)	.	.	.	Score=333;Name=lod=30	0.74	.	rs12931273	.	rs12931273	.
+chr16	1326381	1326381	C	T	intergenic	TPSD1(dist=17887),UBE2I(dist=32773)	.	.	ncRNA_exonic	RP11-616M22.10	.	.	.	Score=457;Name=lod=96	0.50	.	rs1883558	.	rs1883558	.
+chr16	1354720	1354720	C	G	intergenic	TPSD1(dist=46226),UBE2I(dist=4434)	.	.	intergenic	RP11-616M22.7(dist=5553),UBE2I(dist=4161)	.	.	.	.	0.93	.	rs6600130	.	rs6600130	.
+chr16	1361547	1361547	C	A	intronic	UBE2I	.	.	intronic	UBE2I	.	.	.	.	.	.	.	.	.	.
+chr16	1363742	1363742	C	G	intronic	UBE2I	.	.	UTR5	UBE2I	.	.	.	.	0.94	.	rs9926094	.	rs9926094	.
+chr16	1363795	1363797	GAG	GAAG	intronic	UBE2I	.	.	UTR5	UBE2I	.	.	.	.	.	.	.	.	.	.
+chr16	1364140	1364140	T	C	intronic	UBE2I	.	.	intronic	UBE2I	.	.	.	.	0.94	.	rs9941160	0.910357	rs9941160	.
+chr16	1364281	1364281	T	C	intronic	UBE2I	.	.	intronic	UBE2I	.	.	.	.	0.94	.	rs4984806	0.910357	rs4984806	.
+chr16	1365250	1365250	G	A	intronic	UBE2I	.	.	intronic	UBE2I	.	.	.	.	0.94	.	rs8063596	.	rs8063596	.
+chr16	1365325	1365325	C	A	intronic	UBE2I	.	.	intronic	UBE2I	.	.	.	.	0.61	.	rs12918274	.	rs12918274	.
+chr16	1365341	1365341	G	A	intronic	UBE2I	.	.	intronic	UBE2I	.	.	.	.	0.59	.	rs11248866	.	rs11248866	.
+chr16	1365935	1365935	C	G	intronic	UBE2I	.	.	intronic	UBE2I	.	.	.	.	0.94	.	rs4984807	.	rs4984807	.
+chr16	1365967	1365967	C	T	intronic	UBE2I	.	.	intronic	UBE2I	.	.	.	.	0.60	.	rs4984808	.	rs4984808	.
+chr16	1366048	1366048	A	G	intronic	UBE2I	.	.	intronic	UBE2I	.	.	.	.	0.60	.	rs4984809	.	rs4984809	.
+chr16	1366070	1366070	A	G	intronic	UBE2I	.	.	intronic	UBE2I	.	.	.	.	0.94	.	rs4984810	.	rs4984810	.
+chr16	1366079	1366079	G	A	intronic	UBE2I	.	.	intronic	UBE2I	.	.	.	.	0.04	.	rs75998799	.	rs75998799	.
+chr16	1369926	1369926	T	C	intronic	UBE2I	.	.	ncRNA_exonic	LA16c-358B7.3	.	.	.	.	0.94	.	rs909915	.	rs909915	.
+chr16	1370303	1370303	T	C	intronic	UBE2I	.	.	ncRNA_exonic	LA16c-358B7.3	.	.	.	.	0.94	.	rs909916	0.910602	rs909916	.
+chr16	1370309	1370309	C	G	intronic	UBE2I	.	.	ncRNA_exonic	LA16c-358B7.3	.	.	.	.	0.94	.	rs909917	0.910756	rs909917	.
+chr16	1370597	1370597	G	C	intronic	UBE2I	.	.	exonic	UBE2I	nonsynonymous SNV	UBE2I:ENST00000402301.1:exon5:c.G492C:p.R164S	.	.	0.94	1	rs4017786	.	rs4017786	.
+chr16	1370614	1370614	C	G	intronic	UBE2I	.	.	exonic	UBE2I	nonsynonymous SNV	UBE2I:ENST00000402301.1:exon5:c.C509G:p.T170R	.	.	0.94	0.96	rs8063770	.	rs8063770	.
+chr16	1370630	1370630	A	G	intronic	UBE2I	.	.	exonic	UBE2I	synonymous SNV	UBE2I:ENST00000402301.1:exon5:c.A525G:p.P175P	.	.	0.94	.	rs8043720	.	rs8043720	.
+chr16	1370729	1370729	C	A	intronic	UBE2I	.	.	ncRNA_exonic	LA16c-358B7.3	.	.	.	.	0.94	.	rs909918	.	rs909918	.
+chr16	1370752	1370753	CG	CAGG	intronic	UBE2I	.	.	ncRNA_exonic	LA16c-358B7.3	.	.	.	.	.	.	.	.	.	.
+chr16	1370868	1370868	A	G	intronic	UBE2I	.	.	ncRNA_exonic	LA16c-358B7.3	.	.	.	.	1.00	.	rs909919	.	rs909919	.
+chr16	1374404	1374404	-	G	intronic	UBE2I	.	.	intronic	UBE2I	.	.	.	.	.	.	.	.	.	.
+chr16	1374513	1374513	G	A	intronic	UBE2I	.	.	intronic	UBE2I	.	.	.	.	0.93	.	rs2369700	.	rs2369700	.
+chr16	1374524	1374524	A	G	intronic	UBE2I	.	.	intronic	UBE2I	.	.	.	.	0.66	.	rs761059	.	rs761059	.
+chr16	1374656	1374656	A	G	intronic	UBE2I	.	.	intronic	UBE2I	.	.	.	.	0.80	.	rs761060	.	rs761060	.
+chr16	1374818	1374818	A	G	UTR3	UBE2I	.	.	UTR3	UBE2I	.	.	.	.	0.68	.	rs8063	0.624558	rs8063	.
+chr16	1374951	1374951	C	G	UTR3	UBE2I	.	.	UTR3	UBE2I	.	.	.	.	0.04	.	rs9597	.	rs9597	.
+chr16	1375563	1375563	G	T	UTR3	UBE2I	.	.	UTR3	UBE2I	.	.	.	.	0.94	.	rs8050313	.	rs8050313	.
+chr16	1378069	1378069	A	G	intergenic	UBE2I(dist=1050),BAIAP3(dist=5537)	.	.	intergenic	UBE2I(dist=1050),RPS20P2(dist=1010)	.	.	.	.	0.49	.	rs4984811	.	rs4984811	.
+chr16	1407441	1407441	A	G	intronic	GNPTG	.	.	intronic	GNPTG	.	.	.	.	0.94	.	rs6600137	.	rs6600137	.
+chr16	1413427	1413427	G	A	UTR3	UNKL	.	.	UTR3	UNKL	.	.	.	Score=259;Name=lod=15	0.09	.	rs116345826	.	rs116345826	.
+chr16	1416890	1416910	AGGAAAGGCGGCTCCCAGGGA	AGGAAAGGCGGCTCCCAGGGGGAAAGGCGGCTCCCAGGGA	intronic	UNKL	.	.	intronic	UNKL	.	.	.	.	.	.	.	.	.	.
+chr16	1417408	1417408	T	C	intronic	UNKL	.	.	intronic	UNKL	.	.	.	.	0.94	.	rs4984823	.	rs4984823	.
+chr16	1417506	1417513	CCTCCCTC	-	intronic	UNKL	.	.	intronic	UNKL	.	.	.	Score=295;Name=lod=21	.	.	.	.	.	.
+chr16	1419667	1419667	A	G	intronic	UNKL	.	.	intronic	UNKL	.	.	.	.	0.99	.	rs11866615	.	rs11866615	.
+chr16	1419691	1419691	G	A	intronic	UNKL	.	.	intronic	UNKL	.	.	.	.	0.94	.	rs11862246	.	rs11862246	.
+chr16	1419947	1419947	A	G	exonic	UNKL	synonymous SNV	UNKL:NM_001276414:exon3:c.T61C:p.L21L	exonic	UNKL	synonymous SNV	UNKL:ENST00000391893.2:exon1:c.T61C:p.L21L,UNKL:ENST00000248104.7:exon3:c.T61C:p.L21L	.	.	0.96	.	rs11248874	0.939991	rs11248874	.
+chr16	1420487	1420487	A	G	intronic	UNKL	.	.	intronic	UNKL	.	.	.	.	0.94	.	rs12597285	.	rs12597285	.
+chr16	1420556	1420556	A	G	intronic	UNKL	.	.	intronic	UNKL	.	.	.	.	0.95	.	rs10903007	.	rs10903007	.
+chr16	1421797	1421797	T	G	intronic	UNKL	.	.	intronic	UNKL	.	.	.	.	0.94	.	rs4984824	.	rs4984824	.
+chr16	1421858	1421858	A	C	intronic	UNKL	.	.	intronic	UNKL	.	.	.	.	0.94	.	rs4984646	.	rs4984646	.
+chr16	1426050	1426050	T	C	intronic	UNKL	.	.	intronic	UNKL	.	.	.	.	0.94	.	rs2369696	.	rs2369696	.
+chr16	1426587	1426587	T	C	intronic	UNKL	.	.	intronic	UNKL	.	.	.	Score=309;Name=lod=24	0.92	.	rs9926672	.	rs9926672	.
+chr16	1440299	1440299	G	T	intronic	UNKL	.	.	intronic	UNKL	.	.	.	.	0.94	.	rs11248876	.	rs11248876	.
+chr16	1440385	1440385	C	G	intronic	UNKL	.	.	intronic	UNKL	.	.	.	.	0.96	.	rs9923746	.	rs9923746	.
+chr16	1442466	1442466	T	C	intronic	UNKL	.	.	intronic	UNKL	.	.	.	.	0.94	.	rs4984829	.	rs4984829	.
+chr16	1446782	1446782	A	G	intronic	UNKL	.	.	intronic	UNKL	.	.	.	.	0.92	.	rs2103664	.	rs2103664	.
+chr16	1446813	1446813	T	C	intronic	UNKL	.	.	intronic	UNKL	.	.	.	.	0.96	.	rs4017785	.	rs4017785	.
+chr16	1446883	1446883	A	C	intronic	UNKL	.	.	intronic	UNKL	.	.	.	.	0.95	.	rs6600140	.	rs6600140	.
+chr16	1447278	1447278	A	G	exonic	UNKL	synonymous SNV	UNKL:NM_001193388:exon6:c.T753C:p.S251S	exonic	UNKL	synonymous SNV	UNKL:ENST00000389221.4:exon6:c.T753C:p.S251S,UNKL:ENST00000508903.2:exon6:c.T753C:p.S251S,UNKL:ENST00000397462.1:exon8:c.T1062C:p.S354S	.	Score=463;Name=lod=102	0.83	.	rs61738727	.	rs61738727	.
+chr16	1447319	1447319	G	A	intronic	UNKL	.	.	intronic	UNKL	.	.	.	.	.	.	rs79486249	.	rs79486249	.
+chr16	1447342	1447342	C	T	intronic	UNKL	.	.	intronic	UNKL	.	.	.	.	.	.	rs8048702	.	rs8048702	.
+chr16	1447452	1447452	G	A	intronic	UNKL	.	.	intronic	UNKL	.	.	.	.	0.02	.	rs75187875	.	rs75187875	.
+chr16	1447493	1447493	A	G	intronic	UNKL	.	.	intronic	UNKL	.	.	.	.	.	.	rs28558825	.	rs28558825	.
+chr16	1447552	1447552	A	G	intronic	UNKL	.	.	intronic	UNKL	.	.	.	.	.	.	rs80018007	.	rs80018007	.
+chr16	1448698	1448699	CT	CC	UTR3	UNKL	.	.	UTR3	UNKL	.	.	.	.	.	.	.	.	.	.
+chr16	1451519	1451519	G	A	intronic	UNKL	.	.	intronic	UNKL	.	.	.	.	0.59	.	rs761068	0.698818	rs761068	.
+chr16	1451537	1451537	A	C	intronic	UNKL	.	.	intronic	UNKL	.	.	.	.	.	.	rs111930031	0.005856	rs111930031	.
+chr16	1453043	1453043	G	A	intronic	UNKL	.	.	intronic	UNKL	.	.	.	.	0.94	.	rs4984830	.	rs4984830	.
+chr16	1457158	1457158	G	A	intronic	UNKL	.	.	intronic	UNKL	.	.	.	.	0.93	.	rs9674112	.	rs9674112	.
+chr16	1479986	1479986	A	G	intergenic	C16orf91(dist=9185),CCDC154(dist=4403)	.	.	upstream	C16orf91	.	.	.	.	0.95	.	rs6600144	.	rs6600144	.
+chr16	1481020	1481020	C	T	intergenic	C16orf91(dist=10219),CCDC154(dist=3369)	.	.	intergenic	C16orf91(dist=1675),CCDC154(dist=3364)	.	.	.	Score=410;Name=lod=62	0.79	.	rs7194275	.	rs7194275	.
+chr16	1497137	1497137	C	T	intronic	CLCN7	.	.	intronic	CLCN7	.	.	.	.	0.51	.	rs12599176	0.393253	rs12599176	.
+chr16	1498501	1498501	G	A	intronic	CLCN7	.	.	intronic	CLCN7	.	.	.	.	0.01	.	rs41292291	0.015331	rs41292291	.
+chr16	1500710	1500710	-	C	intronic	CLCN7	.	.	intronic	CLCN7	.	.	.	.	.	.	.	.	.	.
+chr16	1504017	1504017	A	G	intronic	CLCN7	.	.	intronic	CLCN7	.	.	.	.	0.69	.	rs4786337	.	rs4786337	.
+chr16	1504149	1504149	T	C	intronic	CLCN7	.	.	intronic	CLCN7	.	.	.	.	0.35	.	rs11645645	.	rs11645645	.
+chr16	1504702	1504702	C	T	intronic	CLCN7	.	.	intronic	CLCN7	.	.	.	.	0.36	.	rs2277855	.	rs2277855	.
+chr16	1506490	1506490	G	A	intronic	CLCN7	.	.	intronic	CLCN7	.	.	.	.	0.37	.	rs35561673	.	rs35561673	.
+chr16	1507458	1507458	A	G	intronic	CLCN7	.	.	intronic	CLCN7	.	.	.	.	.	.	rs79703379	.	rs79703379	.
+chr16	1507778	1507778	T	C	intronic	CLCN7	.	.	intronic	CLCN7	.	.	.	.	0.60	.	rs9922189	0.543853	rs9922189	.
+chr16	1507988	1507988	C	T	intronic	CLCN7	.	.	intronic	CLCN7	.	.	.	.	0.64	.	rs6600147	.	rs6600147	.
+chr16	1508063	1508065	CAC	CAAC	intronic	CLCN7	.	.	intronic	CLCN7	.	.	.	.	.	.	.	.	.	.
+chr16	1508669	1508669	A	G	intronic	CLCN7	.	.	intronic	CLCN7	.	.	.	.	0.56	.	rs2281194	.	rs2281194	.
+chr16	1509313	1509314	CT	AG	intronic	CLCN7	.	.	intronic	CLCN7	.	.	.	.	.	.	.	.	.	.
+chr16	1509320	1509325	CACAAA	GACA	intronic	CLCN7	.	.	intronic	CLCN7	.	.	.	.	.	.	.	.	.	.
+chr16	1509336	1509336	C	T	intronic	CLCN7	.	.	intronic	CLCN7	.	.	.	.	.	.	rs75438786	.	rs75438786	.
+chr16	1509347	1509351	AAGAG	GAGCT	intronic	CLCN7	.	.	intronic	CLCN7	.	.	.	.	.	.	.	.	.	.
+chr16	1509360	1509360	-	AA	intronic	CLCN7	.	.	intronic	CLCN7	.	.	.	.	.	.	rs67234606	.	rs67234606	.
+chr16	1509365	1509365	A	G	intronic	CLCN7	.	.	intronic	CLCN7	.	.	.	.	0.53	.	rs12164970	.	rs12164970	.
+chr16	1509382	1509382	G	A	intronic	CLCN7	.	.	intronic	CLCN7	.	.	.	.	.	.	rs77651628	.	rs77651628	.
+chr16	1509391	1509391	G	A	intronic	CLCN7	.	.	intronic	CLCN7	.	.	.	.	0.35	.	rs79929432	.	rs79929432	.
+chr16	1509462	1509465	CACG	CACA	intronic	CLCN7	.	.	intronic	CLCN7	.	.	.	.	.	.	.	.	.	.
+chr16	1509462	1509465	CACG	GACA	intronic	CLCN7	.	.	intronic	CLCN7	.	.	.	.	.	.	.	.	.	.
+chr16	1509497	1509501	CACAT	GACAC	intronic	CLCN7	.	.	intronic	CLCN7	.	.	.	.	.	.	.	.	.	.
+chr16	1509497	1509501	CACAT	CACAG	intronic	CLCN7	.	.	intronic	CLCN7	.	.	.	.	.	.	.	.	.	.
+chr16	1509535	1509535	-	AA	intronic	CLCN7	.	.	intronic	CLCN7	.	.	.	.	.	.	.	.	.	.
+chr16	1509537	1509537	T	G	intronic	CLCN7	.	.	intronic	CLCN7	.	.	.	.	.	.	rs80135612	.	rs80135612	.
+chr16	1509557	1509557	G	A	intronic	CLCN7	.	.	intronic	CLCN7	.	.	.	.	.	.	.	.	.	.
+chr16	1509571	1509571	T	C	intronic	CLCN7	.	.	intronic	CLCN7	.	.	.	.	.	.	.	.	.	.
+chr16	1509581	1509581	T	C	intronic	CLCN7	.	.	intronic	CLCN7	.	.	.	.	.	.	rs12929660	.	rs12929660	.
+chr16	1510284	1510284	A	G	intronic	CLCN7	.	.	intronic	CLCN7	.	.	.	.	0.55	.	rs6600148	.	rs6600148	.
+chr16	1510567	1510567	T	G	intronic	CLCN7	.	.	intronic	CLCN7	.	.	.	.	0.65	.	rs2072950	0.754078	rs2072950	.
+chr16	1511552	1511552	G	T	intronic	CLCN7	.	.	intronic	CLCN7	.	.	.	.	0.54	.	rs2744994	0.614219	rs2744994	.
+chr16	1512089	1512104	GAAAAAAAAAAAAAAG	GAAAAAAAAAAAGAG	intronic	CLCN7	.	.	intronic	CLCN7	.	.	.	.	.	.	.	.	.	.
+chr16	1514652	1514652	A	G	intronic	CLCN7	.	.	intronic	CLCN7	.	.	.	.	0.55	.	rs2744996	.	rs2744996	.
+chr16	1515162	1515162	C	T	intronic	CLCN7	.	.	intronic	CLCN7	.	.	.	.	0.39	.	rs2235580	.	rs2235580	.
+chr16	1515503	1515503	G	A	intronic	CLCN7	.	.	intronic	CLCN7	.	.	.	.	0.54	.	rs2744997	.	rs2744997	.
+chr16	1537839	1537839	G	A	exonic	PTX4	nonsynonymous SNV	PTX4:NM_001013658:exon2:c.C259T:p.R87W	exonic	PTX4	nonsynonymous SNV	PTX4:ENST00000293922.1:exon2:c.C259T:p.R87W,PTX4:ENST00000440447.2:exon2:c.C274T:p.R92W,PTX4:ENST00000447419.2:exon2:c.C274T:p.R92W	.	.	0.30	0	rs2745101	0.215440	rs2745101	.
+chr16	1560886	1560886	A	G	UTR3	IFT140	.	.	UTR3	IFT140	.	.	.	.	0.35	.	rs1053730	.	rs1053730	.
+chr16	1561446	1561446	A	G	intronic	IFT140	.	.	intronic	IFT140	.	.	.	.	0.40	.	rs2667688	.	rs2667688	.
+chr16	1568402	1568402	A	G	intronic	IFT140	.	.	intronic	IFT140	.	.	.	.	0.27	.	rs2076434	0.244499	rs2076434	.
+chr16	1569524	1569524	A	C	intronic	IFT140	.	.	intronic	IFT140	.	.	.	.	0.49	.	rs2667665	.	rs2667665	.
+chr16	1570857	1570857	T	C	intronic	IFT140	.	.	intronic	IFT140	.	.	.	.	0.52	.	rs932391	0.437054	rs932391	.
+chr16	1571120	1571120	T	G	intronic	IFT140	.	.	intronic	IFT140	.	.	.	.	0.29	.	rs932392	.	rs932392	.
+chr16	1573810	1573810	A	G	intronic	IFT140	.	.	intronic	IFT140	.	.	.	.	0.98	.	rs2745176	0.963912	rs2745176	.
+chr16	1574252	1574252	A	G	intronic	IFT140	.	.	intronic	IFT140	.	.	.	.	0.64	.	rs2235639	.	rs2235639	.
+chr16	1574863	1574863	G	A	exonic	IFT140	synonymous SNV	IFT140:NM_014714:exon23:c.C2919T:p.A973A	exonic	IFT140	synonymous SNV	IFT140:ENST00000361339.5:exon5:c.C501T:p.A167A,IFT140:ENST00000426508.2:exon23:c.C2919T:p.A973A	.	.	0.21	.	rs2235640	0.188106	rs2235640	.
+chr16	1575704	1575704	T	C	intronic	IFT140	.	.	intronic	IFT140	.	.	.	.	0.99	.	rs2745178	.	rs2745178	.
+chr16	1577056	1577056	A	G	intronic	IFT140	.	.	intronic	IFT140	.	.	.	.	0.54	.	rs2745181	.	rs2745181	.
+chr16	1594020	1594037	CTTTTTTTTTTTTTTTTG	CTTTTTTTTTTTTTTTG	intronic	IFT140,TMEM204	.	.	intronic	IFT140,TMEM204	.	.	.	.	.	.	.	.	.	.
+chr16	1608082	1608082	A	G	exonic	IFT140	synonymous SNV	IFT140:NM_014714:exon19:c.T2253C:p.P751P	exonic	IFT140	synonymous SNV	IFT140:ENST00000426508.2:exon19:c.T2253C:p.P751P	.	Score=477;Name=lod=116	0.31	.	rs2076436	0.307432	rs2076436	ID=COSM148006;OCCURENCE=1(stomach)
+chr16	1608177	1608177	A	G	intronic	IFT140	.	.	intronic	IFT140	.	.	.	.	0.40	.	rs2235641	0.348438	rs2235641	.
+chr16	1613793	1613793	A	C	intronic	IFT140	.	.	intronic	IFT140	.	.	.	.	0.26	.	rs28714146	.	rs28714146	.
+chr16	1614097	1614097	A	G	exonic	IFT140	synonymous SNV	IFT140:NM_014714:exon17:c.T1968C:p.S656S	exonic	IFT140	synonymous SNV	IFT140:ENST00000426508.2:exon17:c.T1968C:p.S656S	.	.	0.46	.	rs8048410	0.422988	rs8048410	.
+chr16	1635908	1635908	G	A	intronic	IFT140	.	.	ncRNA_intronic	LA16c-395F10.2	.	.	.	.	0.98	.	rs11640303	.	rs11640303	.
+chr16	1636650	1636651	AC	-	intronic	IFT140	.	.	ncRNA_intronic	LA16c-395F10.2	.	.	.	.	.	.	.	.	.	.
+chr16	1652614	1652614	T	A	intronic	IFT140	.	.	ncRNA_intronic	LA16c-395F10.2	.	.	.	.	0.47	.	rs2236269	0.431913	rs2236269	.
+chr16	1657012	1657012	C	T	intronic	IFT140	.	.	ncRNA_intronic	LA16c-395F10.2	.	.	.	.	0.27	.	rs7192480	.	rs7192480	ID=COSN165086;OCCURENCE=1(NS),1(haematopoietic_and_lymphoid_tissue),1(urinary_tract),2(lung),1(large_intestine)
+chr16	1657284	1657284	C	G	UTR5	IFT140	.	.	ncRNA_UTR5	IFT140	.	.	.	.	0.48	.	rs1894649	0.438452	rs1894649	.
+chr16	1657350	1657350	A	T	intronic	IFT140	.	.	ncRNA_intronic	LA16c-395F10.2	.	.	.	.	0.39	.	rs743963	.	rs743963	ID=COSN165087;OCCURENCE=1(NS),1(haematopoietic_and_lymphoid_tissue),1(urinary_tract),2(lung),1(large_intestine)
+chr16	1658154	1658154	C	G	intronic	IFT140	.	.	ncRNA_intronic	LA16c-395F10.2	.	.	.	.	0.48	.	rs9937922	.	rs9937922	.
+chr16	1686083	1686083	C	A	intronic	CRAMP1L	.	.	intronic	CRAMP1L,LA16c-431H6.6	.	.	.	.	.	.	.	.	.	.
+chr16	1686372	1686386	CAAAAAAAAAAAAAG	CAAAAAAAAAAAAAAG	intronic	CRAMP1L	.	.	intronic	CRAMP1L,LA16c-431H6.6	.	.	.	.	.	.	.	.	.	.
+chr16	1733091	1733091	C	G	intronic	HN1L	.	.	intronic	HN1L,LA16c-431H6.6	.	.	.	.	.	.	.	.	.	.
+chr16	1764304	1764304	G	A	intronic	MAPK8IP3	.	.	intronic	MAPK8IP3	.	.	.	.	.	.	.	.	.	.
+chr16	1783724	1783724	C	G	intronic	MAPK8IP3	.	.	intronic	MAPK8IP3	.	.	.	.	0.0018	.	rs188219060	.	rs188219060	.
+chr16	1817358	1817358	C	A	intronic	MAPK8IP3	.	.	intronic	MAPK8IP3	.	.	.	.	.	.	.	.	.	.
+chr16	1817397	1817397	T	G	intronic	MAPK8IP3	.	.	intronic	MAPK8IP3	.	.	.	.	0.93	.	rs2575368	.	rs2575368	.
+chr16	1819835	1819835	T	C	UTR3	MAPK8IP3	.	.	UTR3	MAPK8IP3	.	.	.	.	0.93	.	rs12448520	.	rs12448520	.
+chr16	1820992	1820992	T	A	exonic	NME3	synonymous SNV	NME3:NM_002513:exon4:c.A282T:p.V94V	exonic	NME3	nonsynonymous SNV	NME3:ENST00000564628.1:exon4:c.A254T:p.Y85F	.	Score=474;Name=lod=113	0.76	.	rs11890	0.839497	rs11890	.
+chr16	1843066	1843066	G	C	intronic	IGFALS	.	.	intronic	IGFALS,SPSB3	.	.	.	.	0.65	.	rs186939	.	rs186939	.
+chr16	1870546	1870546	C	T	intronic	HAGH	.	.	intronic	HAGH	.	.	.	.	0.25	.	rs2268675	.	rs2268675	.
+chr16	1870641	1870641	G	T	intronic	HAGH	.	.	intronic	HAGH	.	.	.	.	0.25	.	rs2268674	.	rs2268674	.
+chr16	1885537	1885537	G	T	intronic	FAHD1,MEIOB	.	.	intronic	FAHD1,MEIOB	.	.	.	.	0.47	.	rs186938	.	rs186938	.
+chr16	1890548	1890563	ATTTTTTTTTTTTTTG	ATTTTTTTTTTTTTG	intronic	MEIOB	.	.	intronic	MEIOB	.	.	.	.	.	.	.	.	.	.
+chr16	1898638	1898638	G	A	intronic	MEIOB	.	.	intronic	MEIOB	.	.	.	.	0.13	.	rs111688244	.	rs111688244	.
+chr16	1919271	1919271	G	A	intronic	MEIOB	.	.	intronic	MEIOB	.	.	.	.	0.81	.	rs2754190	.	rs2754190	.
+chr16	1955965	1955965	G	A	intergenic	LINC00254(dist=21733),HS3ST6(dist=5500)	.	.	intergenic	RN7SL367P(dist=11028),HS3ST6(dist=5499)	.	.	.	.	0.17	.	rs1742395	.	rs1742395	.
+chr16	1955996	1955996	T	A	intergenic	LINC00254(dist=21764),HS3ST6(dist=5469)	.	.	intergenic	RN7SL367P(dist=11059),HS3ST6(dist=5468)	.	.	.	.	0.17	.	rs1657136	.	rs1657136	.
+chr16	1973773	1973773	T	C	intergenic	HS3ST6(dist=5542),MSRB1(dist=14461)	.	.	intergenic	HS3ST6(dist=5332),MSRB1(dist=14438)	.	.	.	.	0.49	.	rs2906902	.	rs2906902	.
+chr16	1973805	1973807	AGC	AT	intergenic	HS3ST6(dist=5574),MSRB1(dist=14427)	.	.	intergenic	HS3ST6(dist=5364),MSRB1(dist=14404)	.	.	.	.	.	.	.	.	.	.
+chr16	1978487	1978487	T	C	intergenic	HS3ST6(dist=10256),MSRB1(dist=9747)	.	.	intergenic	HS3ST6(dist=10046),MSRB1(dist=9724)	.	.	.	.	0.51	.	rs2575358	.	rs2575358	.
+chr16	1978518	1978518	T	C	intergenic	HS3ST6(dist=10287),MSRB1(dist=9716)	.	.	intergenic	HS3ST6(dist=10077),MSRB1(dist=9693)	.	.	.	.	0.41	.	rs2530197	.	rs2530197	.
+chr16	1984429	1984429	-	TGTTTT	intergenic	HS3ST6(dist=16198),MSRB1(dist=3805)	.	.	intergenic	HS3ST6(dist=15988),MSRB1(dist=3782)	.	.	.	.	.	.	.	.	.	.
+chr16	1993477	1993477	A	G	upstream	MSRB1	.	.	upstream;downstream	MSRB1;RPL3L	.	.	.	.	0.61	.	rs732510	.	rs732510	.
+chr16	2046215	2046215	G	T	intergenic	SYNGR3(dist=1939),ZNF598(dist=1438)	.	.	intergenic	SYNGR3(dist=1939),AC005606.15(dist=1440)	.	.	.	.	.	.	.	.	.	.
+chr16	2095065	2095065	T	C	intronic	NTHL1	.	.	intronic	NTHL1	.	.	.	.	0.26	.	rs2516726	.	rs2516726	.
+chr16	2105335	2105335	C	G	intronic	TSC2	.	.	intronic	TSC2	.	.	.	.	0.15	.	rs2516734	.	rs2516734	.
+chr16	2105400	2105400	C	T	intronic	TSC2	.	.	intronic	TSC2	.	.	.	.	0.09	.	rs1800720	0.128424	rs1800720	.
+chr16	2107322	2107322	G	T	intronic	TSC2	.	.	intronic	TSC2	.	.	.	.	0.06	.	rs78160478	.	rs78160478	.
+chr16	2109252	2109252	G	C	intronic	TSC2	.	.	intronic	TSC2	.	.	.	.	0.56	.	rs28709874	.	rs28709874	.
+chr16	2110571	2110571	C	G	intronic	TSC2	.	.	intronic	TSC2	.	.	.	.	0.54	.	rs2074968	.	rs2074968	.
+chr16	2111779	2111779	T	C	intronic	TSC2	.	.	intronic	TSC2	.	.	.	.	0.59	.	rs17135764	.	rs17135764	.
+chr16	2115029	2115032	CGCT	GGCG	intronic	TSC2	.	.	intronic	TSC2	.	.	.	.	.	.	.	.	.	.
+chr16	2115040	2115040	A	G	intronic	TSC2	.	.	intronic	TSC2	.	.	.	.	0.04	.	rs4787061	.	rs4787061	.
+chr16	2115046	2115055	TGAAGGTTGC	CGGAGCTTGT	intronic	TSC2	.	.	intronic	TSC2	.	.	.	.	.	.	.	.	.	.
+chr16	2115063	2115064	CA	TG	intronic	TSC2	.	.	intronic	TSC2	.	.	.	.	.	.	.	.	.	.
+chr16	2115070	2115070	C	G	intronic	TSC2	.	.	intronic	TSC2	.	.	.	.	.	.	.	.	.	.
+chr16	2115077	2115077	T	C	intronic	TSC2	.	.	intronic	TSC2	.	.	.	.	.	.	.	.	.	.
+chr16	2115092	2115092	A	G	intronic	TSC2	.	.	intronic	TSC2	.	.	.	.	.	.	.	.	.	.
+chr16	2115109	2115110	TG	GA	intronic	TSC2	.	.	intronic	TSC2	.	.	.	.	.	.	.	.	.	.
+chr16	2115120	2115120	G	A	intronic	TSC2	.	.	intronic	TSC2	.	.	.	.	.	.	.	.	.	.
+chr16	2115481	2115481	C	T	intronic	TSC2	.	.	intronic	TSC2	.	.	.	.	0.05	.	rs45477195	0.073869	rs45477195	.
+chr16	2115819	2115819	A	G	intronic	TSC2	.	.	intronic	TSC2	.	.	.	.	0.60	.	rs8063461	.	rs8063461	.
+chr16	2121830	2121830	T	C	exonic	TSC2	synonymous SNV	TSC2:NM_000548:exon19:c.T1992C:p.S664S,TSC2:NM_001077183:exon19:c.T1992C:p.S664S,TSC2:NM_001114382:exon19:c.T1992C:p.S664S	exonic	TSC2	synonymous SNV	TSC2:ENST00000382538.6:exon18:c.T1845C:p.S615S,TSC2:ENST00000439673.2:exon18:c.T1881C:p.S627S,TSC2:ENST00000219476.3:exon19:c.T1992C:p.S664S,TSC2:ENST00000350773.4:exon19:c.T1992C:p.S664S,TSC2:ENST00000353929.4:exon19:c.T1992C:p.S664S,TSC2:ENST00000401874.2:exon19:c.T1992C:p.S664S,TSC2:ENST00000568454.1:exon19:c.T2025C:p.S675S	.	.	.	.	.	.	.	.
+chr16	2121831	2121833	CCT	CCC	exonic	TSC2	nonframeshift substitution	TSC2:NM_000548:exon19:c.1993_1995CCC,TSC2:NM_001077183:exon19:c.1993_1995CCC,TSC2:NM_001114382:exon19:c.1993_1995CCC	exonic	TSC2	nonframeshift substitution	TSC2:ENST00000382538.6:exon18:c.1846_1848CCC,TSC2:ENST00000439673.2:exon18:c.1882_1884CCC,TSC2:ENST00000219476.3:exon19:c.1993_1995CCC,TSC2:ENST00000350773.4:exon19:c.1993_1995CCC,TSC2:ENST00000353929.4:exon19:c.1993_1995CCC,TSC2:ENST00000401874.2:exon19:c.1993_1995CCC,TSC2:ENST00000568454.1:exon19:c.2026_2028CCC	.	Score=336;Name=lod=31	.	.	.	.	.	.
+chr16	2130727	2130727	C	T	intronic	TSC2	.	.	intronic	TSC2	.	.	.	.	0.28	.	rs9923663	.	rs9923663	.
+chr16	2130775	2130775	G	A	intronic	TSC2	.	.	intronic	TSC2	.	.	.	.	0.10	.	rs56201105	.	rs56201105	.
+chr16	2132731	2132731	G	A	intronic	TSC2	.	.	intronic	TSC2	.	.	.	.	0.18	.	rs9928737	.	rs9928737	.
+chr16	2136624	2136624	T	C	intronic	TSC2	.	.	intronic	TSC2	.	.	.	.	0.23	.	rs13335638	.	rs13335638	.
+chr16	2138218	2138218	A	C	intronic	TSC2	.	.	intronic	TSC2	.	.	.	.	0.25	.	rs1800718	0.328486	rs1800718	.
+chr16	2138398	2138398	C	T	intronic	TSC2	.	.	intronic	TSC2	.	.	.	.	0.16	.	rs13332221	0.201463	rs13332221	.
+chr16	2138422	2138422	C	G	intronic	TSC2	.	.	intronic	TSC2	.	.	.	.	0.19	.	rs13332222	0.231296	rs13332222	.
+chr16	2139778	2139778	T	C	exonic	PKD1	nonsynonymous SNV	PKD1:NM_000296:exon46:c.A12859G:p.S4287G,PKD1:NM_001009944:exon46:c.A12862G:p.S4288G	exonic	PKD1	nonsynonymous SNV	PKD1:ENST00000262304.4:exon46:c.A12862G:p.S4288G,PKD1:ENST00000423118.1:exon46:c.A12859G:p.S4287G	.	.	0.0005	0.09	rs202176473	.	rs202176473	.
+chr16	2140010	2140010	A	G	exonic	PKD1	synonymous SNV	PKD1:NM_000296:exon46:c.T12627C:p.P4209P,PKD1:NM_001009944:exon46:c.T12630C:p.P4210P	exonic	PKD1	synonymous SNV	PKD1:ENST00000262304.4:exon46:c.T12630C:p.P4210P,PKD1:ENST00000423118.1:exon46:c.T12627C:p.P4209P	.	.	0.26	.	rs7203729	0.330324	rs7203729	.
+chr16	2140454	2140454	T	C	exonic	PKD1	synonymous SNV	PKD1:NM_000296:exon45:c.A12273G:p.A4091A,PKD1:NM_001009944:exon45:c.A12276G:p.A4092A	exonic	PKD1	synonymous SNV	PKD1:ENST00000262304.4:exon45:c.A12276G:p.A4092A,PKD1:ENST00000423118.1:exon45:c.A12273G:p.A4091A	.	.	0.26	.	rs3087632	0.326100	rs3087632	.
+chr16	2140654	2140654	C	-	intronic	PKD1	.	.	intronic	PKD1	.	.	.	.	.	.	.	.	.	.
+chr16	2140680	2140680	T	C	exonic	PKD1	nonsynonymous SNV	PKD1:NM_000296:exon44:c.A12130G:p.I4044V,PKD1:NM_001009944:exon44:c.A12133G:p.I4045V	exonic	PKD1	nonsynonymous SNV	PKD1:ENST00000262304.4:exon44:c.A12133G:p.I4045V,PKD1:ENST00000423118.1:exon44:c.A12130G:p.I4044V	.	.	0.24	0.42	rs10960	0.311044	rs10960	.
+chr16	2140972	2140972	G	A	exonic	PKD1	synonymous SNV	PKD1:NM_000296:exon43:c.C11913T:p.R3971R,PKD1:NM_001009944:exon43:c.C11916T:p.R3972R	exonic	PKD1	synonymous SNV	PKD1:ENST00000262304.4:exon43:c.C11916T:p.R3972R,PKD1:ENST00000423118.1:exon43:c.C11913T:p.R3971R	.	.	0.01	.	rs77634115	0.020424	rs77634115	.
+chr16	2141263	2141263	A	G	intronic	PKD1	.	.	intronic	PKD1	.	.	.	.	0.21	.	rs39833	.	rs39833	.
+chr16	2143865	2143865	G	A	exonic	PKD1	synonymous SNV	PKD1:NM_000296:exon36:c.C10765T:p.L3589L,PKD1:NM_001009944:exon36:c.C10768T:p.L3590L	exonic	PKD1	synonymous SNV	PKD1:ENST00000262304.4:exon36:c.C10768T:p.L3590L,PKD1:ENST00000423118.1:exon36:c.C10765T:p.L3589L	.	Score=474;Name=lod=113	0.01	.	rs116114803	0.024542	rs116114803	.
+chr16	2144299	2144299	T	G	intronic	PKD1	.	.	ncRNA_intronic	RP11-304L19.1	.	.	.	.	0.23	.	rs34123233	.	rs34123233	.
+chr16	2145183	2145183	-	G	intronic	PKD1	.	.	ncRNA_exonic	RP11-304L19.3	.	.	.	Score=457;Name=lod=96	.	.	.	.	.	.
+chr16	2146528	2146528	G	T	intronic	PKD1	.	.	ncRNA_intronic	RP11-304L19.3	.	.	.	.	0.26	.	rs113745115	.	rs113745115	.
+chr16	2148271	2148271	G	A	intronic	PKD1	.	.	intronic	PKD1	.	.	Score=0.976967;Name=chr16:15219095	.	0.08	.	rs138036227	.	rs138036227	.
+chr16	2150584	2150584	A	G	intronic	PKD1	.	.	intronic	PKD1	.	.	Score=0.976967;Name=chr16:15219095	.	.	.	.	.	.	.
+chr16	2152129	2152129	A	G	exonic	PKD1	synonymous SNV	PKD1:NM_000296:exon26:c.T9330C:p.P3110P,PKD1:NM_001009944:exon26:c.T9330C:p.P3110P	exonic	PKD1	synonymous SNV	PKD1:ENST00000262304.4:exon26:c.T9330C:p.P3110P,PKD1:ENST00000423118.1:exon26:c.T9330C:p.P3110P	Score=0.976967;Name=chr16:15219095	.	0.11	.	rs12926160	.	rs12926160	ID=COSM434867;OCCURENCE=1(breast)
+chr16	2152387	2152388	AC	GG	exonic	PKD1	nonframeshift substitution	PKD1:NM_000296:exon25:c.9195_9196CC,PKD1:NM_001009944:exon25:c.9195_9196CC	exonic	PKD1	nonframeshift substitution	PKD1:ENST00000262304.4:exon25:c.9195_9196CC,PKD1:ENST00000423118.1:exon25:c.9195_9196CC	Score=0.976967;Name=chr16:15219095	.	.	.	.	.	.	.
+chr16	2152651	2152651	T	C	intronic	PKD1	.	.	intronic	PKD1	.	.	Score=0.976967;Name=chr16:15219095	.	0.21	.	rs9928278	0.278431	rs9928278	.
+chr16	2153181	2153181	G	C	intronic	PKD1	.	.	intronic	PKD1	.	.	Score=0.976967;Name=chr16:15219095	.	.	.	.	.	.	.
+chr16	2153933	2153933	G	A	intronic	PKD1	.	.	intronic	PKD1	.	.	Score=0.976967;Name=chr16:15219095	.	0.16	.	rs9938566	0.188900	rs9938566	.
+chr16	2154461	2154461	C	T	intronic	PKD1	.	.	intronic	PKD1	.	.	Score=0.976967;Name=chr16:15219095	.	0.19	.	rs57922772	0.132575	rs57922772	.
+chr16	2154537	2154537	G	A	exonic	PKD1	nonsynonymous SNV	PKD1:NM_000296:exon22:c.C8123T:p.T2708M,PKD1:NM_001009944:exon22:c.C8123T:p.T2708M	exonic	PKD1	nonsynonymous SNV	PKD1:ENST00000487932.1:exon8:c.C2810T:p.T937M,PKD1:ENST00000262304.4:exon22:c.C8123T:p.T2708M,PKD1:ENST00000423118.1:exon22:c.C8123T:p.T2708M	Score=0.976967;Name=chr16:15219095	Score=374;Name=lod=44	.	0	rs147350387	0.011429	rs147350387	.
+chr16	2155297	2155297	A	G	intronic	PKD1	.	.	intronic	PKD1	.	.	Score=0.976967;Name=chr16:15219095	.	0.20	.	rs9934488	.	rs9934488	.
+chr16	2155426	2155426	T	C	exonic	PKD1	nonsynonymous SNV	PKD1:NM_000296:exon21:c.A7913G:p.H2638R,PKD1:NM_001009944:exon21:c.A7913G:p.H2638R	exonic	PKD1	nonsynonymous SNV	PKD1:ENST00000487932.1:exon7:c.A2600G:p.H867R,PKD1:ENST00000262304.4:exon21:c.A7913G:p.H2638R,PKD1:ENST00000423118.1:exon21:c.A7913G:p.H2638R	Score=0.976967;Name=chr16:15219095	Score=272;Name=lod=17	0.14	0.04	rs61744767	.	rs61744767	.
+chr16	2155819	2155819	A	C	intronic	PKD1	.	.	intronic	PKD1	.	.	Score=0.976967;Name=chr16:15219095	.	0.21	.	rs28610092	0.256767	rs28610092	.
+chr16	2156021	2156021	A	G	exonic	PKD1	synonymous SNV	PKD1:NM_000296:exon20:c.T7708C:p.L2570L,PKD1:NM_001009944:exon20:c.T7708C:p.L2570L	exonic	PKD1	synonymous SNV	PKD1:ENST00000487932.1:exon6:c.T2395C:p.L799L,PKD1:ENST00000262304.4:exon20:c.T7708C:p.L2570L,PKD1:ENST00000423118.1:exon20:c.T7708C:p.L2570L	Score=0.976967;Name=chr16:15219095	Score=366;Name=lod=41	0.15	.	rs28575767	.	rs28575767	.
+chr16	2156447	2156447	G	A	exonic	PKD1	synonymous SNV	PKD1:NM_000296:exon18:c.C7441T:p.L2481L,PKD1:NM_001009944:exon18:c.C7441T:p.L2481L	exonic	PKD1	synonymous SNV	PKD1:ENST00000487932.1:exon4:c.C2128T:p.L710L,PKD1:ENST00000262304.4:exon18:c.C7441T:p.L2481L,PKD1:ENST00000423118.1:exon18:c.C7441T:p.L2481L	Score=0.976967;Name=chr16:15219095	.	0.21	.	rs2003782	0.206814	rs2003782	.
+chr16	2156850	2156850	A	G	exonic	PKD1	synonymous SNV	PKD1:NM_000296:exon17:c.T7165C:p.L2389L,PKD1:NM_001009944:exon17:c.T7165C:p.L2389L	exonic	PKD1	synonymous SNV	PKD1:ENST00000487932.1:exon3:c.T1852C:p.L618L,PKD1:ENST00000262304.4:exon17:c.T7165C:p.L2389L,PKD1:ENST00000423118.1:exon17:c.T7165C:p.L2389L	Score=0.976967;Name=chr16:15219095	Score=536;Name=lod=201	0.15	.	rs2457533	.	rs2457533	.
+chr16	2157079	2157079	T	C	intronic	PKD1	.	.	intronic	PKD1	.	.	Score=0.976967;Name=chr16:15219095	.	0.13	.	rs3874658	.	rs3874658	.
+chr16	2159996	2159996	G	A	exonic	PKD1	synonymous SNV	PKD1:NM_000296:exon15:c.C5172T:p.A1724A,PKD1:NM_001009944:exon15:c.C5172T:p.A1724A	exonic	PKD1	synonymous SNV	PKD1:ENST00000262304.4:exon15:c.C5172T:p.A1724A,PKD1:ENST00000423118.1:exon15:c.C5172T:p.A1724A	Score=0.976967;Name=chr16:15219095	.	0.20	.	rs78093681	0.272317	rs78093681	.
+chr16	2160503	2160503	T	G	exonic	PKD1	synonymous SNV	PKD1:NM_000296:exon15:c.A4665C:p.A1555A,PKD1:NM_001009944:exon15:c.A4665C:p.A1555A	exonic	PKD1	synonymous SNV	PKD1:ENST00000262304.4:exon15:c.A4665C:p.A1555A,PKD1:ENST00000423118.1:exon15:c.A4665C:p.A1555A	Score=0.976967;Name=chr16:15219095	Score=420;Name=lod=68	0.21	.	rs71385734	0.282642	rs71385734	ID=COSM1376565;OCCURENCE=1(large_intestine)
+chr16	2160973	2160973	A	G	exonic	PKD1	nonsynonymous SNV	PKD1:NM_000296:exon15:c.T4195C:p.W1399R,PKD1:NM_001009944:exon15:c.T4195C:p.W1399R	exonic	PKD1	nonsynonymous SNV	PKD1:ENST00000262304.4:exon15:c.T4195C:p.W1399R,PKD1:ENST00000423118.1:exon15:c.T4195C:p.W1399R	Score=0.976967;Name=chr16:15219095	.	0.05	0.36	rs116092985	.	rs116092985	.
+chr16	2161150	2161150	G	A	exonic	PKD1	nonsynonymous SNV	PKD1:NM_000296:exon15:c.C4018T:p.R1340W,PKD1:NM_001009944:exon15:c.C4018T:p.R1340W	exonic	PKD1	nonsynonymous SNV	PKD1:ENST00000262304.4:exon15:c.C4018T:p.R1340W,PKD1:ENST00000423118.1:exon15:c.C4018T:p.R1340W	Score=0.976967;Name=chr16:15219095	.	0.0014	0.07	rs143690392	0.003087	rs143690392	.
+chr16	2161793	2161796	GGAG	AGAA	exonic	PKD1	nonframeshift substitution	PKD1:NM_000296:exon15:c.3372_3375TTCT,PKD1:NM_001009944:exon15:c.3372_3375TTCT	exonic	PKD1	nonframeshift substitution	PKD1:ENST00000262304.4:exon15:c.3372_3375TTCT,PKD1:ENST00000423118.1:exon15:c.3372_3375TTCT	Score=0.976967;Name=chr16:15219095	.	.	.	.	.	.	.
+chr16	2162361	2162361	A	G	exonic	PKD1	nonsynonymous SNV	PKD1:NM_000296:exon14:c.T3275C:p.M1092T,PKD1:NM_001009944:exon14:c.T3275C:p.M1092T	exonic	PKD1	nonsynonymous SNV	PKD1:ENST00000262304.4:exon14:c.T3275C:p.M1092T,PKD1:ENST00000423118.1:exon14:c.T3275C:p.M1092T	Score=0.976967;Name=chr16:15219095	.	0.17	1	rs2549677	.	rs2549677	.
+chr16	2162887	2162887	A	G	exonic	PKD1	synonymous SNV	PKD1:NM_000296:exon13:c.T3063C:p.G1021G,PKD1:NM_001009944:exon13:c.T3063C:p.G1021G	exonic	PKD1	synonymous SNV	PKD1:ENST00000262304.4:exon13:c.T3063C:p.G1021G,PKD1:ENST00000423118.1:exon13:c.T3063C:p.G1021G	Score=0.976967;Name=chr16:15219095	Score=374;Name=lod=44	0.16	.	rs2369068	0.225762	rs2369068	.
+chr16	2163125	2163125	G	C	intronic	PKD1	.	.	ncRNA_exonic	RP11-304L19.4	.	.	Score=0.976967;Name=chr16:15219095	.	.	.	.	.	.	.
+chr16	2163141	2163141	T	C	intronic	PKD1	.	.	ncRNA_exonic	RP11-304L19.4	.	.	Score=0.976967;Name=chr16:15219095	.	.	.	.	.	.	.
+chr16	2163562	2163562	A	G	intronic	PKD1	.	.	intronic	PKD1	.	.	Score=0.976967;Name=chr16:15219095	.	0.17	.	rs11861948	.	rs11861948	.
+chr16	2163962	2163962	A	G	intronic	PKD1	.	.	intronic	PKD1	.	.	Score=0.976967;Name=chr16:15219095	.	0.11	.	rs28605000	.	rs28605000	.
+chr16	2164808	2164808	C	T	exonic	PKD1	nonsynonymous SNV	PKD1:NM_000296:exon11:c.G2216A:p.R739Q,PKD1:NM_001009944:exon11:c.G2216A:p.R739Q	exonic	PKD1	nonsynonymous SNV	PKD1:ENST00000262304.4:exon11:c.G2216A:p.R739Q,PKD1:ENST00000423118.1:exon11:c.G2216A:p.R739Q	Score=0.976967;Name=chr16:15219095	.	0.91	1	rs40433	.	rs40433	.
+chr16	2165630	2165630	T	C	intronic	PKD1	.	.	intronic	PKD1	.	.	Score=0.976967;Name=chr16:15219095	.	0.21	.	rs35929659	0.227828	rs35929659	.
+chr16	2165737	2165740	ACCT	GCCC	intronic	PKD1	.	.	intronic	PKD1	.	.	Score=0.976967;Name=chr16:15219095	.	.	.	.	.	.	.
+chr16	2167874	2167874	G	A	exonic	PKD1	synonymous SNV	PKD1:NM_000296:exon5:c.C1119T:p.L373L,PKD1:NM_001009944:exon5:c.C1119T:p.L373L	exonic	PKD1	synonymous SNV	PKD1:ENST00000568591.1:exon1:c.C87T:p.L29L,PKD1:ENST00000262304.4:exon5:c.C1119T:p.L373L,PKD1:ENST00000423118.1:exon5:c.C1119T:p.L373L	Score=0.976967;Name=chr16:15219095	.	.	.	rs16956190	.	rs16956190	.
+chr16	2170210	2170210	C	A	intronic	PKD1	.	.	ncRNA_exonic	RP11-304L19.2	.	.	Score=0.976967;Name=chr16:15219095	.	.	.	.	.	.	.
+chr16	2170298	2170298	G	A	intronic	PKD1	.	.	intronic	PKD1	.	.	Score=0.976967;Name=chr16:15219095	.	0.20	.	rs13330164	.	rs13330164	.
+chr16	2190693	2190693	G	C	intergenic	MIR3180-5(dist=4563),RAB26(dist=7958)	.	.	upstream	RAB26	.	.	.	.	0.96	.	rs258280	.	rs258280	.
+chr16	2267630	2267630	G	T	intergenic	PGP(dist=2808),E4F1(dist=5937)	.	.	intergenic	PGP(dist=2822),E4F1(dist=5937)	.	.	.	.	.	.	.	.	.	.
+chr16	2280533	2280533	T	C	intronic	E4F1	.	.	intronic	E4F1	.	.	.	.	.	.	.	.	.	.
+chr16	2290223	2290225	TAT	TTT	intronic	ECI1	.	.	intronic	ECI1	.	.	.	.	.	.	.	.	.	.
+chr16	2296851	2296851	A	G	intronic	ECI1	.	.	intronic	ECI1	.	.	.	.	0.12	.	rs3803695	0.177362	rs3803695	.
+chr16	2297467	2297467	T	C	intronic	ECI1	.	.	intronic	ECI1	.	.	.	.	0.55	.	rs154654	.	rs154654	.
+chr16	2301269	2301272	CGCG	TGCT	intronic	ECI1	.	.	intronic	ECI1	.	.	.	.	.	.	.	.	.	.
+chr16	2301520	2301520	G	C	exonic	ECI1	synonymous SNV	ECI1:NM_001178029:exon1:c.C48G:p.R16R,ECI1:NM_001919:exon1:c.C48G:p.R16R	exonic	ECI1	synonymous SNV	ECI1:ENST00000301729.4:exon1:c.C48G:p.R16R,ECI1:ENST00000562238.1:exon1:c.C48G:p.R16R	.	.	0.08	.	rs11541763	0.098197	rs11541763	ID=COSM434911;OCCURENCE=1(breast)
+chr16	2301843	2301843	A	G	upstream	ECI1	.	.	UTR5	ECI1	.	.	.	.	0.49	.	rs35856	.	rs35856	.
+chr16	2324303	2324303	A	G	upstream	MIR4717	.	.	upstream;downstream	MIR4717;MIR940	.	.	.	.	0.50	.	rs161427	.	rs161427	.
+chr16	2328650	2328650	G	T	intronic	ABCA3	.	.	intronic	ABCA3	.	.	.	.	0.44	.	rs150929	.	rs150929	.
+chr16	2328790	2328790	G	A	intronic	ABCA3	.	.	intronic	ABCA3	.	.	.	.	0.80	.	rs150928	.	rs150928	.
+chr16	2331430	2331430	A	G	exonic	ABCA3	synonymous SNV	ABCA3:NM_001089:exon27:c.T4116C:p.S1372S	exonic	ABCA3	synonymous SNV	ABCA3:ENST00000382381.3:exon26:c.T3942C:p.S1314S,ABCA3:ENST00000301732.5:exon27:c.T4116C:p.S1372S	.	.	0.90	.	rs149532	0.869421	rs149532	.
+chr16	2331576	2331576	A	G	intronic	ABCA3	.	.	intronic	ABCA3	.	.	.	.	.	.	.	.	.	.
+chr16	2331581	2331581	C	G	intronic	ABCA3	.	.	intronic	ABCA3	.	.	.	.	.	.	.	.	.	.
+chr16	2334151	2334151	G	A	intronic	ABCA3	.	.	intronic	ABCA3	.	.	.	.	0.0027	.	rs180756488	.	rs180756488	.
+chr16	2334554	2334554	A	T	intronic	ABCA3	.	.	intronic	ABCA3	.	.	.	.	0.75	.	rs1183064	.	rs1183064	.
+chr16	2335196	2335196	G	A	intronic	ABCA3	.	.	intronic	ABCA3	.	.	.	.	0.09	.	rs323018	.	rs323018	.
+chr16	2337993	2337993	G	A	intronic	ABCA3	.	.	intronic	ABCA3	.	.	.	.	0.43	.	rs313909	0.414615	rs313909	.
+chr16	2338363	2338363	C	G	intronic	ABCA3	.	.	intronic	ABCA3	.	.	.	.	0.76	.	rs313908	0.692041	rs313908	.
+chr16	2339714	2339714	T	C	intronic	ABCA3	.	.	intronic	ABCA3	.	.	.	.	0.12	.	rs323017	.	rs323017	.
+chr16	2342074	2342086	CAAAAAAAAAAAG	CAAAAAAAAAAG	intronic	ABCA3	.	.	intronic	ABCA3	.	.	.	.	.	.	.	.	.	.
+chr16	2348208	2348208	G	C	intronic	ABCA3	.	.	intronic	ABCA3	.	.	.	.	0.59	.	rs323044	.	rs323044	.
+chr16	2348528	2348528	G	C	exonic	ABCA3	synonymous SNV	ABCA3:NM_001089:exon15:c.C1755G:p.P585P	exonic	ABCA3	synonymous SNV	ABCA3:ENST00000382381.3:exon14:c.C1581G:p.P527P,ABCA3:ENST00000301732.5:exon15:c.C1755G:p.P585P	.	.	0.11	.	rs323043	0.156279	rs323043	.
+chr16	2348657	2348657	A	G	intronic	ABCA3	.	.	intronic	ABCA3	.	.	.	.	0.43	.	rs2240523	.	rs2240523	.
+chr16	2348781	2348781	A	G	intronic	ABCA3	.	.	intronic	ABCA3	.	.	.	.	0.23	.	rs323042	.	rs323042	.
+chr16	2349371	2349371	T	C	intronic	ABCA3	.	.	intronic	ABCA3	.	.	.	.	0.46	.	rs170447	0.437587	rs170447	.
+chr16	2358760	2358760	G	A	intronic	ABCA3	.	.	intronic	ABCA3	.	.	.	.	0.34	.	rs323073	.	rs323073	.
+chr16	2367336	2367336	G	A	exonic	ABCA3	synonymous SNV	ABCA3:NM_001089:exon10:c.C1059T:p.F353F	exonic	ABCA3	synonymous SNV	ABCA3:ENST00000301732.5:exon10:c.C1059T:p.F353F,ABCA3:ENST00000382381.3:exon10:c.C1059T:p.F353F	.	Score=325;Name=lod=28	0.19	.	rs13332514	0.094645	rs13332514	.
+chr16	2367424	2367424	G	A	intronic	ABCA3	.	.	intronic	ABCA3	.	.	.	.	0.20	.	rs13332547	0.100723	rs13332547	.
+chr16	2369485	2369499	CAAAAAAAAAAAAAT	CAAAAAAAAAAAAAAT	intronic	ABCA3	.	.	intronic	ABCA3	.	.	.	.	.	.	.	.	.	.
+chr16	2370039	2370039	A	T	intronic	ABCA3	.	.	intronic	ABCA3	.	.	.	.	0.94	.	rs323064	.	rs323064	.
+chr16	2373786	2373786	C	A	intronic	ABCA3	.	.	intronic	ABCA3	.	.	.	.	0.87	.	rs323060	.	rs323060	.
+chr16	2374286	2374286	T	C	intronic	ABCA3	.	.	intronic	ABCA3	.	.	.	.	0.94	.	rs323059	.	rs323059	.
+chr16	2374896	2374896	C	G	intronic	ABCA3	.	.	intronic	ABCA3	.	.	.	.	0.94	.	rs323058	.	rs323058	.
+chr16	2375524	2375524	G	T	intronic	ABCA3	.	.	intronic	ABCA3	.	.	.	.	0.93	.	rs323057	.	rs323057	.
+chr16	2375961	2375961	C	T	intronic	ABCA3	.	.	intronic	ABCA3	.	.	.	.	0.86	.	rs46725	0.833282	rs46725	.
+chr16	2376706	2376706	T	C	intronic	ABCA3	.	.	intronic	ABCA3	.	.	.	.	0.93	.	rs323056	.	rs323056	.
+chr16	2383231	2383231	C	A	intronic	ABCA3	.	.	intronic	ABCA3	.	.	.	.	.	.	.	.	.	.
+chr16	2419525	2419525	C	T	ncRNA_intronic	ABCA17P	.	.	ncRNA_intronic	ABCA17P	.	.	.	.	0.01	.	rs74805253	.	rs74805253	.
+chr16	2476691	2476691	G	T	ncRNA_exonic	ABCA17P	.	.	ncRNA_exonic	ABCA17P	.	.	.	.	.	.	.	.	.	.
+chr16	2529835	2529846	GTTTTTTTTTTC	GTTTTTTTTTTTC	intronic	TBC1D24	.	.	intronic	TBC1D24	.	.	.	.	.	.	.	.	.	.
+chr16	2642206	2642206	C	A	intronic	PDPK1	.	.	intronic	PDPK1	.	.	.	.	.	.	.	.	.	.
+chr16	2645965	2645965	G	A	intronic	PDPK1	.	.	intronic	PDPK1	.	.	.	.	0.39	.	rs1005273	.	rs1005273	.
+chr16	2661497	2661497	G	C	ncRNA_intronic	LOC652276	.	.	ncRNA_intronic	AC141586.5	.	.	.	.	0.43	.	rs28468593	.	rs28468593	.
+chr16	2779668	2779668	-	ACA	intergenic	PRSS27(dist=9116),SRRM2-AS1(dist=7409)	.	.	intergenic	PRSS27(dist=9116),SRRM2-AS1(dist=7409)	.	.	.	.	.	.	.	.	.	.
+chr16	2779826	2779827	AA	ACA	intergenic	PRSS27(dist=9274),SRRM2-AS1(dist=7250)	.	.	intergenic	PRSS27(dist=9274),SRRM2-AS1(dist=7250)	.	.	.	.	.	.	.	.	.	.
+chr16	2779850	2779850	G	A	intergenic	PRSS27(dist=9298),SRRM2-AS1(dist=7227)	.	.	intergenic	PRSS27(dist=9298),SRRM2-AS1(dist=7227)	.	.	.	.	0.58	.	rs11076788	.	rs11076788	.
+chr16	2788024	2788024	T	C	ncRNA_intronic	SRRM2-AS1	.	.	ncRNA_exonic	SRRM2-AS1	.	.	.	.	0.86	.	rs3094788	.	rs3094788	.
+chr16	2807083	2807083	C	A	intronic	SRRM2	.	.	intronic	SRRM2	.	.	.	.	0.91	.	rs2240145	.	rs2240145	.
+chr16	2818704	2818704	T	G	intronic	SRRM2	.	.	intronic	SRRM2	.	.	.	Score=565;Name=lod=263	0.67	0.94	rs3094792	.	rs3094792	.
+chr16	2900161	2900161	-	C	intergenic	PRSS30P(dist=7409),PRSS22(dist=2567)	.	.	intergenic	PRSS30P(dist=7416),PRSS22(dist=2567)	.	.	.	.	.	.	.	.	.	.
+chr16	2910922	2910922	C	A	intergenic	PRSS22(dist=2751),FLYWCH2(dist=22274)	.	.	intergenic	LA16c-325D7.1(dist=1195),LA16c-325D7.2(dist=5427)	.	.	.	.	.	.	.	.	.	.
+chr16	2938161	2938161	C	T	intronic	FLYWCH2	.	.	intronic	FLYWCH2	.	.	.	.	0.41	.	rs2335463	.	rs2335463	.
+chr16	2985915	2985930	CTTTTTTTTTTTTTTG	CTTTTTTTTTTTTTTTG	intronic	FLYWCH1	.	.	intronic	FLYWCH1	.	.	.	.	.	.	.	.	.	.
+chr16	2986431	2986431	T	C	intronic	FLYWCH1	.	.	intronic	FLYWCH1	.	.	.	.	0.18	.	rs739716	.	rs739716	.
+chr16	2993731	2993731	G	A	intronic	FLYWCH1	.	.	ncRNA_intronic	LA16c-321D4.2	.	.	.	.	0.25	.	rs12935845	.	rs12935845	.
+chr16	3010367	3010367	G	A	intergenic	FLYWCH1(dist=9158),KREMEN2(dist=3850)	.	.	intergenic	LA16c-321D4.2(dist=6090),KREMEN2(dist=3578)	.	.	.	.	0.24	.	rs4786360	.	rs4786360	.
+chr16	3010445	3010445	A	G	intergenic	FLYWCH1(dist=9236),KREMEN2(dist=3772)	.	.	intergenic	LA16c-321D4.2(dist=6168),KREMEN2(dist=3500)	.	.	.	.	0.48	.	rs4786361	.	rs4786361	.
+chr16	3037633	3037633	G	A	intergenic	PKMYT1(dist=7093),LINC00514(dist=1422)	.	.	intergenic	PKMYT1(dist=7093),LINC00514(dist=1329)	.	.	.	.	0.58	.	rs739794	.	rs739794	.
+chr16	3039031	3039031	A	G	upstream	LINC00514	.	.	ncRNA_intronic	LINC00514	.	.	.	.	0.68	.	rs11860795	.	rs11860795	.
+chr16	3045483	3045483	C	A	downstream	LINC00514	.	.	downstream	LINC00514	.	.	.	.	.	.	.	.	.	.
+chr16	3048192	3048192	C	T	intergenic	LINC00514(dist=3682),CLDN9(dist=14265)	.	.	intergenic	LINC00514(dist=3682),LA16c-380H5.3(dist=1711)	.	.	.	.	0.22	.	rs59549212	.	rs59549212	.
+chr16	3068901	3068903	TGT	-	upstream	CLDN6	.	.	intronic	CLDN6,TNFRSF12A	.	.	.	.	.	.	.	.	.	.
+chr16	3082157	3082157	A	G	intronic	CCDC64B	.	.	UTR5	CCDC64B	.	.	.	.	0.48	.	rs2526280	.	rs2526280	.
+chr16	3097384	3097384	G	A	intronic	MMP25	.	.	intronic	MMP25	.	.	.	.	.	.	.	.	.	.
+chr16	3098640	3098640	G	T	intronic	MMP25	.	.	intronic	MMP25	.	.	.	.	0.29	.	rs2360168	.	rs2360168	.
+chr16	3104383	3104383	A	G	intronic	MMP25	.	.	ncRNA_exonic	RP11-473M20.7	.	.	Score=0.93068;Name=chr16:3121791	.	.	0.35	.	.	.	.
+chr16	3104390	3104390	A	G	intronic	MMP25	.	.	ncRNA_exonic	RP11-473M20.7	.	.	Score=0.93068;Name=chr16:3121791	.	.	.	.	.	.	.
+chr16	3104451	3104451	A	G	intronic	MMP25	.	.	ncRNA_exonic	RP11-473M20.7	.	.	Score=0.93068;Name=chr16:3121791	.	.	0.1	rs112494556	.	rs112494556	.
+chr16	3104458	3104458	A	G	intronic	MMP25	.	.	ncRNA_exonic	RP11-473M20.7	.	.	Score=0.93068;Name=chr16:3121791	.	.	0.41	rs113416765	.	rs113416765	.
+chr16	3123561	3123561	A	T	intergenic	IL32(dist=3893),ZSCAN10(dist=15330)	.	.	intronic	IL32	.	.	Score=0.93068;Name=chr16:3102158	.	0.53	.	rs2015620	.	rs2015620	.
+chr16	3125691	3125691	A	G	intergenic	IL32(dist=6023),ZSCAN10(dist=13200)	.	.	intronic	IL32	.	.	Score=0.93068;Name=chr16:3102158	.	0.44	.	rs4786379	.	rs4786379	.
+chr16	3132450	3132450	A	G	intergenic	IL32(dist=12782),ZSCAN10(dist=6441)	.	.	ncRNA_intronic	RP11-473M20.9	.	.	.	.	0.91	.	rs12449028	.	rs12449028	.
+chr16	3172174	3172189	GTTTTTTTTTTTTTTG	GTTTTTTTTTTTTTTTG	intergenic	ZNF205(dist=1656),ZNF213(dist=12868)	.	.	ncRNA_intronic	RP11-473M20.14	.	.	.	.	.	.	.	.	.	.
+chr16	3177000	3177000	C	T	intergenic	ZNF205(dist=6482),ZNF213(dist=8057)	.	.	ncRNA_intronic	RP11-473M20.14	.	.	.	.	0.04	.	rs72772591	.	rs72772591	.
+chr16	3189445	3189445	C	T	intronic	ZNF213	.	.	intronic	ZNF213	.	.	.	.	0.99	.	rs172792	.	rs172792	.
+chr16	3191356	3191356	G	A	UTR3	ZNF213	.	.	UTR3	ZNF213	.	.	.	.	0.31	.	rs2735537	0.378099	rs2735537	.
+chr16	3253133	3253133	A	G	intergenic	ZNF213(dist=60328),OR1F1(dist=1114)	.	.	ncRNA_intronic	AJ003147.9	.	.	.	.	0.04	.	rs224176	.	rs224176	.
+chr16	3253141	3253141	C	A	intergenic	ZNF213(dist=60336),OR1F1(dist=1106)	.	.	ncRNA_intronic	AJ003147.9	.	.	.	.	.	.	.	.	.	.
+chr16	3288979	3288979	G	A	intergenic	ZNF200(dist=3522),MEFV(dist=3049)	.	.	intergenic	ZNF200(dist=2758),MEFV(dist=3049)	.	.	.	.	0.99	.	rs1237346	.	rs1237346	.
+chr16	3292874	3292874	C	T	UTR3	MEFV	.	.	UTR3	MEFV	.	.	.	.	0.62	.	rs2741918	.	rs2741918	.
+chr16	3292896	3292896	C	T	UTR3	MEFV	.	.	UTR3	MEFV	.	.	.	.	0.61	.	rs2741919	.	rs2741919	.
+chr16	3293880	3293880	A	G	exonic	MEFV	nonsynonymous SNV	MEFV:NM_000243:exon9:c.T1772C:p.I591T	exonic	MEFV	nonsynonymous SNV	MEFV:ENST00000536379.1:exon8:c.T1139C:p.I380T,MEFV:ENST00000219596.1:exon9:c.T1772C:p.I591T,MEFV:ENST00000339854.4:exon9:c.T1232C:p.I411T	.	.	0.01	0.06	.	0.010774	rs11466045	.
+chr16	3294154	3294166	GTTTTTTTTTTTG	GTTTTTTTTTTG	intronic	MEFV	.	.	UTR3	MEFV	.	.	.	.	.	.	.	.	.	.
+chr16	3294931	3294931	A	C	intronic	MEFV	.	.	intronic	MEFV	.	.	.	.	0.61	.	rs170383	.	rs170383	.
+chr16	3296429	3296429	G	A	intronic	MEFV	.	.	intronic	MEFV	.	.	.	.	0.48	.	rs224204	.	rs224204	.
+chr16	3296616	3296616	C	T	intronic	MEFV	.	.	intronic	MEFV	.	.	.	.	0.48	.	rs224205	0.439991	rs224205	.
+chr16	3297073	3297073	A	G	exonic	MEFV	synonymous SNV	MEFV:NM_001198536:exon4:c.T897C:p.D299D,MEFV:NM_000243:exon5:c.T1530C:p.D510D	exonic	MEFV	synonymous SNV	MEFV:ENST00000536379.1:exon4:c.T897C:p.D299D,MEFV:ENST00000536980.1:exon4:c.T897C:p.D299D,MEFV:ENST00000541159.1:exon4:c.T897C:p.D299D,MEFV:ENST00000219596.1:exon5:c.T1530C:p.D510D,MEFV:ENST00000339854.4:exon5:c.T990C:p.D330D,MEFV:ENST00000537682.1:exon5:c.T1530C:p.D510D,MEFV:ENST00000542898.1:exon6:c.T1623C:p.D541D	.	.	0.64	.	rs224206	0.584193	rs224206	.
+chr16	3297175	3297175	T	C	exonic	MEFV	synonymous SNV	MEFV:NM_001198536:exon4:c.A795G:p.Q265Q,MEFV:NM_000243:exon5:c.A1428G:p.Q476Q	exonic	MEFV	synonymous SNV	MEFV:ENST00000536379.1:exon4:c.A795G:p.Q265Q,MEFV:ENST00000536980.1:exon4:c.A795G:p.Q265Q,MEFV:ENST00000541159.1:exon4:c.A795G:p.Q265Q,MEFV:ENST00000219596.1:exon5:c.A1428G:p.Q476Q,MEFV:ENST00000339854.4:exon5:c.A888G:p.Q296Q,MEFV:ENST00000537682.1:exon5:c.A1428G:p.Q476Q,MEFV:ENST00000542898.1:exon6:c.A1521G:p.Q507Q	.	Score=369;Name=lod=42	0.62	.	rs224207	0.568570	rs224207	.
+chr16	3297181	3297181	C	T	exonic	MEFV	synonymous SNV	MEFV:NM_001198536:exon4:c.G789A:p.E263E,MEFV:NM_000243:exon5:c.G1422A:p.E474E	exonic	MEFV	synonymous SNV	MEFV:ENST00000536379.1:exon4:c.G789A:p.E263E,MEFV:ENST00000536980.1:exon4:c.G789A:p.E263E,MEFV:ENST00000541159.1:exon4:c.G789A:p.E263E,MEFV:ENST00000219596.1:exon5:c.G1422A:p.E474E,MEFV:ENST00000339854.4:exon5:c.G882A:p.E294E,MEFV:ENST00000537682.1:exon5:c.G1422A:p.E474E,MEFV:ENST00000542898.1:exon6:c.G1515A:p.E505E	.	Score=369;Name=lod=42	0.61	.	rs224208	0.566569	rs224208	.
+chr16	3297553	3297553	A	-	intronic	MEFV	.	.	intronic	MEFV	.	.	.	.	.	.	.	.	.	.
+chr16	3298865	3298865	T	C	intronic	MEFV	.	.	intronic	MEFV	.	.	.	.	0.63	.	rs224212	0.583808	rs224212	.
+chr16	3299749	3299749	G	A	exonic	MEFV	synonymous SNV	MEFV:NM_001198536:exon2:c.C309T:p.R103R,MEFV:NM_000243:exon3:c.C942T:p.R314R	exonic	MEFV	synonymous SNV	MEFV:ENST00000536379.1:exon2:c.C309T:p.R103R,MEFV:ENST00000536980.1:exon2:c.C309T:p.R103R,MEFV:ENST00000541159.1:exon2:c.C309T:p.R103R,MEFV:ENST00000219596.1:exon3:c.C942T:p.R314R,MEFV:ENST00000339854.4:exon3:c.C402T:p.R134R,MEFV:ENST00000537682.1:exon3:c.C942T:p.R314R,MEFV:ENST00000538326.1:exon3:c.C942T:p.R314R,MEFV:ENST00000542898.1:exon4:c.C1035T:p.R345R	.	.	0.66	.	rs224213	0.595660	rs224213	.
+chr16	3304463	3304463	C	T	exonic	MEFV	nonsynonymous SNV	MEFV:NM_000243:exon2:c.G605A:p.R202Q	exonic	MEFV	nonsynonymous SNV	MEFV:ENST00000219596.1:exon2:c.G605A:p.R202Q,MEFV:ENST00000537682.1:exon2:c.G605A:p.R202Q,MEFV:ENST00000538326.1:exon2:c.G605A:p.R202Q,MEFV:ENST00000542898.1:exon2:c.G605A:p.R202Q,MEFV:ENST00000570511.1:exon2:c.G605A:p.R202Q	.	.	0.17	0.62	rs224222	0.180320	rs224222	.
+chr16	3304573	3304573	G	T	exonic	MEFV	synonymous SNV	MEFV:NM_000243:exon2:c.C495A:p.A165A	exonic	MEFV	synonymous SNV	MEFV:ENST00000219596.1:exon2:c.C495A:p.A165A,MEFV:ENST00000537682.1:exon2:c.C495A:p.A165A,MEFV:ENST00000538326.1:exon2:c.C495A:p.A165A,MEFV:ENST00000542898.1:exon2:c.C495A:p.A165A,MEFV:ENST00000570511.1:exon2:c.C495A:p.A165A	.	.	0.43	.	rs224223	0.466971	rs224223	ID=COSM1128970;OCCURENCE=1(prostate)
+chr16	3304654	3304654	T	C	exonic	MEFV	synonymous SNV	MEFV:NM_000243:exon2:c.A414G:p.G138G	exonic	MEFV	synonymous SNV	MEFV:ENST00000219596.1:exon2:c.A414G:p.G138G,MEFV:ENST00000537682.1:exon2:c.A414G:p.G138G,MEFV:ENST00000538326.1:exon2:c.A414G:p.G138G,MEFV:ENST00000542898.1:exon2:c.A414G:p.G138G,MEFV:ENST00000570511.1:exon2:c.A414G:p.G138G	.	.	0.43	.	rs224224	0.466369	rs224224	.
+chr16	3304762	3304762	A	G	exonic	MEFV	synonymous SNV	MEFV:NM_000243:exon2:c.T306C:p.D102D	exonic	MEFV	synonymous SNV	MEFV:ENST00000219596.1:exon2:c.T306C:p.D102D,MEFV:ENST00000537682.1:exon2:c.T306C:p.D102D,MEFV:ENST00000538326.1:exon2:c.T306C:p.D102D,MEFV:ENST00000542898.1:exon2:c.T306C:p.D102D,MEFV:ENST00000570511.1:exon2:c.T306C:p.D102D	.	.	0.42	.	rs224225	0.476313	rs224225	ID=COSM435205;OCCURENCE=1(breast)
+chr16	3362953	3362953	T	G	intronic	ZNF75A	.	.	intronic	ZNF75A	.	.	.	.	0.98	.	rs37840	.	rs37840	.
+chr16	3401168	3401168	T	A	intergenic	ZNF75A(dist=32592),OR2C1(dist=4721)	.	.	intergenic	RP11-433P17.1(dist=27243),OR2C1(dist=4721)	.	.	.	.	0.87	.	rs67426049	.	rs67426049	.
+chr16	3401198	3401198	T	C	intergenic	ZNF75A(dist=32622),OR2C1(dist=4691)	.	.	intergenic	RP11-433P17.1(dist=27273),OR2C1(dist=4691)	.	.	.	.	.	.	rs67187418	.	rs67187418	.
+chr16	3401206	3401206	C	T	intergenic	ZNF75A(dist=32630),OR2C1(dist=4683)	.	.	intergenic	RP11-433P17.1(dist=27281),OR2C1(dist=4683)	.	.	.	.	.	.	rs72633267	.	rs72633267	.
+chr16	3403057	3403057	G	T	intergenic	ZNF75A(dist=34481),OR2C1(dist=2832)	.	.	intergenic	RP11-433P17.1(dist=29132),OR2C1(dist=2832)	.	.	.	.	0.29	.	rs67218524	.	rs67218524	.
+chr16	3405986	3405986	G	A	exonic	OR2C1	nonsynonymous SNV	OR2C1:NM_012368:exon1:c.G46A:p.G16S	exonic	OR2C1	nonsynonymous SNV	OR2C1:ENST00000304936.2:exon1:c.G46A:p.G16S	.	Score=336;Name=lod=31	0.26	0.01	rs1218762	0.298907	rs1218762	.
+chr16	3405994	3405994	A	G	exonic	OR2C1	synonymous SNV	OR2C1:NM_012368:exon1:c.A54G:p.S18S	exonic	OR2C1	synonymous SNV	OR2C1:ENST00000304936.2:exon1:c.A54G:p.S18S	.	Score=346;Name=lod=34	0.87	.	rs1228348	0.840773	rs1228348	.
+chr16	3429525	3429535	GAAAAAAAAAG	GAAAAAAAAAAG	intergenic	MTRNR2L4(dist=7242),ZSCAN32(dist=2546)	.	.	intronic	NAA60	.	.	.	.	.	.	.	.	.	.
+chr16	3440394	3440394	A	G	intronic	ZSCAN32	.	.	intronic	NAA60,ZSCAN32	.	.	.	.	0.91	.	rs27237	.	rs27237	.
+chr16	3469993	3469993	A	G	intergenic	ZNF174(dist=10629),ZNF597(dist=16117)	.	.	intronic	NAA60	.	.	.	.	1.00	.	rs2176639	.	rs2176639	.
+chr16	3488216	3488233	TAAAAAAAAAAAAAAAAG	TAAAAAAAAAAAAAAAAAG	intronic	ZNF597	.	.	intronic	NAA60,ZNF597	.	.	.	.	.	.	.	.	.	.
+chr16	3488334	3488334	T	C	intronic	ZNF597	.	.	intronic	NAA60,ZNF597	.	.	.	.	0.25	.	rs37826	.	rs37826	.
+chr16	3491209	3491209	T	C	intronic	ZNF597	.	.	intronic	NAA60,ZNF597	.	.	.	.	0.88	.	rs37831	.	rs37831	.
+chr16	3509056	3509056	G	A	intronic	NAA60	.	.	ncRNA_intronic	LA16c-306E5.3	.	.	.	.	0.19	.	rs40363	.	rs40363	.
+chr16	3516777	3516777	G	C	intronic	NAA60	.	.	ncRNA_intronic	LA16c-306E5.3	.	.	.	.	.	.	.	.	.	.
+chr16	3517787	3517787	C	G	intronic	NAA60	.	.	ncRNA_intronic	LA16c-306E5.3	.	.	.	.	0.11	.	rs1690443	.	rs1690443	.
+chr16	3525431	3525431	C	A	intronic	NAA60	.	.	ncRNA_intronic	LA16c-306E5.3	.	.	.	.	0.36	.	rs250629	.	rs250629	.
+chr16	3542746	3542746	-	TA	downstream	C16orf90	.	.	ncRNA_intronic	LA16c-306E5.3	.	.	.	Score=574;Name=lod=287	.	.	.	.	.	.
+chr16	3584140	3584140	T	C	intronic	CLUAP1	.	.	UTR3	CLUAP1	.	.	.	.	0.98	.	rs1034735	.	rs1034735	.
+chr16	3639139	3639139	A	G	exonic	SLX4	synonymous SNV	SLX4:NM_032444:exon12:c.T4500C:p.N1500N	exonic	SLX4	synonymous SNV	SLX4:ENST00000294008.3:exon12:c.T4500C:p.N1500N	.	.	0.69	.	rs3810812	0.626597	rs3810812	.
+chr16	3708282	3708296	ATTTTTTTTTTTTTG	ATTTTTTTTTTTTG	intronic	TRAP1	.	.	intronic	DNASE1,TRAP1	.	.	.	.	.	.	.	.	.	.
+chr16	3728708	3728708	T	C	intronic	TRAP1	.	.	intronic	DNASE1,TRAP1	.	.	.	.	0.72	.	rs7203664	.	rs7203664	.
+chr16	3747042	3747042	G	T	intronic	TRAP1	.	.	intronic	TRAP1	.	.	.	.	0.85	.	rs1635404	.	rs1635404	.
+chr16	3754106	3754106	G	T	intronic	TRAP1	.	.	intronic	TRAP1	.	.	.	.	.	.	.	.	.	.
+chr16	3772992	3772992	G	T	intergenic	TRAP1(dist=5394),CREBBP(dist=2064)	.	.	intergenic	TRAP1(dist=5394),CREBBP(dist=2063)	.	.	.	.	.	.	.	.	.	.
+chr16	3777836	3777836	T	C	exonic	CREBBP	synonymous SNV	CREBBP:NM_001079846:exon30:c.A7098G:p.E2366E,CREBBP:NM_004380:exon31:c.A7212G:p.E2404E	exonic	CREBBP	synonymous SNV	CREBBP:ENST00000382070.3:exon30:c.A7098G:p.E2366E,CREBBP:ENST00000262367.5:exon31:c.A7212G:p.E2404E	.	Score=630;Name=lod=486	0.01	.	rs55916120	0.018624	rs55916120	.
+chr16	3788315	3788331	TAAAAAAAAAAAAAAAG	TAAAAAAAAAAAAAAG	intronic	CREBBP	.	.	intronic	CREBBP	.	.	.	.	.	.	.	.	.	.
+chr16	3790186	3790186	G	T	intronic	CREBBP	.	.	intronic	CREBBP	.	.	.	.	0.52	.	rs11076785	.	rs11076785	.
+chr16	3808052	3808066	TAAAAAAAAAAAAAT	TAAAAAAAAAAAAT	intronic	CREBBP	.	.	intronic	CREBBP	.	.	.	Score=278;Name=lod=18	.	.	.	.	.	.
+chr16	3818137	3818137	G	T	intronic	CREBBP	.	.	intronic	CREBBP	.	.	.	.	.	.	rs76555127	.	rs76555127	.
+chr16	3845951	3845951	C	A	intronic	CREBBP	.	.	intronic	CREBBP	.	.	.	.	.	.	.	.	.	.
+chr16	3873731	3873731	T	C	intronic	CREBBP	.	.	intronic	CREBBP	.	.	.	.	.	.	.	.	.	.
+chr16	3887127	3887127	G	T	intronic	CREBBP	.	.	intronic	CREBBP	.	.	.	.	.	.	.	.	.	.
+chr16	3952020	3952020	C	T	intergenic	CREBBP(dist=21899),ADCY9(dist=60630)	.	.	intergenic	CREBBP(dist=21293),RP11-462G12.2(dist=29198)	.	.	.	.	0.97	.	rs9746964	.	rs9746964	.
+chr16	3991725	3991725	C	T	intergenic	CREBBP(dist=61604),ADCY9(dist=20925)	.	.	ncRNA_intronic	RP11-462G12.2	.	.	.	.	.	.	.	.	.	.
+chr16	3992752	3992752	C	T	intergenic	CREBBP(dist=62631),ADCY9(dist=19898)	.	.	ncRNA_intronic	RP11-462G12.2	.	.	.	.	0.14	.	rs12920416	.	rs12920416	.
+chr16	3996282	3996282	G	A	intergenic	CREBBP(dist=66161),ADCY9(dist=16368)	.	.	ncRNA_exonic	RP11-462G12.2	.	.	.	.	0.20	.	rs17136624	.	rs17136624	.
+chr16	4015493	4015493	C	-	UTR3	ADCY9	.	.	UTR3	ADCY9	.	.	.	Score=329;Name=lod=29	.	.	.	.	.	.
+chr16	4015729	4015729	C	T	UTR3	ADCY9	.	.	UTR3	ADCY9	.	.	.	.	0.40	.	rs879620	0.480914	rs879620	.
+chr16	4016676	4016676	A	G	exonic	ADCY9	synonymous SNV	ADCY9:NM_001116:exon11:c.T3162C:p.H1054H	exonic	ADCY9	synonymous SNV	ADCY9:ENST00000294016.3:exon11:c.T3162C:p.H1054H	.	Score=540;Name=lod=209	0.79	.	rs2230742	0.801293	rs2230742	.
+chr16	4017392	4017392	T	A	intronic	ADCY9	.	.	intronic	ADCY9	.	.	.	.	0.39	.	rs2601781	.	rs2601781	.
+chr16	4027423	4027423	C	T	intronic	ADCY9	.	.	intronic	ADCY9	.	.	.	.	0.58	.	rs2072346	.	rs2072346	.
+chr16	4027605	4027605	C	T	exonic	ADCY9	synonymous SNV	ADCY9:NM_001116:exon9:c.G2706A:p.A902A	exonic	ADCY9	synonymous SNV	ADCY9:ENST00000294016.3:exon9:c.G2706A:p.A902A	.	Score=278;Name=lod=18	0.55	.	rs2240735	0.578493	rs2240735	.
+chr16	4027688	4027688	T	C	intronic	ADCY9	.	.	intronic	ADCY9	.	.	.	.	0.55	.	rs2531990	.	rs2531990	.
+chr16	4027749	4027749	A	G	intronic	ADCY9	.	.	intronic	ADCY9	.	.	.	.	0.78	.	rs2601774	.	rs2601774	.
+chr16	4028866	4028866	G	A	intronic	ADCY9	.	.	intronic	ADCY9	.	.	.	.	0.18	.	rs12923006	.	rs12923006	.
+chr16	4028877	4028877	T	C	intronic	ADCY9	.	.	intronic	ADCY9	.	.	.	.	0.68	.	rs2531987	.	rs2531987	.
+chr16	4029329	4029329	G	A	intronic	ADCY9	.	.	intronic	ADCY9	.	.	.	.	0.01	.	rs56139472	.	rs56139472	.
+chr16	4029577	4029577	T	C	intronic	ADCY9	.	.	intronic	ADCY9	.	.	.	.	0.63	.	rs2531986	.	rs2531986	.
+chr16	4033012	4033012	A	C	intronic	ADCY9	.	.	intronic	ADCY9	.	.	.	.	0.66	.	rs2531983	.	rs2531983	.
+chr16	4038350	4038350	G	C	intronic	ADCY9	.	.	intronic	ADCY9	.	.	.	.	0.12	.	rs72762733	.	rs72762733	.
+chr16	4038359	4038359	A	G	intronic	ADCY9	.	.	intronic	ADCY9	.	.	.	.	0.17	.	rs67022589	.	rs67022589	.
+chr16	4039141	4039141	A	G	intronic	ADCY9	.	.	intronic	ADCY9	.	.	.	.	0.87	.	rs2072341	0.909497	rs2072341	.
+chr16	4039351	4039351	G	A	intronic	ADCY9	.	.	intronic	ADCY9	.	.	.	.	0.87	.	rs2072340	.	rs2072340	.
+chr16	4041953	4041953	C	A	intronic	ADCY9	.	.	intronic	ADCY9	.	.	.	.	0.02	.	rs111685728	.	rs111685728	.
+chr16	4041995	4041995	C	T	intronic	ADCY9	.	.	intronic	ADCY9	.	.	.	.	0.13	.	rs3730124	.	rs3730124	.
+chr16	4043091	4043091	C	A	intronic	ADCY9	.	.	intronic	ADCY9	.	.	.	.	0.97	.	rs2531978	.	rs2531978	.
+chr16	4056927	4056927	A	G	intronic	ADCY9	.	.	intronic	ADCY9	.	.	.	Score=304;Name=lod=23	0.15	.	rs2072338	.	rs2072338	.
+chr16	4057875	4057875	C	T	intronic	ADCY9	.	.	intronic	ADCY9	.	.	.	.	0.96	.	rs2601784	.	rs2601784	.
+chr16	4072774	4072774	A	G	intronic	ADCY9	.	.	intronic	ADCY9	.	.	.	.	0.96	.	rs758443	.	rs758443	.
+chr16	4095271	4095271	C	G	intronic	ADCY9	.	.	intronic	ADCY9	.	.	.	.	0.92	.	rs2601798	.	rs2601798	.
+chr16	4124300	4124300	G	T	intronic	ADCY9	.	.	intronic	ADCY9	.	.	.	.	0.67	.	rs2532019	.	rs2532019	.
+chr16	4164364	4164364	C	T	exonic	ADCY9	synonymous SNV	ADCY9:NM_001116:exon2:c.G1080A:p.R360R	exonic	ADCY9	synonymous SNV	ADCY9:ENST00000294016.3:exon2:c.G1080A:p.R360R	.	Score=576;Name=lod=292	0.31	.	rs2230738	0.187317	rs2230738	.
+chr16	4165432	4165432	T	C	exonic	ADCY9	synonymous SNV	ADCY9:NM_001116:exon2:c.A12G:p.P4P	exonic	ADCY9	synonymous SNV	ADCY9:ENST00000294016.3:exon2:c.A12G:p.P4P	.	Score=615;Name=lod=422	1.00	.	rs2530898	.	rs2530898	.
+chr16	4167739	4167739	C	G	intergenic	ADCY9(dist=1553),SRL(dist=71636)	.	.	intergenic	ADCY9(dist=1553),RP11-95P2.4(dist=12817)	.	.	.	.	0.43	.	rs12599013	.	rs12599013	.
+chr16	4167899	4167899	A	G	intergenic	ADCY9(dist=1713),SRL(dist=71476)	.	.	intergenic	ADCY9(dist=1713),RP11-95P2.4(dist=12657)	.	.	.	.	0.89	.	rs2532003	.	rs2532003	.
+chr16	4207082	4207097	CTTTTTTTTTTTTTTG	CTTTTTTTTTTTTG	intergenic	ADCY9(dist=40896),SRL(dist=32278)	.	.	intergenic	RP11-95P2.4(dist=26261),RP11-95P2.3(dist=23021)	.	.	.	.	.	.	.	.	.	.
+chr16	4213216	4213216	C	A	intergenic	ADCY9(dist=47030),SRL(dist=26159)	.	.	intergenic	RP11-95P2.4(dist=32395),RP11-95P2.3(dist=16902)	.	.	.	.	.	.	.	.	.	.
+chr16	4215546	4215546	G	T	intergenic	ADCY9(dist=49360),SRL(dist=23829)	.	.	intergenic	RP11-95P2.4(dist=34725),RP11-95P2.3(dist=14572)	.	.	.	.	.	.	.	.	.	.
+chr16	4256189	4256189	A	G	intronic	SRL	.	.	intronic	SRL	.	.	.	.	0.19	.	rs2386880	.	rs2386880	.
+chr16	4259996	4259996	T	C	intronic	SRL	.	.	intronic	SRL	.	.	.	.	0.97	.	rs12923343	.	rs12923343	.
+chr16	4270906	4270906	G	T	intronic	SRL	.	.	intronic	SRL	.	.	.	.	.	.	.	.	.	.
+chr16	4276056	4276056	A	G	intronic	SRL	.	.	intronic	SRL	.	.	.	.	0.77	.	rs1291717	.	rs1291717	.
+chr16	4298612	4298612	C	T	ncRNA_intronic	LOC100507501	.	.	ncRNA_intronic	RP11-95P2.1	.	.	.	.	.	.	.	.	.	.
+chr16	4317811	4317811	C	A	intronic	TFAP4	.	.	intronic	TFAP4	.	.	.	.	0.33	.	rs251740	.	rs251740	.
+chr16	4373066	4373066	G	A	intergenic	TFAP4(dist=50065),GLIS2(dist=9159)	.	.	intronic	GLIS2	.	.	.	.	.	.	.	.	.	.
+chr16	4519140	4519140	C	G	intronic	NMRAL1	.	.	intronic	NMRAL1	.	.	.	.	0.65	.	rs3747585	.	rs3747585	.
+chr16	4563995	4563995	C	A	intronic	CDIP1	.	.	intronic	CDIP1	.	.	.	.	.	.	.	.	.	.
+chr16	4581002	4581002	T	G	intronic	CDIP1	.	.	intronic	CDIP1	.	.	.	.	0.55	.	rs11644481	.	rs11644481	.
+chr16	4584025	4584025	A	C	intronic	CDIP1	.	.	intronic	CDIP1	.	.	.	.	0.97	.	rs865184	.	rs865184	.
+chr16	4585440	4585440	C	G	intronic	CDIP1	.	.	intronic	CDIP1	.	.	.	.	0.97	.	rs841230	.	rs841230	.
+chr16	4598114	4598114	C	A	intergenic	CDIP1(dist=9298),C16orf96(dist=8377)	.	.	intergenic	CDIP1(dist=9285),C16orf96(dist=8377)	.	.	.	.	0.97	.	rs2438983	.	rs2438983	.
+chr16	4607341	4607341	T	G	intronic	C16orf96	.	.	intronic	C16orf96	.	.	.	.	0.96	.	rs1486451	.	rs1486451	.
+chr16	4614055	4614055	T	C	intronic	C16orf96	.	.	intronic	C16orf96	.	.	.	.	0.95	.	rs6500615	.	rs6500615	.
+chr16	4617975	4617975	A	G	intronic	C16orf96	.	.	intronic	C16orf96	.	.	.	.	0.97	.	rs2430661	.	rs2430661	.
+chr16	4658584	4658584	G	A	downstream	UBALD1	.	.	downstream	UBALD1	.	.	.	Score=243;Name=lod=13	0.71	.	rs2279408	.	rs2279408	.
+chr16	4668520	4668520	C	T	intergenic	UBALD1(dist=3593),MGRN1(dist=6305)	.	.	intronic	MGRN1	.	.	.	.	0.97	.	rs841197	.	rs841197	.
+chr16	4671729	4671729	T	G	intergenic	UBALD1(dist=6802),MGRN1(dist=3096)	.	.	intronic	MGRN1	.	.	.	.	0.75	.	rs8059151	.	rs8059151	.
+chr16	4672769	4672769	G	A	intergenic	UBALD1(dist=7842),MGRN1(dist=2056)	.	.	intronic	MGRN1	.	.	.	.	0.70	.	rs3992040	.	rs3992040	.
+chr16	4712148	4712148	G	A	intronic	MGRN1	.	.	intronic	MGRN1	.	.	.	.	0.47	.	rs1684625	.	rs1684625	.
+chr16	4720993	4720993	C	T	intronic	MGRN1	.	.	intronic	MGRN1	.	.	.	.	0.52	.	rs2278567	.	rs2278567	.
+chr16	4721025	4721025	A	C	intronic	MGRN1	.	.	intronic	MGRN1	.	.	.	.	0.53	.	rs2278566	.	rs2278566	.
+chr16	4727155	4727155	T	C	intronic	MGRN1	.	.	intronic	MGRN1	.	.	.	.	.	.	.	.	.	.
+chr16	4772810	4772810	T	C	intronic	ANKS3	.	.	intronic	ANKS3	.	.	.	.	0.47	.	rs859296	.	rs859296	.
+chr16	4788821	4788823	ATG	GTT	intronic	C16orf71	.	.	ncRNA_intronic	RP11-127I20.7	.	.	.	.	.	.	.	.	.	.
+chr16	4793514	4793514	-	CG	intronic	C16orf71	.	.	ncRNA_intronic	RP11-127I20.7	.	.	.	.	.	.	.	.	.	.
+chr16	4803327	4803327	G	C	intronic	ZNF500	.	.	intronic	ZNF500	.	.	.	.	0.60	.	rs963712	.	rs963712	.
+chr16	4805650	4805650	C	A	intronic	ZNF500	.	.	intronic	ZNF500	.	.	.	.	.	.	.	.	.	.
+chr16	4833185	4833185	C	T	intronic	SEPT12	.	.	intronic	SEPT12	.	.	.	.	0.02	.	rs143328342	.	rs143328342	.
+chr16	4833861	4833861	T	C	intronic	SEPT12	.	.	intronic	SEPT12	.	.	.	.	0.11	.	rs112713748	.	rs112713748	.
+chr16	4835200	4835200	A	C	intronic	SEPT12	.	.	intronic	SEPT12	.	.	.	.	.	.	.	.	.	.
+chr16	4835221	4835222	TG	CA	intronic	SEPT12	.	.	intronic	SEPT12	.	.	.	.	.	.	.	.	.	.
+chr16	4835317	4835324	TGTGTCAC	CATGCCAT	intronic	SEPT12	.	.	intronic	SEPT12	.	.	.	.	.	.	.	.	.	.
+chr16	4835332	4835333	TG	CA	intronic	SEPT12	.	.	intronic	SEPT12	.	.	.	.	.	.	.	.	.	.
+chr16	4835341	4835341	C	T	intronic	SEPT12	.	.	intronic	SEPT12	.	.	.	.	.	.	.	.	.	.
+chr16	4835350	4835355	CTAGAT	TGAAAC	intronic	SEPT12	.	.	intronic	SEPT12	.	.	.	.	.	.	.	.	.	.
+chr16	4835360	4835363	TCTC	CCTA	intronic	SEPT12	.	.	intronic	SEPT12	.	.	.	.	.	.	.	.	.	.
+chr16	4835794	4835796	GAG	GAAG	intronic	SEPT12	.	.	intronic	SEPT12	.	.	.	.	.	.	.	.	.	.
+chr16	4836155	4836161	GTTTTTC	GTTTTTTC	intronic	SEPT12	.	.	intronic	SEPT12	.	.	.	.	.	.	.	.	.	.
+chr16	4847169	4847169	G	A	UTR3	ROGDI	.	.	UTR3	ROGDI	.	.	.	.	0.40	.	rs8118	.	rs8118	.
+chr16	4847317	4847317	C	T	UTR3	ROGDI	.	.	UTR3	ROGDI	.	.	.	.	0.40	.	rs7546	.	rs7546	.
+chr16	4847524	4847524	T	C	intronic	ROGDI	.	.	intronic	ROGDI	.	.	.	.	0.40	.	rs1982515	0.387717	rs1982515	.
+chr16	4848494	4848494	C	G	intronic	ROGDI	.	.	intronic	ROGDI	.	.	.	.	0.54	.	rs8053790	.	rs8053790	.
+chr16	4848809	4848810	AA	-	intronic	ROGDI	.	.	intronic	ROGDI	.	.	.	.	.	.	.	.	.	.
+chr16	4849471	4849471	A	C	intronic	ROGDI	.	.	intronic	ROGDI	.	.	.	.	0.48	.	rs7191123	.	rs7191123	.
+chr16	4851862	4851862	G	A	intronic	ROGDI	.	.	intronic	ROGDI	.	.	.	.	0.08	.	rs75558393	.	rs75558393	.
+chr16	4901688	4901688	G	C	intronic	UBN1	.	.	intronic	UBN1	.	.	.	.	0.19	.	rs73517042	.	rs73517042	.
+chr16	4950182	4950182	T	C	intronic	PPL	.	.	intronic	PPL	.	.	.	.	0.94	.	rs7199822	.	rs7199822	.
+chr16	4957005	4957005	C	G	intronic	PPL	.	.	intronic	PPL	.	.	.	.	0.93	.	rs12709121	.	rs12709121	.
+chr16	4997420	4997420	T	G	intergenic	PPL(dist=10284),SEC14L5(dist=10898)	.	.	intronic	PPL	.	.	.	.	0.21	.	rs7198054	.	rs7198054	.
+chr16	5011305	5011305	-	A	intronic	SEC14L5	.	.	intronic	SEC14L5	.	.	.	.	.	.	.	.	.	.
+chr16	5014679	5014679	T	C	intronic	SEC14L5	.	.	intronic	SEC14L5	.	.	.	.	0.65	.	rs1019251	.	rs1019251	.
+chr16	5024605	5024616	CTTTTTTTTTTA	CTTTTTTTTTA	intronic	SEC14L5	.	.	intronic	SEC14L5	.	.	.	.	.	.	.	.	.	.
+chr16	5032298	5032298	C	A	intronic	SEC14L5	.	.	intronic	SEC14L5	.	.	.	Score=313;Name=lod=25	0.21	.	rs11640880	.	rs11640880	.
+chr16	5035401	5035401	C	G	intronic	SEC14L5	.	.	intronic	SEC14L5	.	.	.	.	0.33	.	rs2908688	.	rs2908688	.
+chr16	5063102	5063102	A	G	intronic	SEC14L5	.	.	ncRNA_intronic	RP11-165E7.1	.	.	.	.	1.00	.	rs2972281	.	rs2972281	.
+chr16	5063152	5063152	A	G	intronic	SEC14L5	.	.	ncRNA_intronic	RP11-165E7.1	.	.	.	.	0.60	.	rs8046982	.	rs8046982	.
+chr16	5065356	5065356	T	C	UTR3	SEC14L5	.	.	ncRNA_UTR3	SEC14L5	.	.	.	.	1.00	.	rs1008072	.	rs1008072	.
+chr16	5075226	5075226	G	A	UTR3	NAGPA	.	.	ncRNA_UTR3	NAGPA	.	.	.	.	0.51	.	rs1045693	.	rs1045693	.
+chr16	5075246	5075248	CAG	GAG	UTR3	NAGPA	.	.	ncRNA_UTR3	NAGPA	.	.	.	.	.	.	.	.	.	.
+chr16	5075246	5075248	CAG	GAA	UTR3	NAGPA	.	.	ncRNA_UTR3	NAGPA	.	.	.	.	.	.	.	.	.	.
+chr16	5075542	5075542	G	A	exonic	NAGPA	synonymous SNV	NAGPA:NM_016256:exon10:c.C1485T:p.N495N	exonic	NAGPA	synonymous SNV	NAGPA:ENST00000381955.3:exon9:c.C1383T:p.N461N,NAGPA:ENST00000312251.3:exon10:c.C1485T:p.N495N	.	.	0.77	.	rs887854	0.717254	rs887854	.
+chr16	5075633	5075633	G	A	exonic	NAGPA	nonsynonymous SNV	NAGPA:NM_016256:exon10:c.C1394T:p.T465I	exonic	NAGPA	nonsynonymous SNV	NAGPA:ENST00000381955.3:exon9:c.C1292T:p.T431I,NAGPA:ENST00000312251.3:exon10:c.C1394T:p.T465I	.	.	0.23	0.04	rs7188856	0.276401	rs7188856	.
+chr16	5077411	5077417	GGAGGAG	-	intronic	NAGPA	.	.	ncRNA_intronic	RP11-165E7.1	.	.	.	.	.	.	.	.	.	.
+chr16	5077794	5077794	G	T	intronic	NAGPA	.	.	ncRNA_intronic	RP11-165E7.1	.	.	.	.	0.40	.	rs2937112	.	rs2937112	.
+chr16	5078841	5078841	T	C	intronic	NAGPA	.	.	ncRNA_intronic	RP11-165E7.1	.	.	.	.	1.00	.	rs1995278	0.999692	rs1995278	.
+chr16	5080523	5080523	C	T	intronic	NAGPA	.	.	ncRNA_intronic	RP11-165E7.1	.	.	.	.	0.21	.	rs2102065	0.233296	rs2102065	.
+chr16	5083483	5083483	T	C	exonic	NAGPA	synonymous SNV	NAGPA:NM_016256:exon2:c.A333G:p.G111G	exonic	NAGPA	synonymous SNV	NAGPA:ENST00000562037.1:exon1:c.A162G:p.G54G,NAGPA:ENST00000312251.3:exon2:c.A333G:p.G111G,NAGPA:ENST00000381955.3:exon2:c.A333G:p.G111G,NAGPA:ENST00000562746.1:exon2:c.A333G:p.G111G	.	.	0.73	.	rs2972272	0.682899	rs2972272	.
+chr16	5084177	5084190	GTTTTTTTTTTTTC	GTTTTTTTTTTTC	ncRNA_intronic	NAGPA-AS1	.	.	ncRNA_intronic	RP11-165E7.1	.	.	.	.	.	.	.	.	.	.
+chr16	5085077	5085077	A	G	ncRNA_intronic	NAGPA-AS1	.	.	ncRNA_intronic	RP11-165E7.1	.	.	.	.	0.99	.	rs2908666	.	rs2908666	.
+chr16	5105010	5105010	C	A	intronic	C16orf89	.	.	intronic	ALG1,C16orf89	.	.	.	.	.	.	.	.	.	.
+chr16	5122077	5122077	-	TCTG	intronic	ALG1	.	.	exonic	ALG1	frameshift insertion	ALG1:ENST00000591822.1:exon1:c.227_228insTCTG:p.W76fs	.	.	.	.	rs35400794	.	rs35400794	.
+chr16	5122193	5122193	-	G	intronic	ALG1	.	.	UTR3	ALG1	.	.	.	.	.	.	.	.	.	.
+chr16	5122681	5122681	C	G	intronic	ALG1	.	.	intronic	ALG1	.	.	.	.	0.53	.	rs8045294	.	rs8045294	.
+chr16	5122768	5122768	T	G	intronic	ALG1	.	.	intronic	ALG1	.	.	.	.	0.54	.	rs8050532	.	rs8050532	.
+chr16	5123270	5123270	C	T	intronic	ALG1	.	.	intronic	ALG1	.	.	.	.	0.23	.	rs62036244	0.241419	rs62036244	.
+chr16	5125040	5125040	G	A	intronic	ALG1	.	.	intronic	ALG1	.	.	.	.	0.23	.	rs2270255	.	rs2270255	.
+chr16	5125365	5125365	C	T	intronic	ALG1	.	.	intronic	ALG1	.	.	.	.	0.95	.	rs4786590	0.939895	rs4786590	.
+chr16	5127335	5127335	T	A	intronic	ALG1	.	.	intronic	ALG1	.	.	.	.	0.95	.	rs11076869	.	rs11076869	.
+chr16	5127721	5127721	G	T	intronic	ALG1	.	.	intronic	ALG1	.	.	Score=0.94794;Name=chr3:125650936	.	0.61	.	rs2302552	.	rs2302552	.
+chr16	5127853	5127853	G	A	intronic	ALG1	.	.	intronic	ALG1	.	.	Score=0.94794;Name=chr3:125650936	.	0.95	.	rs7194217	.	rs7194217	.
+chr16	5128647	5128647	T	C	intronic	ALG1	.	.	intronic	ALG1	.	.	Score=0.94794;Name=chr3:125650936	.	0.97	.	rs2110339	.	rs2110339	.
+chr16	5128902	5128902	T	C	intronic	ALG1	.	.	intronic	ALG1	.	.	Score=0.94794;Name=chr3:125650936	.	0.34	.	rs2110338	0.322226	rs2110338	.
+chr16	5128981	5128981	G	A	intronic	ALG1	.	.	intronic	ALG1	.	.	Score=0.94794;Name=chr3:125650936	.	0.50	.	rs1846690	.	rs1846690	.
+chr16	5128995	5128995	C	T	intronic	ALG1	.	.	intronic	ALG1	.	.	Score=0.94794;Name=chr3:125650936	.	0.50	.	rs1846689	.	rs1846689	.
+chr16	5129174	5129174	C	T	intronic	ALG1	.	.	intronic	ALG1	.	.	Score=0.94794;Name=chr3:125650936	.	0.50	.	rs1846688	.	rs1846688	.
+chr16	5129400	5129400	T	A	intronic	ALG1	.	.	intronic	ALG1	.	.	Score=0.94794;Name=chr3:125650936	.	0.50	.	rs8055679	.	rs8055679	.
+chr16	5129892	5129892	T	C	intronic	ALG1	.	.	intronic	ALG1	.	.	Score=0.94794;Name=chr3:125650936	.	0.42	.	rs1909748	.	rs1909748	.
+chr16	5129979	5129979	C	T	intronic	ALG1	.	.	intronic	ALG1	.	.	Score=0.94794;Name=chr3:125650936	.	0.62	.	rs8055768	.	rs8055768	.
+chr16	5132334	5132342	CAAAAAAAC	CAAAAAAAAC	intronic	ALG1	.	.	intronic	ALG1	.	.	Score=0.944953;Name=chr3:129810075	.	.	.	.	.	.	.
+chr16	5132472	5132472	C	T	intronic	ALG1	.	.	intronic	ALG1	.	.	Score=0.944953;Name=chr3:129810075	.	0.24	.	rs4786592	.	rs4786592	ID=COSN165101;OCCURENCE=1(NS)
+chr16	5132636	5132636	C	T	exonic	ALG1	synonymous SNV	ALG1:NM_019109:exon11:c.C1149T:p.F383F	exonic	ALG1	synonymous SNV	ALG1:ENST00000262374.5:exon11:c.C1149T:p.F383F,ALG1:ENST00000544428.1:exon11:c.C816T:p.F272F,ALG1:ENST00000588623.1:exon12:c.C816T:p.F272F	Score=0.944953;Name=chr3:129810075	Score=614;Name=lod=416	0.47	.	rs1047732	0.469366	rs1047732	.
+chr16	5132785	5132785	G	A	intronic	ALG1	.	.	intronic	ALG1	.	.	Score=0.944953;Name=chr3:129810075	.	0.42	.	rs12596631	.	rs12596631	.
+chr16	5133606	5133606	G	T	intronic	ALG1	.	.	intronic	ALG1	.	.	Score=0.944953;Name=chr3:129810075	.	0.53	.	rs8056523	.	rs8056523	.
+chr16	5134446	5134446	A	G	UTR3	FAM86A	.	.	UTR3	FAM86A	.	.	Score=0.944953;Name=chr3:129810075	.	1.00	.	rs9746781	.	rs9746781	.
+chr16	5134898	5134901	CTAA	CTATAA	UTR3	ALG1,FAM86A	.	.	UTR3	ALG1,FAM86A	.	.	Score=0.944953;Name=chr3:129810075	.	.	.	.	.	.	.
+chr16	5146340	5146340	G	C	intronic	FAM86A	.	.	intronic	FAM86A	.	.	Score=0.944953;Name=chr3:129810075	.	0.07	.	rs62038083	.	rs62038083	.
+chr16	5148274	5148274	C	A	upstream	FAM86A	.	.	upstream	FAM86A,RP11-10K17.6	.	.	Score=0.944953;Name=chr3:129810075	.	.	.	.	.	.	.
+chr16	5148323	5148323	C	G	upstream	FAM86A	.	.	upstream	FAM86A,RP11-10K17.6	.	.	Score=0.944953;Name=chr3:129810075	.	0.68	.	rs4786601	.	rs4786601	.
+chr16	5157606	5157606	C	T	intergenic	FAM86A(dist=9817),RBFOX1(dist=911526)	.	.	ncRNA_intronic	RP11-10K17.6	.	.	Score=0.943428;Name=chr3:125574810	.	0.89	.	rs9302786	.	rs9302786	.
+chr16	5157626	5157626	A	T	intergenic	FAM86A(dist=9837),RBFOX1(dist=911506)	.	.	ncRNA_intronic	RP11-10K17.6	.	.	Score=0.943428;Name=chr3:125574810	.	0.64	.	rs9302787	.	rs9302787	.
+chr16	5157668	5157668	C	T	intergenic	FAM86A(dist=9879),RBFOX1(dist=911464)	.	.	ncRNA_intronic	RP11-10K17.6	.	.	Score=0.943428;Name=chr3:125574810	.	0.89	.	rs9302788	.	rs9302788	.
+chr16	5157693	5157693	A	G	intergenic	FAM86A(dist=9904),RBFOX1(dist=911439)	.	.	ncRNA_intronic	RP11-10K17.6	.	.	Score=0.943428;Name=chr3:125574810	.	0.65	.	rs9302789	.	rs9302789	.
+chr16	5166093	5166093	A	G	intergenic	FAM86A(dist=18304),RBFOX1(dist=903039)	.	.	ncRNA_intronic	RP11-10K17.6	.	.	Score=0.943428;Name=chr3:125574810	Score=532;Name=lod=194	0.66	.	rs9930326	.	rs9930326	.
+chr16	5174275	5174275	C	A	intergenic	FAM86A(dist=26486),RBFOX1(dist=894857)	.	.	ncRNA_intronic	RP11-10K17.6	.	.	Score=0.943428;Name=chr3:125574810	.	0.58	.	rs4786614	.	rs4786614	.
+chr16	5174365	5174365	G	A	intergenic	FAM86A(dist=26576),RBFOX1(dist=894767)	.	.	ncRNA_intronic	RP11-10K17.6	.	.	Score=0.943428;Name=chr3:125574810	.	0.43	.	rs4785989	.	rs4785989	.
+chr16	5189922	5189922	G	C	intergenic	FAM86A(dist=42133),RBFOX1(dist=879210)	.	.	ncRNA_intronic	RP11-10K17.6	.	.	Score=0.943428;Name=chr3:125574810	.	0.55	.	rs4786003	.	rs4786003	.
+chr16	5214771	5214771	T	A	intergenic	FAM86A(dist=66982),RBFOX1(dist=854361)	.	.	intergenic	RP11-10K17.6(dist=22175),RP11-382N13.6(dist=42318)	.	.	Score=0.938167;Name=chr3:125542654	.	0.63	.	rs12447728	.	rs12447728	.
+chr16	5222406	5222406	C	-	intergenic	FAM86A(dist=74617),RBFOX1(dist=846726)	.	.	intergenic	RP11-10K17.6(dist=29810),RP11-382N13.6(dist=34683)	.	.	.	.	.	.	.	.	.	.
+chr16	5255721	5255721	G	A	intergenic	FAM86A(dist=107932),RBFOX1(dist=813411)	.	.	intergenic	RP11-10K17.6(dist=63125),RP11-382N13.6(dist=1368)	.	.	.	.	0.03	.	rs79237224	.	rs79237224	.
+chr16	5255804	5255804	T	C	intergenic	FAM86A(dist=108015),RBFOX1(dist=813328)	.	.	intergenic	RP11-10K17.6(dist=63208),RP11-382N13.6(dist=1285)	.	.	.	.	1.00	.	rs6500667	.	rs6500667	.
+chr16	5343195	5343195	G	A	intergenic	FAM86A(dist=195406),RBFOX1(dist=725937)	.	.	ncRNA_intronic	RP11-420N3.2	.	.	Score=0.941316;Name=chr7:97508721	.	0.28	.	rs12447933	.	rs12447933	.
+chr16	5350477	5350477	C	T	intergenic	FAM86A(dist=202688),RBFOX1(dist=718655)	.	.	ncRNA_intronic	RP11-420N3.2	.	.	.	.	0.58	.	rs2103295	.	rs2103295	.
+chr16	5354642	5354642	A	G	intergenic	FAM86A(dist=206853),RBFOX1(dist=714490)	.	.	ncRNA_intronic	RP11-420N3.2	.	.	.	.	0.65	.	rs9925874	.	rs9925874	.
+chr16	5363518	5363518	A	T	intergenic	FAM86A(dist=215729),RBFOX1(dist=705614)	.	.	ncRNA_intronic	RP11-420N3.2	.	.	.	.	1.00	.	rs12232466	.	rs12232466	.
+chr16	5366899	5366899	A	C	intergenic	FAM86A(dist=219110),RBFOX1(dist=702233)	.	.	ncRNA_intronic	RP11-420N3.2	.	.	.	.	0.94	.	rs9931192	.	rs9931192	.
+chr16	5383594	5383594	G	T	intergenic	FAM86A(dist=235805),RBFOX1(dist=685538)	.	.	ncRNA_intronic	RP11-420N3.2	.	.	.	.	0.79	.	rs1878540	.	rs1878540	.
+chr16	5408084	5408084	C	G	intergenic	FAM86A(dist=260295),RBFOX1(dist=661048)	.	.	ncRNA_intronic	RP11-420N3.2	.	.	.	.	1.00	.	rs938753	.	rs938753	.
+chr16	5408131	5408131	T	A	intergenic	FAM86A(dist=260342),RBFOX1(dist=661001)	.	.	ncRNA_intronic	RP11-420N3.2	.	.	.	.	.	.	.	.	.	.
+chr16	5415971	5415971	A	G	intergenic	FAM86A(dist=268182),RBFOX1(dist=653161)	.	.	ncRNA_exonic	RP11-382N13.3	.	.	Score=0.902267;Name=chr1:27533325	.	0.51	.	rs4786026	.	rs4786026	.
+chr16	5416051	5416051	T	C	intergenic	FAM86A(dist=268262),RBFOX1(dist=653081)	.	.	ncRNA_exonic	RP11-382N13.3	.	.	Score=0.902267;Name=chr1:27533325	.	0.54	.	rs11865528	.	rs11865528	.
+chr16	5416308	5416308	A	G	intergenic	FAM86A(dist=268519),RBFOX1(dist=652824)	.	.	ncRNA_exonic	RP11-382N13.3	.	.	Score=0.902267;Name=chr1:27533325	.	0.36	.	rs11076914	.	rs11076914	.
+chr16	5416455	5416455	T	C	intergenic	FAM86A(dist=268666),RBFOX1(dist=652677)	.	.	ncRNA_exonic	RP11-382N13.3	.	.	Score=0.902267;Name=chr1:27533325	.	0.36	.	rs2023194	.	rs2023194	.
+chr16	5416916	5416916	A	G	intergenic	FAM86A(dist=269127),RBFOX1(dist=652216)	.	.	ncRNA_intronic	RP11-420N3.2	.	.	Score=0.902267;Name=chr1:27533325	.	0.04	.	rs74667818	.	rs74667818	.
+chr16	5454133	5454133	C	T	intergenic	FAM86A(dist=306344),RBFOX1(dist=614999)	.	.	ncRNA_intronic	RP11-420N3.2	.	.	.	.	0.88	.	rs503490	.	rs503490	.
+chr16	5469996	5469996	A	G	intergenic	FAM86A(dist=322207),RBFOX1(dist=599136)	.	.	ncRNA_intronic	RP11-420N3.2	.	.	.	.	0.47	.	rs12444295	.	rs12444295	.
+chr16	5472405	5472405	C	A	intergenic	FAM86A(dist=324616),RBFOX1(dist=596727)	.	.	ncRNA_intronic	RP11-420N3.2	.	.	.	.	0.53	.	rs115635699	.	rs115635699	.
+chr16	5478131	5478131	G	C	intergenic	FAM86A(dist=330342),RBFOX1(dist=591001)	.	.	ncRNA_intronic	RP11-420N3.2	.	.	.	.	.	.	rs199557379	.	rs199557379	.
+chr16	5480549	5480549	C	T	intergenic	FAM86A(dist=332760),RBFOX1(dist=588583)	.	.	ncRNA_intronic	RP11-420N3.2	.	.	.	.	0.46	.	rs12445299	.	rs12445299	.
+chr16	5497156	5497156	G	T	intergenic	FAM86A(dist=349367),RBFOX1(dist=571976)	.	.	ncRNA_intronic	RP11-420N3.2	.	.	.	.	.	.	.	.	.	.
+chr16	5545551	5545551	T	A	intergenic	FAM86A(dist=397762),RBFOX1(dist=523581)	.	.	ncRNA_intronic	RP11-420N3.2	.	.	.	.	.	.	.	.	.	.
+chr16	5568268	5568268	G	A	intergenic	FAM86A(dist=420479),RBFOX1(dist=500864)	.	.	ncRNA_intronic	RP11-420N3.2	.	.	.	.	.	.	.	.	.	.
+chr16	5568355	5568364	ATTTTTTTTG	ATTTTTTTG	intergenic	FAM86A(dist=420566),RBFOX1(dist=500768)	.	.	ncRNA_intronic	RP11-420N3.2	.	.	.	.	.	.	.	.	.	.
+chr16	5568371	5568371	A	G	intergenic	FAM86A(dist=420582),RBFOX1(dist=500761)	.	.	ncRNA_intronic	RP11-420N3.2	.	.	.	.	.	.	.	.	.	.
+chr16	5572967	5572967	A	G	intergenic	FAM86A(dist=425178),RBFOX1(dist=496165)	.	.	ncRNA_intronic	RP11-420N3.2	.	.	.	.	0.22	.	rs8044252	.	rs8044252	.
+chr16	5572994	5572994	-	A	intergenic	FAM86A(dist=425205),RBFOX1(dist=496138)	.	.	ncRNA_intronic	RP11-420N3.2	.	.	.	.	.	.	.	.	.	.
+chr16	5572997	5572997	T	A	intergenic	FAM86A(dist=425208),RBFOX1(dist=496135)	.	.	ncRNA_intronic	RP11-420N3.2	.	.	.	.	.	.	rs55810636	.	rs55810636	.
+chr16	5576894	5576894	C	A	intergenic	FAM86A(dist=429105),RBFOX1(dist=492238)	.	.	ncRNA_intronic	RP11-420N3.2	.	.	.	.	.	.	.	.	.	.
+chr16	5582465	5582465	C	G	intergenic	FAM86A(dist=434676),RBFOX1(dist=486667)	.	.	ncRNA_intronic	RP11-420N3.2	.	.	.	.	0.25	.	rs11644989	.	rs11644989	.
+chr16	5603024	5603024	G	A	intergenic	FAM86A(dist=455235),RBFOX1(dist=466108)	.	.	ncRNA_intronic	RP11-420N3.2	.	.	.	.	0.32	.	rs57902618	.	rs57902618	.
+chr16	5603034	5603034	T	C	intergenic	FAM86A(dist=455245),RBFOX1(dist=466098)	.	.	ncRNA_intronic	RP11-420N3.2	.	.	.	.	0.33	.	rs56926117	.	rs56926117	.
+chr16	5603137	5603137	G	A	intergenic	FAM86A(dist=455348),RBFOX1(dist=465995)	.	.	ncRNA_intronic	RP11-420N3.2	.	.	.	.	0.22	.	rs34367862	.	rs34367862	.
+chr16	5603190	5603190	A	G	intergenic	FAM86A(dist=455401),RBFOX1(dist=465942)	.	.	ncRNA_intronic	RP11-420N3.2	.	.	.	.	0.31	.	rs35478575	.	rs35478575	.
+chr16	5603200	5603200	G	T	intergenic	FAM86A(dist=455411),RBFOX1(dist=465932)	.	.	ncRNA_intronic	RP11-420N3.2	.	.	.	.	0.30	.	rs36058707	.	rs36058707	.
+chr16	5603223	5603223	A	G	intergenic	FAM86A(dist=455434),RBFOX1(dist=465909)	.	.	ncRNA_intronic	RP11-420N3.2	.	.	.	.	0.30	.	rs35146469	.	rs35146469	.
+chr16	5603563	5603563	G	A	intergenic	FAM86A(dist=455774),RBFOX1(dist=465569)	.	.	ncRNA_intronic	RP11-420N3.2	.	.	.	.	0.27	.	rs34126832	.	rs34126832	.
+chr16	5605435	5605435	A	G	intergenic	FAM86A(dist=457646),RBFOX1(dist=463697)	.	.	ncRNA_intronic	RP11-420N3.2	.	.	.	.	0.21	.	rs4344747	.	rs4344747	.
+chr16	5605442	5605442	C	T	intergenic	FAM86A(dist=457653),RBFOX1(dist=463690)	.	.	ncRNA_intronic	RP11-420N3.2	.	.	.	.	0.27	.	rs72763203	.	rs72763203	.
+chr16	5608270	5608270	G	A	intergenic	FAM86A(dist=460481),RBFOX1(dist=460862)	.	.	ncRNA_intronic	RP11-420N3.2	.	.	.	.	0.48	.	rs35624230	.	rs35624230	.
+chr16	5624039	5624039	C	A	intergenic	FAM86A(dist=476250),RBFOX1(dist=445093)	.	.	ncRNA_intronic	RP11-420N3.2	.	.	.	.	0.29	.	rs12934769	.	rs12934769	.
+chr16	5661406	5661406	C	G	intergenic	FAM86A(dist=513617),RBFOX1(dist=407726)	.	.	ncRNA_intronic	RP11-124K4.1,RP11-420N3.2	.	.	.	.	0.55	.	rs11649599	.	rs11649599	.
+chr16	5672875	5672875	G	C	intergenic	FAM86A(dist=525086),RBFOX1(dist=396257)	.	.	ncRNA_intronic	RP11-420N3.2	.	.	.	.	0.80	.	rs2078357	.	rs2078357	.
+chr16	5703183	5703183	T	C	intergenic	FAM86A(dist=555394),RBFOX1(dist=365949)	.	.	ncRNA_intronic	RP11-420N3.2	.	.	.	.	0.87	.	rs4635348	.	rs4635348	.
+chr16	5718687	5718687	A	G	intergenic	FAM86A(dist=570898),RBFOX1(dist=350445)	.	.	ncRNA_intronic	RP11-420N3.2	.	.	.	.	0.61	.	rs9924704	.	rs9924704	.
+chr16	5734841	5734841	T	C	intergenic	FAM86A(dist=587052),RBFOX1(dist=334291)	.	.	ncRNA_intronic	RP11-420N3.2	.	.	.	.	0.59	.	rs8056422	.	rs8056422	.
+chr16	5785432	5785435	ACTT	TCTC	intergenic	FAM86A(dist=637643),RBFOX1(dist=283697)	.	.	ncRNA_intronic	RP11-420N3.2	.	.	.	.	.	.	.	.	.	.
+chr16	5850044	5850044	T	A	intergenic	FAM86A(dist=702255),RBFOX1(dist=219088)	.	.	ncRNA_intronic	RP11-420N3.2	.	.	.	.	0.48	.	rs9929054	.	rs9929054	.
+chr16	5872221	5872221	G	T	intergenic	FAM86A(dist=724432),RBFOX1(dist=196911)	.	.	ncRNA_intronic	RP11-420N3.2	.	.	.	.	0.45	.	rs3886165	.	rs3886165	.
+chr16	5919569	5919569	G	A	intergenic	FAM86A(dist=771780),RBFOX1(dist=149563)	.	.	ncRNA_intronic	RP11-420N3.2	.	.	.	.	0.35	.	rs4786786	.	rs4786786	.
+chr16	5919603	5919603	A	G	intergenic	FAM86A(dist=771814),RBFOX1(dist=149529)	.	.	ncRNA_intronic	RP11-420N3.2	.	.	.	.	0.35	.	rs4786064	.	rs4786064	.
+chr16	5924725	5924725	C	G	intergenic	FAM86A(dist=776936),RBFOX1(dist=144407)	.	.	ncRNA_intronic	RP11-420N3.2	.	.	.	.	0.40	.	rs1369820	.	rs1369820	.
+chr16	5932886	5932886	A	G	intergenic	FAM86A(dist=785097),RBFOX1(dist=136246)	.	.	ncRNA_intronic	RP11-420N3.2	.	.	.	Score=358;Name=lod=38	0.51	.	rs7500300	.	rs7500300	.
+chr16	5937796	5937796	G	T	intergenic	FAM86A(dist=790007),RBFOX1(dist=131336)	.	.	ncRNA_intronic	RP11-420N3.2	.	.	.	.	.	.	.	.	.	.
+chr16	5941028	5941028	A	T	intergenic	FAM86A(dist=793239),RBFOX1(dist=128104)	.	.	ncRNA_intronic	RP11-420N3.2	.	.	.	.	0.29	.	rs12599101	.	rs12599101	.
+chr16	5941033	5941033	C	T	intergenic	FAM86A(dist=793244),RBFOX1(dist=128099)	.	.	ncRNA_intronic	RP11-420N3.2	.	.	.	.	0.30	.	rs2215261	.	rs2215261	.
+chr16	5953785	5953785	G	C	intergenic	FAM86A(dist=805996),RBFOX1(dist=115347)	.	.	ncRNA_intronic	RP11-420N3.2	.	.	.	.	0.54	.	rs9926181	.	rs9926181	.
+chr16	5966825	5966825	G	A	intergenic	FAM86A(dist=819036),RBFOX1(dist=102307)	.	.	ncRNA_intronic	RP11-420N3.2	.	.	.	.	0.29	.	rs17138932	.	rs17138932	.
+chr16	5986602	5986602	G	C	intergenic	FAM86A(dist=838813),RBFOX1(dist=82530)	.	.	ncRNA_intronic	RP11-420N3.2	.	.	.	.	0.19	.	rs35817643	.	rs35817643	.
+chr16	5986665	5986665	G	T	intergenic	FAM86A(dist=838876),RBFOX1(dist=82467)	.	.	ncRNA_intronic	RP11-420N3.2	.	.	.	.	0.22	.	rs10492751	.	rs10492751	.
+chr16	5996343	5996343	A	G	intergenic	FAM86A(dist=848554),RBFOX1(dist=72789)	.	.	ncRNA_intronic	RP11-420N3.2	.	.	.	.	0.24	.	rs17138973	.	rs17138973	.
+chr16	6030333	6030333	T	C	intergenic	FAM86A(dist=882544),RBFOX1(dist=38799)	.	.	ncRNA_intronic	RP11-420N3.2	.	.	.	.	0.26	.	rs11649589	.	rs11649589	.
+chr16	6038717	6038717	G	T	intergenic	FAM86A(dist=890928),RBFOX1(dist=30415)	.	.	ncRNA_intronic	RP11-420N3.2	.	.	.	.	0.38	.	rs8057452	.	rs8057452	.
+chr16	6043978	6043978	C	T	intergenic	FAM86A(dist=896189),RBFOX1(dist=25154)	.	.	ncRNA_intronic	RP11-420N3.2	.	.	.	.	0.01	.	rs117444296	.	rs117444296	.
+chr16	6050245	6050245	G	C	intergenic	FAM86A(dist=902456),RBFOX1(dist=18887)	.	.	ncRNA_intronic	RP11-420N3.2	.	.	.	.	0.73	.	rs10163389	.	rs10163389	.
+chr16	6076046	6076046	A	G	intronic	RBFOX1	.	.	ncRNA_intronic	RP11-420N3.2	.	.	.	.	0.92	.	rs4786808	.	rs4786808	.
+chr16	6076051	6076051	A	C	intronic	RBFOX1	.	.	ncRNA_intronic	RP11-420N3.2	.	.	.	.	0.92	.	rs4786077	.	rs4786077	.
+chr16	6076147	6076147	C	A	intronic	RBFOX1	.	.	ncRNA_intronic	RP11-420N3.2	.	.	.	.	.	.	.	.	.	.
+chr16	6116751	6116751	G	A	intronic	RBFOX1	.	.	ncRNA_intronic	RP11-420N3.2,RP11-509E10.1	.	.	.	.	0.41	.	rs17192699	.	rs17192699	.
+chr16	6143356	6143356	G	C	intronic	RBFOX1	.	.	ncRNA_intronic	RP11-420N3.2	.	.	.	.	0.90	.	rs7201506	.	rs7201506	.
+chr16	6143701	6143701	C	A	intronic	RBFOX1	.	.	ncRNA_intronic	RP11-420N3.2	.	.	.	.	0.83	.	rs8044700	.	rs8044700	.
+chr16	6143789	6143801	ATTTTTTTTTTTG	ATTTTTTTTTTTTTG	intronic	RBFOX1	.	.	ncRNA_intronic	RP11-420N3.2	.	.	.	.	.	.	.	.	.	.
+chr16	6158340	6158340	G	T	intronic	RBFOX1	.	.	ncRNA_intronic	RP11-420N3.2	.	.	.	.	.	.	.	.	.	.
+chr16	6174251	6174251	A	C	intronic	RBFOX1	.	.	ncRNA_intronic	RP11-420N3.2	.	.	.	.	0.23	.	rs1386089	.	rs1386089	.
+chr16	6175429	6175429	T	C	intronic	RBFOX1	.	.	ncRNA_intronic	RP11-420N3.2	.	.	.	.	0.23	.	rs7189501	.	rs7189501	.
+chr16	6254816	6254816	A	G	intronic	RBFOX1	.	.	ncRNA_intronic	RP11-420N3.2	.	.	.	.	0.98	.	rs1344465	.	rs1344465	.
+chr16	6286817	6286817	C	T	intronic	RBFOX1	.	.	ncRNA_intronic	RP11-420N3.2	.	.	.	.	0.21	.	rs17139646	.	rs17139646	.
+chr16	6287560	6287560	T	C	intronic	RBFOX1	.	.	ncRNA_intronic	RP11-420N3.2	.	.	.	.	0.21	.	rs59913363	.	rs59913363	.
+chr16	6303802	6303802	T	C	intronic	RBFOX1	.	.	ncRNA_intronic	RP11-420N3.2	.	.	.	.	0.62	.	rs17139688	.	rs17139688	.
+chr16	6303869	6303869	C	T	intronic	RBFOX1	.	.	ncRNA_intronic	RP11-420N3.2	.	.	.	Score=295;Name=lod=21	0.62	.	rs10500337	.	rs10500337	.
+chr16	6306775	6306775	C	T	intronic	RBFOX1	.	.	ncRNA_intronic	RP11-420N3.2	.	.	.	.	0.83	.	rs12925131	.	rs12925131	.
+chr16	6306798	6306798	G	T	intronic	RBFOX1	.	.	ncRNA_intronic	RP11-420N3.2	.	.	.	.	.	.	.	.	.	.
+chr16	6343979	6343979	T	C	intronic	RBFOX1	.	.	ncRNA_intronic	RP11-420N3.2	.	.	.	.	0.65	.	rs6500769	.	rs6500769	.
+chr16	6361632	6361632	T	C	intronic	RBFOX1	.	.	ncRNA_intronic	RP11-420N3.2	.	.	.	.	0.25	.	rs72778219	.	rs72778219	.
+chr16	6370079	6370079	G	T	intronic	RBFOX1	.	.	ncRNA_intronic	RP11-420N3.2	.	.	.	.	0.29	.	rs12923371	.	rs12923371	.
+chr16	6449354	6449354	T	C	intronic	RBFOX1	.	.	ncRNA_intronic	RP11-420N3.2	.	.	.	.	0.43	.	rs57768502	.	rs57768502	.
+chr16	6449363	6449363	C	T	intronic	RBFOX1	.	.	ncRNA_intronic	RP11-420N3.2	.	.	.	.	0.43	.	rs57414511	.	rs57414511	.
+chr16	6449442	6449442	A	T	intronic	RBFOX1	.	.	ncRNA_intronic	RP11-420N3.2	.	.	.	.	0.75	.	rs9939232	.	rs9939232	.
+chr16	6449711	6449711	G	A	intronic	RBFOX1	.	.	ncRNA_intronic	RP11-420N3.2	.	.	.	.	0.77	.	rs7501212	.	rs7501212	.
+chr16	6449719	6449719	A	G	intronic	RBFOX1	.	.	ncRNA_intronic	RP11-420N3.2	.	.	.	.	0.65	.	rs7498166	.	rs7498166	.
+chr16	6451821	6451821	C	A	intronic	RBFOX1	.	.	ncRNA_intronic	RP11-420N3.2	.	.	.	.	.	.	.	.	.	.
+chr16	6478866	6478866	T	C	intronic	RBFOX1	.	.	ncRNA_intronic	RP11-420N3.2	.	.	.	.	0.45	.	rs1860564	.	rs1860564	.
+chr16	6501957	6501957	C	A	intronic	RBFOX1	.	.	ncRNA_intronic	RP11-420N3.2	.	.	.	.	.	.	.	.	.	.
+chr16	6506849	6506849	C	G	intronic	RBFOX1	.	.	ncRNA_intronic	RP11-420N3.2	.	.	.	.	0.50	.	rs1558352	.	rs1558352	.
+chr16	6511526	6511526	C	A	intronic	RBFOX1	.	.	ncRNA_intronic	RP11-420N3.2	.	.	.	.	.	.	.	.	.	.
+chr16	6512396	6512396	G	T	intronic	RBFOX1	.	.	ncRNA_intronic	RP11-420N3.2	.	.	.	.	0.61	.	rs17140285	.	rs17140285	.
+chr16	6545229	6545229	T	C	intronic	RBFOX1	.	.	ncRNA_intronic	RP11-420N3.2	.	.	.	.	0.80	.	rs8049092	.	rs8049092	.
+chr16	6547541	6547541	T	C	intronic	RBFOX1	.	.	ncRNA_intronic	RP11-420N3.2	.	.	.	.	0.53	.	rs42492	.	rs42492	.
+chr16	6547563	6547566	AAAA	TTTT	intronic	RBFOX1	.	.	ncRNA_intronic	RP11-420N3.2	.	.	.	.	.	.	.	.	.	.
+chr16	6574247	6574247	T	G	intronic	RBFOX1	.	.	ncRNA_intronic	RP11-420N3.2	.	.	.	.	0.11	.	rs9926818	.	rs9926818	.
+chr16	6582546	6582546	A	G	intronic	RBFOX1	.	.	ncRNA_intronic	RP11-420N3.2	.	.	.	.	0.96	.	rs1362335	.	rs1362335	.
+chr16	6584902	6584902	G	A	intronic	RBFOX1	.	.	ncRNA_intronic	RP11-420N3.2	.	.	.	.	0.99	.	rs1476974	.	rs1476974	.
+chr16	6619901	6619901	G	T	intronic	RBFOX1	.	.	ncRNA_intronic	RP11-420N3.2	.	.	.	Score=603;Name=lod=375	.	.	.	.	.	.
+chr16	6632615	6632615	G	A	intronic	RBFOX1	.	.	ncRNA_intronic	RP11-420N3.2	.	.	.	.	0.53	.	rs1861212	.	rs1861212	.
+chr16	6653778	6653778	A	G	intronic	RBFOX1	.	.	ncRNA_intronic	RP11-420N3.2	.	.	.	.	0.98	.	rs1978318	.	rs1978318	.
+chr16	6683874	6683874	T	C	intronic	RBFOX1	.	.	ncRNA_intronic	RP11-420N3.2	.	.	.	.	.	.	.	.	.	.
+chr16	6683897	6683897	A	T	intronic	RBFOX1	.	.	ncRNA_intronic	RP11-420N3.2	.	.	.	.	0.52	.	rs4786109	.	rs4786109	.
+chr16	6701403	6701403	A	G	intronic	RBFOX1	.	.	ncRNA_intronic	RP11-420N3.2	.	.	.	.	.	.	.	.	.	.
+chr16	6713419	6713419	T	G	intronic	RBFOX1	.	.	ncRNA_intronic	RP11-420N3.2	.	.	.	.	0.31	.	rs8053333	.	rs8053333	.
+chr16	6716116	6716116	G	A	intronic	RBFOX1	.	.	ncRNA_intronic	RP11-420N3.2	.	.	.	.	0.51	.	rs9931015	.	rs9931015	.
+chr16	6716128	6716128	G	C	intronic	RBFOX1	.	.	ncRNA_intronic	RP11-420N3.2	.	.	.	.	0.45	.	rs9931020	.	rs9931020	.
+chr16	6738973	6738980	CTTTTTTA	CTTTTTTTA	intronic	RBFOX1	.	.	ncRNA_intronic	RP11-420N3.2	.	.	.	.	.	.	.	.	.	.
+chr16	6744901	6744901	G	T	intronic	RBFOX1	.	.	ncRNA_intronic	RP11-420N3.2	.	.	.	.	0.98	.	rs11077071	.	rs11077071	.
+chr16	6751543	6751543	G	A	intronic	RBFOX1	.	.	ncRNA_intronic	RP11-420N3.2	.	.	.	.	0.43	.	rs1155958	.	rs1155958	.
+chr16	6751722	6751722	A	C	intronic	RBFOX1	.	.	ncRNA_intronic	RP11-420N3.2	.	.	.	.	0.75	.	rs9806810	.	rs9806810	.
+chr16	6764347	6764347	T	C	intronic	RBFOX1	.	.	ncRNA_intronic	RP11-420N3.2	.	.	.	.	0.73	.	rs718974	.	rs718974	.
+chr16	6782502	6782502	C	T	intronic	RBFOX1	.	.	ncRNA_intronic	RP11-420N3.2	.	.	.	.	0.91	.	rs2345488	.	rs2345488	.
+chr16	6788534	6788534	G	A	intronic	RBFOX1	.	.	ncRNA_intronic	RP11-420N3.2	.	.	.	.	0.97	.	rs11077077	.	rs11077077	.
+chr16	6804704	6804715	GTTTTTTTTTTA	GTTTTTTTTTTTA	intronic	RBFOX1	.	.	ncRNA_intronic	RP11-420N3.2	.	.	.	.	.	.	.	.	.	.
+chr16	6837987	6837987	T	G	intronic	RBFOX1	.	.	intronic	RBFOX1	.	.	.	.	0.50	.	rs35573844	.	rs35573844	.
+chr16	6837994	6838001	TGGGGGGA	TGGGGGGGA	intronic	RBFOX1	.	.	intronic	RBFOX1	.	.	.	.	.	.	.	.	.	.
+chr16	6846113	6846113	C	G	intronic	RBFOX1	.	.	intronic	RBFOX1	.	.	.	.	0.13	.	rs11644330	.	rs11644330	.
+chr16	6846175	6846175	G	A	intronic	RBFOX1	.	.	intronic	RBFOX1	.	.	.	.	0.61	.	rs6500836	.	rs6500836	.
+chr16	6858052	6858052	C	A	intronic	RBFOX1	.	.	intronic	RBFOX1	.	.	.	.	.	.	.	.	.	.
+chr16	6858100	6858100	T	A	intronic	RBFOX1	.	.	intronic	RBFOX1	.	.	.	.	.	.	.	.	.	.
+chr16	6879037	6879037	C	A	intronic	RBFOX1	.	.	intronic	RBFOX1	.	.	.	.	0.28	.	rs59828367	.	rs59828367	.
+chr16	6885212	6885212	C	G	intronic	RBFOX1	.	.	intronic	RBFOX1	.	.	.	.	0.42	.	rs73534655	.	rs73534655	.
+chr16	6901398	6901398	T	G	intronic	RBFOX1	.	.	intronic	RBFOX1	.	.	.	.	0.70	.	rs4129042	.	rs4129042	.
+chr16	6919162	6919162	A	G	intronic	RBFOX1	.	.	intronic	RBFOX1	.	.	.	.	0.25	.	rs17234371	.	rs17234371	.
+chr16	6919183	6919183	G	T	intronic	RBFOX1	.	.	intronic	RBFOX1	.	.	.	.	0.84	.	rs7187960	.	rs7187960	.
+chr16	6919370	6919370	T	C	intronic	RBFOX1	.	.	intronic	RBFOX1	.	.	.	.	0.84	.	rs1565634	.	rs1565634	.
+chr16	6933955	6933955	G	T	intronic	RBFOX1	.	.	intronic	RBFOX1	.	.	.	.	0.84	.	rs7204418	.	rs7204418	.
+chr16	6935853	6935853	T	A	intronic	RBFOX1	.	.	intronic	RBFOX1	.	.	.	.	0.74	.	rs11077101	.	rs11077101	.
+chr16	6983588	6983588	C	A	intronic	RBFOX1	.	.	intronic	RBFOX1	.	.	.	.	.	.	.	.	.	.
+chr16	7003683	7003683	C	T	intronic	RBFOX1	.	.	intronic	RBFOX1	.	.	.	.	.	.	.	.	.	.
+chr16	7048987	7048987	G	A	intronic	RBFOX1	.	.	intronic	RBFOX1	.	.	.	.	0.83	.	rs8044715	.	rs8044715	.
+chr16	7056285	7056285	A	G	intronic	RBFOX1	.	.	intronic	RBFOX1	.	.	.	.	0.41	.	rs12920376	.	rs12920376	.
+chr16	7067995	7067995	G	T	intronic	RBFOX1	.	.	intronic	RBFOX1	.	.	.	.	.	.	.	.	.	.
+chr16	7078457	7078457	T	A	intronic	RBFOX1	.	.	intronic	RBFOX1	.	.	.	.	0.75	.	rs8046957	.	rs8046957	.
+chr16	7078580	7078580	C	G	intronic	RBFOX1	.	.	intronic	RBFOX1	.	.	.	.	0.45	.	rs8062957	.	rs8062957	.
+chr16	7078751	7078751	G	A	intronic	RBFOX1	.	.	intronic	RBFOX1	.	.	.	.	0.42	.	rs12709167	.	rs12709167	.
+chr16	7101720	7101720	T	C	intronic	RBFOX1	.	.	intronic	RBFOX1	.	.	.	.	0.54	.	rs7188647	.	rs7188647	.
+chr16	7101731	7101731	G	C	intronic	RBFOX1	.	.	intronic	RBFOX1	.	.	.	.	0.54	.	rs7204520	.	rs7204520	.
+chr16	7102038	7102038	T	-	intronic	RBFOX1	.	.	intronic	RBFOX1	.	.	.	.	.	.	.	.	.	.
+chr16	7102427	7102427	G	T	intronic	RBFOX1	.	.	intronic	RBFOX1	.	.	.	Score=638;Name=lod=523	0.55	.	rs12920426	.	rs12920426	.
+chr16	7107221	7107221	T	G	intronic	RBFOX1	.	.	intronic	RBFOX1	.	.	.	.	0.76	.	rs1478716	.	rs1478716	.
+chr16	7135993	7135993	T	C	intronic	RBFOX1	.	.	intronic	RBFOX1	.	.	.	.	0.84	.	rs1551962	.	rs1551962	.
+chr16	7172913	7172913	C	T	intronic	RBFOX1	.	.	intronic	RBFOX1	.	.	.	.	0.01	.	rs117124064	.	rs117124064	.
+chr16	7213099	7213099	A	G	intronic	RBFOX1	.	.	intronic	RBFOX1	.	.	.	.	0.59	.	rs12597524	.	rs12597524	.
+chr16	7214614	7214614	C	A	intronic	RBFOX1	.	.	intronic	RBFOX1	.	.	.	.	.	.	.	.	.	.
+chr16	7241788	7241788	G	T	intronic	RBFOX1	.	.	intronic	RBFOX1	.	.	.	.	0.53	.	rs12920146	.	rs12920146	.
+chr16	7247586	7247586	G	A	intronic	RBFOX1	.	.	intronic	RBFOX1	.	.	.	.	0.33	.	rs13333774	.	rs13333774	.
+chr16	7247603	7247603	T	C	intronic	RBFOX1	.	.	intronic	RBFOX1	.	.	.	.	0.33	.	rs28731467	.	rs28731467	.
+chr16	7251756	7251756	G	C	intronic	RBFOX1	.	.	intronic	RBFOX1	.	.	.	.	0.29	.	rs2346605	.	rs2346605	.
+chr16	7257790	7257790	C	A	intronic	RBFOX1	.	.	intronic	RBFOX1	.	.	.	.	.	.	.	.	.	.
+chr16	7268731	7268744	GTTTTTTTTTTTTA	GTTTTTTTTTTTTTA	intronic	RBFOX1	.	.	intronic	RBFOX1	.	.	.	.	.	.	.	.	.	.
+chr16	7318548	7318548	A	C	intronic	RBFOX1	.	.	intronic	RBFOX1	.	.	.	.	0.56	.	rs11077167	.	rs11077167	.
+chr16	7324960	7324960	G	C	intronic	RBFOX1	.	.	intronic	RBFOX1	.	.	.	.	0.09	.	rs7189741	.	rs7189741	.
+chr16	7448849	7448849	C	A	intronic	RBFOX1	.	.	intronic	RBFOX1	.	.	.	.	.	.	.	.	.	.
+chr16	7498641	7498641	T	G	intronic	RBFOX1	.	.	intronic	RBFOX1	.	.	.	.	1.00	.	rs9302848	.	rs9302848	.
+chr16	7498656	7498656	A	G	intronic	RBFOX1	.	.	intronic	RBFOX1	.	.	.	.	0.47	.	rs10221098	.	rs10221098	.
+chr16	7538652	7538652	G	A	intronic	RBFOX1	.	.	intronic	RBFOX1	.	.	.	.	0.93	.	rs12447801	.	rs12447801	.
+chr16	7560824	7560824	G	T	intronic	RBFOX1	.	.	intronic	RBFOX1	.	.	.	.	0.20	.	rs4786176	.	rs4786176	.
+chr16	7567553	7567557	GACAC	CACAG	intronic	RBFOX1	.	.	intronic	RBFOX1	.	.	.	.	.	.	.	.	.	.
+chr16	7568412	7568412	C	T	intronic	RBFOX1	.	.	intronic	RBFOX1	.	.	.	.	0.04	.	rs55642412	0.055188	rs55642412	.
+chr16	7575427	7575427	C	G	intronic	RBFOX1	.	.	intronic	RBFOX1	.	.	.	.	0.88	.	rs7198117	.	rs7198117	.
+chr16	7575502	7575502	C	G	intronic	RBFOX1	.	.	intronic	RBFOX1	.	.	.	.	0.06	.	rs17143962	.	rs17143962	.
+chr16	7586158	7586158	T	C	intronic	RBFOX1	.	.	intronic	RBFOX1	.	.	.	.	0.88	.	rs7194350	.	rs7194350	.
+chr16	7597659	7597659	T	A	intronic	RBFOX1	.	.	intronic	RBFOX1	.	.	.	.	0.07	.	rs17144083	.	rs17144083	.
+chr16	7597891	7597891	A	C	intronic	RBFOX1	.	.	intronic	RBFOX1	.	.	.	.	0.07	.	rs17144090	.	rs17144090	.
+chr16	7620375	7620375	T	C	intronic	RBFOX1	.	.	intronic	RBFOX1	.	.	.	.	0.57	.	rs5028448	.	rs5028448	.
+chr16	7620395	7620395	C	T	intronic	RBFOX1	.	.	intronic	RBFOX1	.	.	.	.	0.0005	.	rs184184419	.	rs184184419	.
+chr16	7624831	7624831	A	G	intronic	RBFOX1	.	.	intronic	RBFOX1	.	.	.	.	0.91	.	rs2063087	.	rs2063087	.
+chr16	7629406	7629406	T	C	intronic	RBFOX1	.	.	intronic	RBFOX1	.	.	.	.	0.36	.	rs2109442	.	rs2109442	.
+chr16	7630143	7630143	C	T	intronic	RBFOX1	.	.	intronic	RBFOX1	.	.	.	.	0.36	.	rs1003614	.	rs1003614	.
+chr16	7630218	7630218	T	C	intronic	RBFOX1	.	.	intronic	RBFOX1	.	.	.	.	0.34	.	rs1003615	.	rs1003615	.
+chr16	7630329	7630329	T	A	intronic	RBFOX1	.	.	intronic	RBFOX1	.	.	.	.	0.35	.	rs62011670	.	rs62011670	.
+chr16	7630339	7630339	C	T	intronic	RBFOX1	.	.	intronic	RBFOX1	.	.	.	.	0.0037	.	rs116917605	.	rs116917605	.
+chr16	7630347	7630347	G	C	intronic	RBFOX1	.	.	intronic	RBFOX1	.	.	.	.	0.35	.	rs17144179	.	rs17144179	.
+chr16	7645808	7645808	C	G	intronic	RBFOX1	.	.	intronic	RBFOX1	.	.	.	Score=564;Name=lod=261	0.76	.	rs12935264	.	rs12935264	.
+chr16	7647728	7647728	A	T	intronic	RBFOX1	.	.	intronic	RBFOX1	.	.	.	.	0.85	.	rs2271131	.	rs2271131	.
+chr16	7647753	7647753	G	A	intronic	RBFOX1	.	.	intronic	RBFOX1	.	.	.	.	0.85	.	rs2271132	.	rs2271132	.
+chr16	7647777	7647777	A	C	intronic	RBFOX1	.	.	intronic	RBFOX1	.	.	.	.	0.85	.	rs2271133	.	rs2271133	.
+chr16	7647882	7647882	T	G	intronic	RBFOX1	.	.	intronic	RBFOX1	.	.	.	.	0.85	.	rs3817106	.	rs3817106	.
+chr16	7656972	7656972	A	G	intronic	RBFOX1	.	.	intronic	RBFOX1	.	.	.	.	0.83	.	rs1395577	.	rs1395577	.
+chr16	7657027	7657027	G	A	intronic	RBFOX1	.	.	intronic	RBFOX1	.	.	.	.	0.08	.	rs7359428	.	rs7359428	.
+chr16	7657160	7657160	C	T	intronic	RBFOX1	.	.	intronic	RBFOX1	.	.	.	.	0.02	.	rs71374959	.	rs71374959	.
+chr16	7657373	7657373	A	G	intronic	RBFOX1	.	.	intronic	RBFOX1	.	.	.	.	0.33	.	rs1507010	0.378559	rs1507010	.
+chr16	7666088	7666088	G	T	intronic	RBFOX1	.	.	intronic	RBFOX1	.	.	.	.	0.42	.	rs11646221	.	rs11646221	.
+chr16	7690906	7690920	TAAAAAAAAAAAAAG	TAAAAAAAAAAAAAAAG	intronic	RBFOX1	.	.	intronic	RBFOX1	.	.	.	.	.	.	.	.	.	.
+chr16	7703802	7703802	-	TC	intronic	RBFOX1	.	.	intronic	RBFOX1	.	.	.	.	.	.	rs34884713	.	rs34884713	.
+chr16	7704032	7704032	T	C	intronic	RBFOX1	.	.	intronic	RBFOX1	.	.	.	Score=393;Name=lod=53	0.77	.	rs2302216	.	rs2302216	.
+chr16	7704041	7704041	C	T	intronic	RBFOX1	.	.	intronic	RBFOX1	.	.	.	Score=393;Name=lod=53	0.47	.	rs2302215	.	rs2302215	.
+chr16	7704203	7704203	T	C	intronic	RBFOX1	.	.	intronic	RBFOX1	.	.	.	Score=672;Name=lod=715	0.82	.	rs3785222	.	rs3785222	.
+chr16	7704363	7704363	C	T	intronic	RBFOX1	.	.	intronic	RBFOX1	.	.	.	.	0.76	.	rs3785220	.	rs3785220	.
+chr16	7704408	7704408	C	T	intronic	RBFOX1	.	.	intronic	RBFOX1	.	.	.	.	0.34	.	rs3785219	.	rs3785219	.
+chr16	7704649	7704651	AAA	GAG	intronic	RBFOX1	.	.	intronic	RBFOX1	.	.	.	.	.	.	.	.	.	.
+chr16	7715108	7715108	T	C	intronic	RBFOX1	.	.	intronic	RBFOX1	.	.	.	.	0.97	.	rs8064206	.	rs8064206	.
+chr16	7721778	7721778	C	A	intronic	RBFOX1	.	.	intronic	RBFOX1	.	.	.	.	0.39	.	rs2286541	.	rs2286541	.
+chr16	7726691	7726691	A	G	intronic	RBFOX1	.	.	intronic	RBFOX1	.	.	.	.	0.96	.	rs2191134	.	rs2191134	.
+chr16	7727528	7727528	T	C	intronic	RBFOX1	.	.	intronic	RBFOX1	.	.	.	.	0.97	.	rs9930424	.	rs9930424	.
+chr16	7729221	7729221	T	G	intronic	RBFOX1	.	.	intronic	RBFOX1	.	.	.	.	0.35	.	rs763650	.	rs763650	.
+chr16	7743481	7743494	GAAAAAAAAAAAAG	GAAAAAAAAAAAG	intronic	RBFOX1	.	.	intronic	RBFOX1	.	.	.	.	.	.	.	.	.	.
+chr16	7747729	7747729	A	T	intronic	RBFOX1	.	.	intronic	RBFOX1	.	.	.	.	0.30	.	rs12924875	.	rs12924875	.
+chr16	7758833	7758833	-	GTGTATAT	intronic	RBFOX1	.	.	intronic	RBFOX1	.	.	.	.	.	.	rs60796003	.	rs60796003	.
+chr16	7759164	7759164	T	C	intronic	RBFOX1	.	.	intronic	RBFOX1	.	.	.	.	1.00	.	rs7196923	.	rs7196923	.
+chr16	7760171	7760171	A	G	intronic	RBFOX1	.	.	UTR3	RBFOX1	.	.	.	.	0.98	.	rs887275	.	rs887275	.
+chr16	7760197	7760197	G	A	intronic	RBFOX1	.	.	UTR3	RBFOX1	.	.	.	.	0.98	.	rs887274	.	rs887274	.
+chr16	7760846	7760861	TAAAAAAAAAAAAAAT	TAAAAAAAAAAAT	UTR3	RBFOX1	.	.	UTR3	RBFOX1	.	.	.	Score=783;Name=lod=2036	.	.	.	.	.	.
+chr16	7760884	7760884	T	G	UTR3	RBFOX1	.	.	UTR3	RBFOX1	.	.	.	Score=748;Name=lod=1467	0.48	.	rs881562	.	rs881562	.
+chr16	7761229	7761243	GAAAAAAAAAAAAAT	GAAAAAAAAAAAAT	UTR3	RBFOX1	.	.	UTR3	RBFOX1	.	.	.	.	.	.	.	.	.	.
+chr16	7784962	7784962	T	C	intergenic	RBFOX1(dist=21622),TMEM114(dist=834540)	.	.	intergenic	SNORA40(dist=8009),CTD-2535I10.1(dist=153529)	.	.	.	.	0.91	.	rs7200223	.	rs7200223	.
+chr16	7784975	7784976	TA	TGA	intergenic	RBFOX1(dist=21635),TMEM114(dist=834526)	.	.	intergenic	SNORA40(dist=8022),CTD-2535I10.1(dist=153515)	.	.	.	.	.	.	.	.	.	.
+chr16	7784978	7784981	ACCT	CCCG	intergenic	RBFOX1(dist=21638),TMEM114(dist=834521)	.	.	intergenic	SNORA40(dist=8025),CTD-2535I10.1(dist=153510)	.	.	.	.	.	.	.	.	.	.
+chr16	7809986	7809986	A	C	intergenic	RBFOX1(dist=46646),TMEM114(dist=809516)	.	.	intergenic	SNORA40(dist=33033),CTD-2535I10.1(dist=128505)	.	.	.	.	0.59	.	rs8045141	.	rs8045141	.
+chr16	7897139	7897139	C	G	intergenic	RBFOX1(dist=133799),TMEM114(dist=722363)	.	.	intergenic	SNORA40(dist=120186),CTD-2535I10.1(dist=41352)	.	.	.	.	0.97	.	rs7195000	.	rs7195000	.
+chr16	7917962	7917962	A	T	intergenic	RBFOX1(dist=154622),TMEM114(dist=701540)	.	.	intergenic	SNORA40(dist=141009),CTD-2535I10.1(dist=20529)	.	.	.	.	0.52	.	rs4078003	.	rs4078003	.
+chr16	7956479	7956479	G	T	intergenic	RBFOX1(dist=193139),TMEM114(dist=663023)	.	.	intergenic	AC093515.1(dist=7046),RP11-279O17.2(dist=369786)	.	.	.	.	0.42	.	rs34778010	.	rs34778010	.
+chr16	7967594	7967594	A	T	intergenic	RBFOX1(dist=204254),TMEM114(dist=651908)	.	.	intergenic	AC093515.1(dist=18161),RP11-279O17.2(dist=358671)	.	.	.	.	0.33	.	rs12444850	.	rs12444850	.
+chr16	8006254	8006267	ATTTTTTTTTTTTG	ATTTTTTTTTTG	intergenic	RBFOX1(dist=242914),TMEM114(dist=613235)	.	.	intergenic	AC093515.1(dist=56821),RP11-279O17.2(dist=319998)	.	.	.	.	.	.	.	.	.	.
+chr16	8018774	8018774	A	C	intergenic	RBFOX1(dist=255434),TMEM114(dist=600728)	.	.	intergenic	AC093515.1(dist=69341),RP11-279O17.2(dist=307491)	.	.	.	.	1.00	.	rs8052300	.	rs8052300	.
+chr16	8033055	8033055	G	C	intergenic	RBFOX1(dist=269715),TMEM114(dist=586447)	.	.	intergenic	AC093515.1(dist=83622),RP11-279O17.2(dist=293210)	.	.	.	.	.	.	.	.	.	.
+chr16	8044513	8044513	T	G	intergenic	RBFOX1(dist=281173),TMEM114(dist=574989)	.	.	intergenic	AC093515.1(dist=95080),RP11-279O17.2(dist=281752)	.	.	.	.	0.66	.	rs3105671	.	rs3105671	.
+chr16	8048142	8048142	T	C	intergenic	RBFOX1(dist=284802),TMEM114(dist=571360)	.	.	intergenic	AC093515.1(dist=98709),RP11-279O17.2(dist=278123)	.	.	.	.	0.96	.	rs3112640	.	rs3112640	.
+chr16	8057594	8057594	G	T	intergenic	RBFOX1(dist=294254),TMEM114(dist=561908)	.	.	intergenic	AC093515.1(dist=108161),RP11-279O17.2(dist=268671)	.	.	.	.	0.66	.	rs3105675	.	rs3105675	.
+chr16	8085426	8085432	GAAAAAT	GAAAAT	intergenic	RBFOX1(dist=322086),TMEM114(dist=534070)	.	.	intergenic	AC093515.1(dist=135993),RP11-279O17.2(dist=240833)	.	.	.	.	.	.	.	.	.	.
+chr16	8129924	8129924	A	G	intergenic	RBFOX1(dist=366584),TMEM114(dist=489578)	.	.	intergenic	AC093515.1(dist=180491),RP11-279O17.2(dist=196341)	.	.	.	.	0.79	.	rs2122905	.	rs2122905	.
+chr16	8147897	8147897	G	T	intergenic	RBFOX1(dist=384557),TMEM114(dist=471605)	.	.	intergenic	AC093515.1(dist=198464),RP11-279O17.2(dist=178368)	.	.	.	.	.	.	.	.	.	.
+chr16	8156355	8156355	T	G	intergenic	RBFOX1(dist=393015),TMEM114(dist=463147)	.	.	intergenic	AC093515.1(dist=206922),RP11-279O17.2(dist=169910)	.	.	.	.	0.29	.	rs58109207	.	rs58109207	.
+chr16	8156363	8156363	C	T	intergenic	RBFOX1(dist=393023),TMEM114(dist=463139)	.	.	intergenic	AC093515.1(dist=206930),RP11-279O17.2(dist=169902)	.	.	.	.	0.39	.	rs56657699	.	rs56657699	.
+chr16	8169957	8169957	T	G	intergenic	RBFOX1(dist=406617),TMEM114(dist=449545)	.	.	intergenic	AC093515.1(dist=220524),RP11-279O17.2(dist=156308)	.	.	.	.	0.83	.	rs11077264	.	rs11077264	.
+chr16	8190092	8190092	A	G	intergenic	RBFOX1(dist=426752),TMEM114(dist=429410)	.	.	intergenic	AC093515.1(dist=240659),RP11-279O17.2(dist=136173)	.	.	.	.	0.94	.	rs8048959	.	rs8048959	.
+chr16	8200833	8200833	G	A	intergenic	RBFOX1(dist=437493),TMEM114(dist=418669)	.	.	intergenic	AC093515.1(dist=251400),RP11-279O17.2(dist=125432)	.	.	.	.	0.66	.	rs7196779	.	rs7196779	.
+chr16	8200849	8200849	G	T	intergenic	RBFOX1(dist=437509),TMEM114(dist=418653)	.	.	intergenic	AC093515.1(dist=251416),RP11-279O17.2(dist=125416)	.	.	.	.	0.66	.	rs7196787	.	rs7196787	.
+chr16	8200881	8200881	G	C	intergenic	RBFOX1(dist=437541),TMEM114(dist=418621)	.	.	intergenic	AC093515.1(dist=251448),RP11-279O17.2(dist=125384)	.	.	.	.	0.66	.	rs7196956	.	rs7196956	.
+chr16	8206559	8206559	C	T	intergenic	RBFOX1(dist=443219),TMEM114(dist=412943)	.	.	intergenic	AC093515.1(dist=257126),RP11-279O17.2(dist=119706)	.	.	.	.	0.39	.	rs11640994	.	rs11640994	.
+chr16	8206604	8206604	C	T	intergenic	RBFOX1(dist=443264),TMEM114(dist=412898)	.	.	intergenic	AC093515.1(dist=257171),RP11-279O17.2(dist=119661)	.	.	.	.	0.64	.	rs8049820	.	rs8049820	.
+chr16	8206650	8206650	A	C	intergenic	RBFOX1(dist=443310),TMEM114(dist=412852)	.	.	intergenic	AC093515.1(dist=257217),RP11-279O17.2(dist=119615)	.	.	.	.	0.66	.	rs8050457	.	rs8050457	.
+chr16	8216027	8216027	G	T	intergenic	RBFOX1(dist=452687),TMEM114(dist=403475)	.	.	intergenic	AC093515.1(dist=266594),RP11-279O17.2(dist=110238)	.	.	.	.	.	.	.	.	.	.
+chr16	8234283	8234283	-	GT	intergenic	RBFOX1(dist=470943),TMEM114(dist=385219)	.	.	intergenic	AC093515.1(dist=284850),RP11-279O17.2(dist=91982)	.	.	.	.	.	.	rs200998623	.	rs200998623	.
+chr16	8241535	8241535	C	T	intergenic	RBFOX1(dist=478195),TMEM114(dist=377967)	.	.	intergenic	AC093515.1(dist=292102),RP11-279O17.2(dist=84730)	.	.	.	.	0.24	.	rs9923075	.	rs9923075	.
+chr16	8269962	8269962	C	T	intergenic	RBFOX1(dist=506622),TMEM114(dist=349540)	.	.	intergenic	AC093515.1(dist=320529),RP11-279O17.2(dist=56303)	.	.	.	.	0.30	.	rs61139360	.	rs61139360	.
+chr16	8270005	8270005	C	G	intergenic	RBFOX1(dist=506665),TMEM114(dist=349497)	.	.	intergenic	AC093515.1(dist=320572),RP11-279O17.2(dist=56260)	.	.	.	.	0.30	.	rs56242542	.	rs56242542	.
+chr16	8281846	8281846	G	C	intergenic	RBFOX1(dist=518506),TMEM114(dist=337656)	.	.	intergenic	AC093515.1(dist=332413),RP11-279O17.2(dist=44419)	.	.	.	.	0.10	.	rs1026227	.	rs1026227	.
+chr16	8285015	8285015	A	T	intergenic	RBFOX1(dist=521675),TMEM114(dist=334487)	.	.	intergenic	AC093515.1(dist=335582),RP11-279O17.2(dist=41250)	.	.	.	.	0.60	.	rs8044543	.	rs8044543	.
+chr16	8292002	8292002	C	A	intergenic	RBFOX1(dist=528662),TMEM114(dist=327500)	.	.	intergenic	AC093515.1(dist=342569),RP11-279O17.2(dist=34263)	.	.	.	.	.	.	.	.	.	.
+chr16	8337562	8337562	T	C	intergenic	RBFOX1(dist=574222),TMEM114(dist=281940)	.	.	ncRNA_intronic	RP11-279O17.2	.	.	.	.	0.70	.	rs8058671	.	rs8058671	.
+chr16	8379530	8379530	G	A	intergenic	RBFOX1(dist=616190),TMEM114(dist=239972)	.	.	ncRNA_intronic	RP11-279O17.3	.	.	.	.	0.04	.	rs111994093	.	rs111994093	.
+chr16	8397957	8397957	G	T	intergenic	RBFOX1(dist=634617),TMEM114(dist=221545)	.	.	ncRNA_intronic	RP11-279O17.3	.	.	.	.	.	.	.	.	.	.
+chr16	8403743	8403743	G	C	intergenic	RBFOX1(dist=640403),TMEM114(dist=215759)	.	.	ncRNA_intronic	RP11-279O17.3	.	.	.	.	0.96	.	rs29596	.	rs29596	.
+chr16	8404323	8404323	A	G	intergenic	RBFOX1(dist=640983),TMEM114(dist=215179)	.	.	ncRNA_intronic	RP11-279O17.3	.	.	.	.	0.97	.	rs29598	.	rs29598	.
+chr16	8438185	8438185	A	C	intergenic	RBFOX1(dist=674845),TMEM114(dist=181317)	.	.	intergenic	RP11-568A19.1(dist=11907),RP11-483K5.2(dist=119886)	.	.	.	.	0.07	.	rs77397623	.	rs77397623	.
+chr16	8438193	8438203	TAAAAAAAAAG	TAAAAAAAAAAG	intergenic	RBFOX1(dist=674853),TMEM114(dist=181299)	.	.	intergenic	RP11-568A19.1(dist=11915),RP11-483K5.2(dist=119868)	.	.	.	.	.	.	.	.	.	.
+chr16	8438481	8438481	A	T	intergenic	RBFOX1(dist=675141),TMEM114(dist=181021)	.	.	intergenic	RP11-568A19.1(dist=12203),RP11-483K5.2(dist=119590)	.	.	.	.	0.14	.	rs7199934	.	rs7199934	.
+chr16	8445701	8445705	AATCC	CATCT	intergenic	RBFOX1(dist=682361),TMEM114(dist=173797)	.	.	intergenic	RP11-568A19.1(dist=19423),RP11-483K5.2(dist=112366)	.	.	.	.	.	.	.	.	.	.
+chr16	8445741	8445741	A	G	intergenic	RBFOX1(dist=682401),TMEM114(dist=173761)	.	.	intergenic	RP11-568A19.1(dist=19463),RP11-483K5.2(dist=112330)	.	.	.	.	0.18	.	rs75546045	.	rs75546045	.
+chr16	8445772	8445772	T	G	intergenic	RBFOX1(dist=682432),TMEM114(dist=173730)	.	.	intergenic	RP11-568A19.1(dist=19494),RP11-483K5.2(dist=112299)	.	.	.	.	0.18	.	rs76651362	.	rs76651362	.
+chr16	8447960	8447970	GTTTTTTTTTG	GTTTTTTTTG	intergenic	RBFOX1(dist=684620),TMEM114(dist=171532)	.	.	intergenic	RP11-568A19.1(dist=21682),RP11-483K5.2(dist=110101)	.	.	.	.	.	.	.	.	.	.
+chr16	8461930	8461930	T	C	intergenic	RBFOX1(dist=698590),TMEM114(dist=157572)	.	.	intergenic	RP11-568A19.1(dist=35652),RP11-483K5.2(dist=96141)	.	.	.	.	0.59	.	rs10852702	.	rs10852702	.
+chr16	8461991	8461991	G	C	intergenic	RBFOX1(dist=698651),TMEM114(dist=157511)	.	.	intergenic	RP11-568A19.1(dist=35713),RP11-483K5.2(dist=96080)	.	.	.	.	0.78	.	rs10468319	.	rs10468319	.
+chr16	8462048	8462048	G	A	intergenic	RBFOX1(dist=698708),TMEM114(dist=157454)	.	.	intergenic	RP11-568A19.1(dist=35770),RP11-483K5.2(dist=96023)	.	.	.	.	0.59	.	rs10852703	.	rs10852703	.
+chr16	8483056	8483056	G	T	intergenic	RBFOX1(dist=719716),TMEM114(dist=136446)	.	.	intergenic	RP11-568A19.1(dist=56778),RP11-483K5.2(dist=75015)	.	.	.	.	.	.	.	.	.	.
+chr16	8493375	8493375	C	T	intergenic	RBFOX1(dist=730035),TMEM114(dist=126127)	.	.	intergenic	RP11-568A19.1(dist=67097),RP11-483K5.2(dist=64696)	.	.	.	.	.	.	.	.	.	.
+chr16	8499268	8499268	G	T	intergenic	RBFOX1(dist=735928),TMEM114(dist=120234)	.	.	intergenic	RP11-568A19.1(dist=72990),RP11-483K5.2(dist=58803)	.	.	.	.	0.05	.	rs72774789	.	rs72774789	.
+chr16	8500981	8500981	G	C	intergenic	RBFOX1(dist=737641),TMEM114(dist=118521)	.	.	intergenic	RP11-568A19.1(dist=74703),RP11-483K5.2(dist=57090)	.	.	.	.	0.27	.	rs1006761	.	rs1006761	.
+chr16	8511784	8511784	A	G	intergenic	RBFOX1(dist=748444),TMEM114(dist=107718)	.	.	intergenic	RP11-568A19.1(dist=85506),RP11-483K5.2(dist=46287)	.	.	.	.	0.81	.	rs4238896	.	rs4238896	.
+chr16	8537563	8537563	T	C	intergenic	RBFOX1(dist=774223),TMEM114(dist=81939)	.	.	intergenic	RP11-568A19.1(dist=111285),RP11-483K5.2(dist=20508)	.	.	.	.	0.58	.	rs7196475	.	rs7196475	.
+chr16	8577816	8577816	T	C	intergenic	RBFOX1(dist=814476),TMEM114(dist=41686)	.	.	ncRNA_intronic	RP11-483K5.3	.	.	.	.	0.70	.	rs2141355	.	rs2141355	.
+chr16	8582904	8582904	T	C	intergenic	RBFOX1(dist=819564),TMEM114(dist=36598)	.	.	upstream	RP11-483K5.3	.	.	.	.	0.57	.	rs2030985	.	rs2030985	.
+chr16	8582943	8582943	T	G	intergenic	RBFOX1(dist=819603),TMEM114(dist=36559)	.	.	upstream	RP11-483K5.3	.	.	.	.	0.57	.	rs2030984	.	rs2030984	.
+chr16	8582978	8582978	T	C	intergenic	RBFOX1(dist=819638),TMEM114(dist=36524)	.	.	upstream	RP11-483K5.3	.	.	.	.	.	.	.	.	.	.
+chr16	8591249	8591249	C	A	intergenic	RBFOX1(dist=827909),TMEM114(dist=28253)	.	.	intergenic	RP11-483K5.3(dist=9234),TMEM114(dist=28253)	.	.	.	.	.	.	.	.	.	.
+chr16	8591273	8591273	T	A	intergenic	RBFOX1(dist=827933),TMEM114(dist=28229)	.	.	intergenic	RP11-483K5.3(dist=9258),TMEM114(dist=28229)	.	.	.	.	0.83	.	rs6501156	.	rs6501156	.
+chr16	8614110	8614110	A	C	intergenic	RBFOX1(dist=850770),TMEM114(dist=5392)	.	.	intergenic	RP11-483K5.3(dist=32095),TMEM114(dist=5392)	.	.	.	.	0.06	.	rs139713175	.	rs139713175	.
+chr16	8614147	8614147	G	C	intergenic	RBFOX1(dist=850807),TMEM114(dist=5355)	.	.	intergenic	RP11-483K5.3(dist=32132),TMEM114(dist=5355)	.	.	.	.	.	.	.	.	.	.
+chr16	8620014	8620014	G	C	intronic	TMEM114	.	.	intronic	TMEM114	.	.	.	.	0.06	.	rs62018861	0.101008	rs62018861	.
+chr16	8620096	8620096	T	C	intronic	TMEM114	.	.	intronic	TMEM114	.	.	.	.	0.88	.	rs9922116	.	rs9922116	.
+chr16	8620163	8620163	G	A	intronic	TMEM114	.	.	intronic	TMEM114	.	.	.	.	0.06	.	rs62018862	.	rs62018862	.
+chr16	8625912	8625912	C	A	intergenic	TMEM114(dist=3686),METTL22(dist=89615)	.	.	intergenic	TMEM114(dist=3686),METTL22(dist=89628)	.	.	.	.	0.06	.	rs62018865	.	rs62018865	.
+chr16	8711668	8711668	A	C	intergenic	TMEM114(dist=89442),METTL22(dist=3859)	.	.	intergenic	TMEM114(dist=89442),METTL22(dist=3872)	.	.	.	.	0.91	.	rs6498156	.	rs6498156	.
+chr16	8711683	8711683	C	T	intergenic	TMEM114(dist=89457),METTL22(dist=3844)	.	.	intergenic	TMEM114(dist=89457),METTL22(dist=3857)	.	.	.	.	0.91	.	rs7499954	.	rs7499954	.
+chr16	8727212	8727212	T	C	intronic	METTL22	.	.	intronic	METTL22	.	.	.	.	0.99	.	rs1641036	.	rs1641036	.
+chr16	8731975	8731976	GT	GCT	intronic	METTL22	.	.	intronic	METTL22	.	.	.	.	.	.	.	.	.	.
+chr16	8738427	8738427	T	C	exonic	METTL22	synonymous SNV	METTL22:NM_024109:exon10:c.T1024C:p.L342L	exonic	METTL22	nonsynonymous SNV	METTL22:ENST00000572956.1:exon6:c.T440C:p.I147T	.	Score=405;Name=lod=59	0.99	.	rs1641066	0.986574	rs1641066	.
+chr16	8740653	8740653	C	T	downstream	METTL22	.	.	downstream	METTL22	.	.	.	.	0.99	.	rs1641073	.	rs1641073	.
+chr16	8741367	8741367	C	T	intergenic	METTL22(dist=1288),ABAT(dist=27077)	.	.	intergenic	METTL22(dist=1286),ABAT(dist=27055)	.	.	.	.	0.99	.	rs933486	.	rs933486	.
+chr16	8741453	8741454	TC	TGC	intergenic	METTL22(dist=1374),ABAT(dist=26990)	.	.	intergenic	METTL22(dist=1372),ABAT(dist=26968)	.	.	.	.	.	.	.	.	.	.
+chr16	8741827	8741827	T	C	intergenic	METTL22(dist=1748),ABAT(dist=26617)	.	.	intergenic	METTL22(dist=1746),ABAT(dist=26595)	.	.	.	.	0.99	.	rs1730988	.	rs1730988	.
+chr16	8741871	8741871	G	C	intergenic	METTL22(dist=1792),ABAT(dist=26573)	.	.	intergenic	METTL22(dist=1790),ABAT(dist=26551)	.	.	.	.	0.99	.	rs1641074	.	rs1641074	.
+chr16	8754817	8754817	A	C	intergenic	METTL22(dist=14738),ABAT(dist=13627)	.	.	intergenic	METTL22(dist=14736),ABAT(dist=13605)	.	.	.	.	0.97	.	rs3108686	.	rs3108686	.
+chr16	8761245	8761245	C	T	intergenic	METTL22(dist=21166),ABAT(dist=7199)	.	.	intergenic	METTL22(dist=21164),ABAT(dist=7177)	.	.	.	.	0.12	.	rs55977024	.	rs55977024	.
+chr16	8761336	8761336	C	T	intergenic	METTL22(dist=21257),ABAT(dist=7108)	.	.	intergenic	METTL22(dist=21255),ABAT(dist=7086)	.	.	.	.	0.16	.	rs35520255	.	rs35520255	.
+chr16	8792361	8792361	T	C	intronic	ABAT	.	.	intronic	ABAT	.	.	.	.	0.01	.	rs181284297	.	rs181284297	.
+chr16	8795474	8795474	C	A	intronic	ABAT	.	.	intronic	ABAT	.	.	.	.	.	.	.	.	.	.
+chr16	8822422	8822422	A	G	intronic	ABAT	.	.	intronic	ABAT	.	.	.	.	.	.	rs113405260	.	rs113405260	.
+chr16	8823767	8823767	G	T	intronic	ABAT	.	.	intronic	ABAT	.	.	.	.	.	.	.	.	.	.
+chr16	8826590	8826590	C	T	intronic	ABAT	.	.	intronic	ABAT	.	.	.	.	0.42	.	rs113653087	.	rs113653087	.
+chr16	8829275	8829275	A	G	intronic	ABAT	.	.	intronic	ABAT	.	.	.	.	0.65	.	rs1640997	.	rs1640997	.
+chr16	8829340	8829340	C	T	intronic	ABAT	.	.	intronic	ABAT	.	.	.	.	0.05	.	rs74664407	.	rs74664407	.
+chr16	8829796	8829796	G	C	intronic	ABAT	.	.	intronic	ABAT	.	.	.	.	0.02	.	rs74008026	.	rs74008026	.
+chr16	8834697	8834697	A	G	intronic	ABAT	.	.	intronic	ABAT	.	.	.	.	0.99	.	rs1465317	.	rs1465317	.
+chr16	8839954	8839954	A	G	exonic	ABAT	nonsynonymous SNV	ABAT:NM_000663:exon3:c.A167G:p.Q56R,ABAT:NM_001127448:exon3:c.A167G:p.Q56R,ABAT:NM_020686:exon3:c.A167G:p.Q56R	exonic	ABAT	nonsynonymous SNV	ABAT:ENST00000268251.8:exon3:c.A167G:p.Q56R,ABAT:ENST00000396600.2:exon3:c.A167G:p.Q56R,ABAT:ENST00000425191.2:exon3:c.A167G:p.Q56R,ABAT:ENST00000562115.1:exon3:c.A167G:p.Q56R,ABAT:ENST00000567812.1:exon3:c.A212G:p.Q71R,ABAT:ENST00000569156.1:exon3:c.A167G:p.Q56R,ABAT:ENST00000561870.1:exon4:c.A167G:p.Q56R,ABAT:ENST00000564714.1:exon4:c.A221G:p.Q74R,ABAT:ENST00000565016.1:exon4:c.A179G:p.Q60R	.	Score=381;Name=lod=47	0.55	0.38	rs1731017	0.514006	rs1731017	.
+chr16	8839967	8839967	A	G	intronic	ABAT	.	.	intronic	ABAT	.	.	.	.	0.02	.	rs75151311	0.004464	rs75151311	.
+chr16	8840025	8840025	C	T	intronic	ABAT	.	.	intronic	ABAT	.	.	.	.	0.51	.	rs2103340	.	rs2103340	.
+chr16	8840303	8840303	G	T	intronic	ABAT	.	.	intronic	ABAT	.	.	.	.	0.64	.	rs62031065	.	rs62031065	.
+chr16	8840309	8840309	C	G	intronic	ABAT	.	.	intronic	ABAT	.	.	.	.	0.64	.	rs62031066	.	rs62031066	.
+chr16	8840549	8840549	G	A	intronic	ABAT	.	.	intronic	ABAT	.	.	.	.	0.51	.	rs12922831	.	rs12922831	.
+chr16	8840627	8840627	C	A	intronic	ABAT	.	.	intronic	ABAT	.	.	.	.	0.51	.	rs1641008	.	rs1641008	.
+chr16	8841794	8841794	T	G	intronic	ABAT	.	.	intronic	ABAT	.	.	.	.	0.50	.	rs753071	.	rs753071	.
+chr16	8841960	8841960	T	C	intronic	ABAT	.	.	intronic	ABAT	.	.	.	Score=477;Name=lod=116	0.51	.	rs1641010	0.475758	rs1641010	.
+chr16	8842128	8842128	T	A	intronic	ABAT	.	.	intronic	ABAT	.	.	.	.	0.62	.	rs1641011	.	rs1641011	.
+chr16	8842154	8842154	A	G	intronic	ABAT	.	.	intronic	ABAT	.	.	.	.	0.51	.	rs1731036	.	rs1731036	.
+chr16	8842543	8842544	GT	GCT	intronic	ABAT	.	.	intronic	ABAT	.	.	.	.	.	.	.	.	.	.
+chr16	8851767	8851767	C	T	intronic	ABAT	.	.	intronic	ABAT	.	.	.	.	0.53	.	rs12930438	.	rs12930438	.
+chr16	8853987	8853987	T	C	intronic	ABAT	.	.	intronic	ABAT	.	.	.	.	0.78	.	rs8046201	.	rs8046201	.
+chr16	8857536	8857536	C	T	intronic	ABAT	.	.	intronic	ABAT	.	.	.	.	0.99	.	rs1273401	.	rs1273401	.
+chr16	8857706	8857706	A	T	intronic	ABAT	.	.	intronic	ABAT	.	.	.	.	0.63	.	rs11640989	.	rs11640989	.
+chr16	8857749	8857749	A	G	intronic	ABAT	.	.	intronic	ABAT	.	.	.	.	0.64	.	rs11641035	.	rs11641035	.
+chr16	8858580	8858580	T	A	intronic	ABAT	.	.	intronic	ABAT	.	.	.	.	0.86	.	rs2302608	0.859012	rs2302608	.
+chr16	8860296	8860296	A	G	intronic	ABAT	.	.	intronic	ABAT	.	.	.	.	0.96	.	rs1273403	.	rs1273403	.
+chr16	8860375	8860375	A	G	intronic	ABAT	.	.	intronic	ABAT	.	.	.	.	0.99	.	rs1273404	.	rs1273404	.
+chr16	8861847	8861861	TAAAAAAAAAAAAAT	TAAAAAAAAAAAAT	intronic	ABAT	.	.	intronic	ABAT	.	.	.	.	.	.	.	.	.	.
+chr16	8862212	8862212	C	T	intronic	ABAT	.	.	intronic	ABAT	.	.	.	.	0.89	.	rs8049072	.	rs8049072	.
+chr16	8862232	8862234	CAC	CC	intronic	ABAT	.	.	intronic	ABAT	.	.	.	.	.	.	.	.	.	.
+chr16	8862271	8862271	G	T	intronic	ABAT	.	.	intronic	ABAT	.	.	.	.	0.88	.	rs8053509	.	rs8053509	.
+chr16	8862296	8862296	A	G	intronic	ABAT	.	.	intronic	ABAT	.	.	.	.	0.56	.	rs8057362	.	rs8057362	.
+chr16	8862506	8862506	C	A	intronic	ABAT	.	.	intronic	ABAT	.	.	.	.	0.97	.	rs1273406	.	rs1273406	.
+chr16	8862592	8862592	T	C	intronic	ABAT	.	.	intronic	ABAT	.	.	.	.	1.00	.	rs1273407	.	rs1273407	.
+chr16	8862956	8862956	G	T	intronic	ABAT	.	.	intronic	ABAT	.	.	.	.	0.39	.	rs3815508	.	rs3815508	.
+chr16	8862990	8862990	G	A	intronic	ABAT	.	.	intronic	ABAT	.	.	.	.	0.32	.	rs11862060	.	rs11862060	.
+chr16	8866436	8866436	C	G	intronic	ABAT	.	.	intronic	ABAT	.	.	.	.	0.24	.	rs12596790	.	rs12596790	.
+chr16	8866582	8866582	G	A	intronic	ABAT	.	.	intronic	ABAT	.	.	.	.	0.09	.	rs9937726	.	rs9937726	.
+chr16	8869133	8869133	-	TTTCCTGT	intronic	ABAT	.	.	intronic	ABAT	.	.	.	.	.	.	.	.	.	.
+chr16	8870618	8870618	T	C	intronic	ABAT	.	.	intronic	ABAT	.	.	.	.	0.43	.	rs12930556	.	rs12930556	.
+chr16	8873456	8873456	T	C	intronic	ABAT	.	.	intronic	ABAT	.	.	.	.	0.33	.	rs1079348	0.337156	rs1079348	.
+chr16	8873493	8873493	C	T	intronic	ABAT	.	.	intronic	ABAT	.	.	.	.	0.49	.	rs1079349	0.460822	rs1079349	.
+chr16	8873652	8873652	G	A	intronic	ABAT	.	.	intronic	ABAT	.	.	.	.	0.47	.	rs1079350	.	rs1079350	.
+chr16	8874779	8874779	T	C	intronic	ABAT	.	.	intronic	ABAT	.	.	.	.	0.32	.	rs1075853	.	rs1075853	.
+chr16	8875046	8875075	TGATGGATGGATGGATGGATGGATGGATGA	TGATGGATGGATGGATGGATGGATGA	intronic	ABAT	.	.	intronic	ABAT	.	.	.	.	.	.	.	.	.	.
+chr16	8875529	8875529	G	T	UTR3	ABAT	.	.	UTR3	ABAT	.	.	.	Score=243;Name=lod=13	0.41	.	rs2270288	.	rs2270288	.
+chr16	8875545	8875545	G	C	UTR3	ABAT	.	.	UTR3	ABAT	.	.	.	.	0.30	.	rs737695	.	rs737695	.
+chr16	8875858	8875861	AGTA	CGTG	UTR3	ABAT	.	.	UTR3	ABAT	.	.	.	.	.	.	.	.	.	.
+chr16	8892145	8892145	T	C	intronic	PMM2	.	.	intronic	PMM2	.	.	.	.	0.93	.	rs9926107	.	rs9926107	.
+chr16	8895356	8895356	A	T	intronic	PMM2	.	.	intronic	PMM2	.	.	.	.	0.91	.	rs8046046	.	rs8046046	.
+chr16	8895909	8895909	C	A	intronic	PMM2	.	.	intronic	PMM2	.	.	.	.	0.21	.	rs2304471	.	rs2304471	.
+chr16	8896066	8896066	G	C	intronic	PMM2	.	.	intronic	PMM2	.	.	.	.	0.49	.	rs2304470	.	rs2304470	.
+chr16	8896094	8896094	G	A	intronic	PMM2	.	.	intronic	PMM2	.	.	.	.	0.44	.	rs2304469	.	rs2304469	.
+chr16	8904877	8904881	TATGT	TATGATGT	intronic	PMM2	.	.	intronic	PMM2	.	.	.	.	.	.	.	.	.	.
+chr16	8905054	8905054	T	C	intronic	PMM2	.	.	intronic	PMM2	.	.	.	.	0.43	.	rs11074924	0.437422	rs11074924	.
+chr16	8905182	8905182	A	G	intronic	PMM2	.	.	intronic	PMM2	.	.	.	.	0.88	.	rs4985041	.	rs4985041	.
+chr16	8905222	8905222	A	C	intronic	PMM2	.	.	intronic	PMM2	.	.	.	.	0.88	.	rs4985001	.	rs4985001	.
+chr16	8906539	8906539	C	A	intronic	PMM2	.	.	intronic	PMM2	.	.	.	.	0.71	.	rs3826198	.	rs3826198	.
+chr16	8906573	8906573	C	T	intronic	PMM2	.	.	intronic	PMM2	.	.	.	.	0.43	.	rs3743809	.	rs3743809	.
+chr16	8907145	8907145	G	T	intronic	PMM2	.	.	intronic	PMM2	.	.	.	.	0.85	.	rs9924186	.	rs9924186	.
+chr16	8941234	8941251	TAAAAAAAAAAAAAAAAC	TAAAAAAAAAAAAAAAAAAC	intronic	PMM2	.	.	intronic	PMM2	.	.	.	.	.	.	.	.	.	.
+chr16	8941818	8941818	A	C	UTR3	PMM2	.	.	ncRNA_exonic	RP11-152P23.2	.	.	.	.	0.24	.	rs2075827	.	rs2075827	.
+chr16	8941857	8941857	G	A	UTR3	PMM2	.	.	ncRNA_UTR3	PMM2	.	.	.	.	0.25	.	rs2072688	.	rs2072688	.
+chr16	8944593	8944593	A	G	intergenic	PMM2(dist=1399),CARHSP1(dist=2206)	.	.	ncRNA_intronic	RP11-77H9.2	.	.	.	.	0.71	.	rs11647175	.	rs11647175	.
+chr16	8951449	8951464	CTTTTTTTTTTTTTTG	CTTTTTTTTTTTTG	intronic	CARHSP1	.	.	ncRNA_intronic	RP11-77H9.2	.	.	.	.	.	.	.	.	.	.
+chr16	8951472	8951472	C	G	intronic	CARHSP1	.	.	ncRNA_intronic	RP11-77H9.2	.	.	.	.	0.98	.	rs6498178	.	rs6498178	.
+chr16	8952248	8952248	A	G	exonic	CARHSP1	synonymous SNV	CARHSP1:NM_001042476:exon3:c.T240C:p.T80T,CARHSP1:NM_001278263:exon3:c.T240C:p.T80T,CARHSP1:NM_001278264:exon3:c.T240C:p.T80T,CARHSP1:NM_001278265:exon3:c.T240C:p.T80T,CARHSP1:NM_001278266:exon3:c.T240C:p.T80T,CARHSP1:NM_014316:exon3:c.T240C:p.T80T,CARHSP1:NM_001278260:exon4:c.T240C:p.T80T,CARHSP1:NM_001278261:exon4:c.T240C:p.T80T,CARHSP1:NM_001278262:exon4:c.T240C:p.T80T	exonic	CARHSP1	nonsynonymous SNV	CARHSP1:ENST00000568968.1:exon3:c.T266C:p.L89P	.	Score=514;Name=lod=164	0.98	.	rs988065	0.969370	rs988065	.
+chr16	8985139	8985139	A	G	downstream	USP7	.	.	downstream	USP7	.	.	.	.	0.99	.	rs254954	.	rs254954	.
+chr16	8988238	8988238	C	T	intronic	USP7	.	.	intronic	USP7	.	.	.	.	0.99	.	rs1677472	.	rs1677472	.
+chr16	8988386	8988396	CGGGGGGGGGA	CGGGGGGGGGGA	intronic	USP7	.	.	intronic	USP7	.	.	.	.	.	.	.	.	.	.
+chr16	8988777	8988777	C	G	intronic	USP7	.	.	intronic	USP7	.	.	.	.	0.35	.	rs2304467	0.295445	rs2304467	.
+chr16	8989403	8989403	A	G	intronic	USP7	.	.	intronic	USP7	.	.	.	.	0.99	.	rs1677473	.	rs1677473	.
+chr16	8989696	8989714	GTTTTTTTTTTTTTTTTTG	GTTTTTTTTTTTTTTTG	intronic	USP7	.	.	intronic	USP7	.	.	.	.	.	.	.	.	.	.
+chr16	8990505	8990505	G	A	intronic	USP7	.	.	intronic	USP7	.	.	.	.	0.99	.	rs1657076	.	rs1657076	.
+chr16	8992828	8992828	G	T	intronic	USP7	.	.	intronic	USP7	.	.	.	.	0.44	.	rs2289109	.	rs2289109	.
+chr16	8992868	8992869	AC	CA	intronic	USP7	.	.	intronic	USP7	.	.	.	.	.	.	.	.	.	.
+chr16	8994192	8994192	G	C	intronic	USP7	.	.	intronic	USP7	.	.	.	.	0.44	.	rs4985061	.	rs4985061	.
+chr16	8995177	8995190	GAAAAAAAAAAAAC	GAAAAAAAAAAAC	intronic	USP7	.	.	intronic	USP7	.	.	.	.	.	.	.	.	.	.
+chr16	8995927	8995927	G	A	intronic	USP7	.	.	intronic	USP7	.	.	.	.	0.45	.	rs2304466	0.410805	rs2304466	.
+chr16	9000003	9000003	G	A	intronic	USP7	.	.	intronic	USP7	.	.	.	.	0.46	.	rs4985012	.	rs4985012	.
+chr16	9000656	9000656	A	G	intronic	USP7	.	.	intronic	USP7	.	.	.	.	0.99	.	rs2447917	.	rs2447917	.
+chr16	9002672	9002672	C	A	intronic	USP7	.	.	intronic	USP7	.	.	.	.	0.57	.	rs4985065	.	rs4985065	.
+chr16	9004564	9004564	C	A	intronic	USP7	.	.	intronic	USP7	.	.	.	.	0.99	.	rs2447916	0.987764	rs2447916	.
+chr16	9010091	9010091	C	A	intronic	USP7	.	.	intronic	USP7	.	.	.	.	0.94	.	rs2447913	.	rs2447913	.
+chr16	9010213	9010213	T	G	intronic	USP7	.	.	intronic	USP7	.	.	.	.	0.62	.	rs7195624	.	rs7195624	.
+chr16	9010446	9010447	AG	ACG	intronic	USP7	.	.	intronic	USP7	.	.	.	.	.	.	.	.	.	.
+chr16	9010826	9010844	TAAAAAAAAAAAAAAAAAG	TAAAAAAAAAAAAAAAAAAG	intronic	USP7	.	.	intronic	USP7	.	.	.	.	.	.	.	.	.	.
+chr16	9012686	9012686	G	A	intronic	USP7	.	.	intronic	USP7	.	.	.	.	0.56	.	rs12708738	.	rs12708738	.
+chr16	9014350	9014350	T	C	intronic	USP7	.	.	intronic	USP7	.	.	.	.	0.99	.	rs1677470	0.987993	rs1677470	.
+chr16	9014385	9014385	G	A	intronic	USP7	.	.	intronic	USP7	.	.	.	.	0.57	.	rs7189170	.	rs7189170	.
+chr16	9014434	9014434	T	G	intronic	USP7	.	.	intronic	USP7	.	.	.	.	0.99	.	rs2447912	.	rs2447912	.
+chr16	9014805	9014805	T	A	intronic	USP7	.	.	intronic	USP7	.	.	.	.	0.58	.	rs7199803	.	rs7199803	.
+chr16	9014928	9014928	C	G	intronic	USP7	.	.	intronic	USP7	.	.	.	.	0.99	.	rs42554	.	rs42554	.
+chr16	9015252	9015252	A	T	intronic	USP7	.	.	intronic	USP7	.	.	.	.	0.99	.	rs30761	.	rs30761	.
+chr16	9015258	9015258	T	C	intronic	USP7	.	.	intronic	USP7	.	.	.	.	0.60	.	rs9940652	.	rs9940652	.
+chr16	9015759	9015759	T	A	intronic	USP7	.	.	intronic	USP7	.	.	.	.	0.96	.	rs39863	.	rs39863	.
+chr16	9017062	9017062	-	CAACGATGTGGGGGTTTGTAGTTGCATCATTTAAA	intronic	USP7	.	.	intronic	USP7	.	.	.	.	.	.	.	.	.	.
+chr16	9024564	9024564	G	A	intronic	USP7	.	.	intronic	USP7	.	.	.	.	0.70	.	rs12448024	.	rs12448024	.
+chr16	9029609	9029609	T	C	intronic	USP7	.	.	intronic	USP7	.	.	.	.	1.00	.	rs1677468	.	rs1677468	.
+chr16	9031063	9031071	CTTTTTTTA	CTTTTTTA	intronic	USP7	.	.	intronic	USP7	.	.	.	.	.	.	.	.	.	.
+chr16	9031104	9031104	T	C	intronic	USP7	.	.	intronic	USP7	.	.	.	.	0.92	.	rs2437716	.	rs2437716	.
+chr16	9035124	9035124	T	C	intronic	USP7	.	.	intronic	USP7	.	.	.	.	0.35	.	rs1471435	.	rs1471435	.
+chr16	9056915	9056917	GCA	GCCG	intronic	USP7	.	.	ncRNA_intronic	RP11-77H9.8	.	.	.	.	.	.	.	.	.	.
+chr16	9059411	9059412	AA	AGA	intergenic	USP7(dist=2070),C16orf72(dist=126125)	.	.	ncRNA_intronic	RP11-77H9.8	.	.	.	.	.	.	.	.	.	.
+chr16	9068881	9068881	G	A	intergenic	USP7(dist=11540),C16orf72(dist=116656)	.	.	intergenic	RP11-77H9.8(dist=8034),RP11-473I1.6(dist=93530)	.	.	.	.	0.99	.	rs4341743	.	rs4341743	.
+chr16	9090886	9090886	G	A	intergenic	USP7(dist=33545),C16orf72(dist=94651)	.	.	intergenic	RP11-77H9.8(dist=30039),RP11-473I1.6(dist=71525)	.	.	.	.	0.62	.	rs12596702	.	rs12596702	.
+chr16	9098816	9098816	G	A	intergenic	USP7(dist=41475),C16orf72(dist=86721)	.	.	intergenic	RP11-77H9.8(dist=37969),RP11-473I1.6(dist=63595)	.	.	.	.	0.55	.	rs9806903	.	rs9806903	.
+chr16	9098825	9098825	T	C	intergenic	USP7(dist=41484),C16orf72(dist=86712)	.	.	intergenic	RP11-77H9.8(dist=37978),RP11-473I1.6(dist=63586)	.	.	.	.	0.96	.	rs9806857	.	rs9806857	.
+chr16	9099988	9099988	C	T	intergenic	USP7(dist=42647),C16orf72(dist=85549)	.	.	intergenic	RP11-77H9.8(dist=39141),RP11-473I1.6(dist=62423)	.	.	.	.	0.56	.	rs732942	.	rs732942	.
+chr16	9126633	9126647	CAAAAAAAAAAAAAC	CAAAAAAAAAAAAAAC	intergenic	USP7(dist=69292),C16orf72(dist=58890)	.	.	intergenic	RP11-77H9.8(dist=65786),RP11-473I1.6(dist=35764)	.	.	.	.	.	.	.	.	.	.
+chr16	9165914	9165914	G	A	intergenic	USP7(dist=108573),C16orf72(dist=19623)	.	.	ncRNA_exonic	RP11-473I1.6	.	.	.	.	0.11	.	rs34269958	.	rs34269958	.
+chr16	9192997	9192998	GA	-	intronic	C16orf72	.	.	intronic	C16orf72	.	.	.	.	.	.	.	.	.	.
+chr16	9233524	9233524	A	G	intergenic	C16orf72(dist=19969),MIR548X(dist=95250)	.	.	intergenic	C16orf72(dist=18027),RPL21P119(dist=16695)	.	.	.	.	0.76	.	rs9937543	.	rs9937543	.
+chr16	9233538	9233538	C	T	intergenic	C16orf72(dist=19983),MIR548X(dist=95236)	.	.	intergenic	C16orf72(dist=18041),RPL21P119(dist=16681)	.	.	.	.	0.61	.	rs9933502	.	rs9933502	.
+chr16	9233600	9233600	G	C	intergenic	C16orf72(dist=20045),MIR548X(dist=95174)	.	.	intergenic	C16orf72(dist=18103),RPL21P119(dist=16619)	.	.	.	.	0.63	.	rs9925463	.	rs9925463	.
+chr16	9250016	9250016	T	G	intergenic	C16orf72(dist=36461),MIR548X(dist=78758)	.	.	downstream	RPL21P119	.	.	.	.	0.24	.	rs62034331	.	rs62034331	.
+chr16	9250197	9250217	CTTTTTTTTTTTTTTTTTTTG	CTTTTTTTTTTTTTTTTTTTTG	intergenic	C16orf72(dist=36642),MIR548X(dist=78557)	.	.	downstream	RPL21P119	.	.	.	.	.	.	.	.	.	.
+chr16	9250197	9250217	CTTTTTTTTTTTTTTTTTTTG	CTTTTTTTTTTTTTTTTTTG	intergenic	C16orf72(dist=36642),MIR548X(dist=78557)	.	.	downstream	RPL21P119	.	.	.	.	.	.	.	.	.	.
+chr16	9250260	9250260	T	G	intergenic	C16orf72(dist=36705),MIR548X(dist=78514)	.	.	ncRNA_exonic	RPL21P119	.	.	.	Score=749;Name=lod=1471	.	0	rs12929693	.	rs12929693	.
+chr16	9261774	9261774	G	C	intergenic	C16orf72(dist=48219),MIR548X(dist=67000)	.	.	intergenic	RPL21P119(dist=11013),AC092122.1(dist=145918)	.	.	.	.	0.88	.	rs7204233	.	rs7204233	.
+chr16	9279126	9279126	G	A	intergenic	C16orf72(dist=65571),MIR548X(dist=49648)	.	.	intergenic	RPL21P119(dist=28365),AC092122.1(dist=128566)	.	.	.	.	0.96	.	rs2965832	.	rs2965832	.
+chr16	9315263	9315263	C	T	intergenic	C16orf72(dist=101708),MIR548X(dist=13511)	.	.	intergenic	RPL21P119(dist=64502),AC092122.1(dist=92429)	.	.	.	.	0.98	.	rs2941313	.	rs2941313	.
+chr16	9333207	9333210	GGTT	CGTC	intergenic	MIR548X(dist=4404),GRIN2A(dist=514055)	.	.	intergenic	RPL21P119(dist=82446),AC092122.1(dist=74482)	.	.	.	.	.	.	.	.	.	.
+chr16	9361683	9361683	G	A	intergenic	MIR548X(dist=32880),GRIN2A(dist=485582)	.	.	intergenic	RPL21P119(dist=110922),AC092122.1(dist=46009)	.	.	.	.	0.99	.	rs4605161	.	rs4605161	.
+chr16	9371060	9371071	CTTTTTTTTTTG	CTTTTTTTTTG	intergenic	MIR548X(dist=42257),GRIN2A(dist=476194)	.	.	intergenic	RPL21P119(dist=120299),AC092122.1(dist=36621)	.	.	.	.	.	.	.	.	.	.
+chr16	9378193	9378193	C	T	intergenic	MIR548X(dist=49390),GRIN2A(dist=469072)	.	.	intergenic	RPL21P119(dist=127432),AC092122.1(dist=29499)	.	.	.	.	0.98	.	rs1704439	.	rs1704439	.
+chr16	9391715	9391715	G	A	intergenic	MIR548X(dist=62912),GRIN2A(dist=455550)	.	.	intergenic	RPL21P119(dist=140954),AC092122.1(dist=15977)	.	.	.	.	0.01	.	rs139081703	.	rs139081703	.
+chr16	9411930	9411930	C	T	intergenic	MIR548X(dist=83127),GRIN2A(dist=435335)	.	.	intergenic	AC092122.2(dist=4099),RP11-243A14.1(dist=37515)	.	.	.	.	.	.	rs654109	.	rs654109	.
+chr16	9487222	9487222	A	T	intergenic	MIR548X(dist=158419),GRIN2A(dist=360043)	.	.	ncRNA_intronic	RP11-243A14.1	.	.	.	.	0.13	.	rs12444389	.	rs12444389	.
+chr16	9489167	9489167	A	G	intergenic	MIR548X(dist=160364),GRIN2A(dist=358098)	.	.	ncRNA_intronic	RP11-243A14.1	.	.	.	.	0.14	.	rs56142256	.	rs56142256	.
+chr16	9501479	9501479	C	T	intergenic	MIR548X(dist=172676),GRIN2A(dist=345786)	.	.	ncRNA_exonic	RP11-243A14.1	.	.	.	.	0.14	.	rs57267135	.	rs57267135	.
+chr16	9514069	9514069	A	G	intergenic	MIR548X(dist=185266),GRIN2A(dist=333196)	.	.	intergenic	RP11-243A14.1(dist=12119),RP11-243A14.2(dist=21082)	.	.	.	.	0.63	.	rs4257206	.	rs4257206	.
+chr16	9516112	9516112	C	G	intergenic	MIR548X(dist=187309),GRIN2A(dist=331153)	.	.	intergenic	RP11-243A14.1(dist=14162),RP11-243A14.2(dist=19039)	.	.	.	.	0.32	.	rs8045718	.	rs8045718	.
+chr16	9519028	9519028	-	GA	intergenic	MIR548X(dist=190225),GRIN2A(dist=328237)	.	.	intergenic	RP11-243A14.1(dist=17078),RP11-243A14.2(dist=16123)	.	.	.	.	.	.	rs71157756	.	rs71157756	.
+chr16	9522260	9522260	C	G	intergenic	MIR548X(dist=193457),GRIN2A(dist=325005)	.	.	intergenic	RP11-243A14.1(dist=20310),RP11-243A14.2(dist=12891)	.	.	.	.	0.46	.	rs930095	.	rs930095	.
+chr16	9532192	9532192	C	T	intergenic	MIR548X(dist=203389),GRIN2A(dist=315073)	.	.	intergenic	RP11-243A14.1(dist=30242),RP11-243A14.2(dist=2959)	.	.	.	.	0.27	.	rs62033622	.	rs62033622	.
+chr16	9537509	9537509	G	C	intergenic	MIR548X(dist=208706),GRIN2A(dist=309756)	.	.	ncRNA_intronic	RP11-243A14.2	.	.	.	.	0.60	.	rs11075336	.	rs11075336	.
+chr16	9546232	9546232	C	A	intergenic	MIR548X(dist=217429),GRIN2A(dist=301033)	.	.	ncRNA_intronic	RP11-243A14.3	.	.	.	.	0.06	.	rs59323511	.	rs59323511	.
+chr16	9560965	9560965	T	G	intergenic	MIR548X(dist=232162),GRIN2A(dist=286300)	.	.	ncRNA_intronic	RP11-418I22.2	.	.	.	.	0.07	.	rs17445541	.	rs17445541	.
+chr16	9561003	9561003	-	GCG	intergenic	MIR548X(dist=232200),GRIN2A(dist=286262)	.	.	ncRNA_intronic	RP11-418I22.2	.	.	.	.	.	.	.	.	.	.
+chr16	9585097	9585097	A	G	intergenic	MIR548X(dist=256294),GRIN2A(dist=262168)	.	.	ncRNA_intronic	RP11-418I22.2	.	.	.	.	0.21	.	rs8054451	.	rs8054451	.
+chr16	9612831	9612831	A	C	intergenic	MIR548X(dist=284028),GRIN2A(dist=234434)	.	.	intergenic	RP11-418I22.2(dist=1410),RNA5SP403(dist=45416)	.	.	.	.	0.87	.	rs8050733	.	rs8050733	.
+chr16	9612860	9612860	C	T	intergenic	MIR548X(dist=284057),GRIN2A(dist=234405)	.	.	intergenic	RP11-418I22.2(dist=1439),RNA5SP403(dist=45387)	.	.	.	.	0.87	.	rs8063225	.	rs8063225	.
+chr16	9619181	9619181	C	T	intergenic	MIR548X(dist=290378),GRIN2A(dist=228084)	.	.	intergenic	RP11-418I22.2(dist=7760),RNA5SP403(dist=39066)	.	.	.	.	0.66	.	rs12924552	.	rs12924552	.
+chr16	9630509	9630509	T	G	intergenic	MIR548X(dist=301706),GRIN2A(dist=216756)	.	.	intergenic	RP11-418I22.2(dist=19088),RNA5SP403(dist=27738)	.	.	.	.	0.21	.	rs7198962	.	rs7198962	.
+chr16	9670895	9670895	C	G	intergenic	MIR548X(dist=342092),GRIN2A(dist=176370)	.	.	intergenic	RNA5SP403(dist=12541),RNA5SP404(dist=23059)	.	.	.	.	0.54	.	rs12924475	.	rs12924475	.
+chr16	9684737	9684737	A	G	intergenic	MIR548X(dist=355934),GRIN2A(dist=162528)	.	.	intergenic	RNA5SP403(dist=26383),RNA5SP404(dist=9217)	.	.	.	.	0.05	.	rs4514675	.	rs4514675	.
+chr16	9701385	9701385	C	A	intergenic	MIR548X(dist=372582),GRIN2A(dist=145880)	.	.	intergenic	RNA5SP404(dist=7300),RP11-297M9.1(dist=59357)	.	.	.	.	.	.	.	.	.	.
+chr16	9710361	9710361	A	C	intergenic	MIR548X(dist=381558),GRIN2A(dist=136904)	.	.	intergenic	RNA5SP404(dist=16276),RP11-297M9.1(dist=50381)	.	.	.	.	0.28	.	rs12448543	.	rs12448543	.
+chr16	9752487	9752487	C	G	intergenic	MIR548X(dist=423684),GRIN2A(dist=94778)	.	.	intergenic	RNA5SP404(dist=58402),RP11-297M9.1(dist=8255)	.	.	.	.	0.46	.	rs759320	.	rs759320	.
+chr16	9770600	9770600	C	T	intergenic	MIR548X(dist=441797),GRIN2A(dist=76665)	.	.	exonic	RP11-297M9.1	synonymous SNV	RP11-297M9.1:ENST00000561538.1:exon1:c.G93A:p.R31R	.	.	.	.	rs147090809	.	rs147090809	.
+chr16	9770625	9770625	C	T	intergenic	MIR548X(dist=441822),GRIN2A(dist=76640)	.	.	exonic	RP11-297M9.1	nonsynonymous SNV	RP11-297M9.1:ENST00000561538.1:exon1:c.G68A:p.C23Y	.	.	0.04	.	rs140917353	.	rs140917353	.
+chr16	9770652	9770652	C	T	intergenic	MIR548X(dist=441849),GRIN2A(dist=76613)	.	.	exonic	RP11-297M9.1	nonsynonymous SNV	RP11-297M9.1:ENST00000561538.1:exon1:c.G41A:p.G14E	.	.	0.04	.	rs144567613	.	rs144567613	.
+chr16	9772633	9772633	A	C	intergenic	MIR548X(dist=443830),GRIN2A(dist=74632)	.	.	intergenic	RP11-297M9.1(dist=1933),RP11-297M9.2(dist=74639)	.	.	.	.	0.40	.	rs3968869	.	rs3968869	.
+chr16	9781375	9781375	C	T	intergenic	MIR548X(dist=452572),GRIN2A(dist=65890)	.	.	intergenic	RP11-297M9.1(dist=10675),RP11-297M9.2(dist=65897)	.	.	.	.	0.39	.	rs1362323	.	rs1362323	.
+chr16	9792542	9792542	C	G	intergenic	MIR548X(dist=463739),GRIN2A(dist=54723)	.	.	intergenic	RP11-297M9.1(dist=21842),RP11-297M9.2(dist=54730)	.	.	.	.	0.40	.	rs4781670	.	rs4781670	.
+chr16	9795074	9795074	A	G	intergenic	MIR548X(dist=466271),GRIN2A(dist=52191)	.	.	intergenic	RP11-297M9.1(dist=24374),RP11-297M9.2(dist=52198)	.	.	.	.	0.54	.	rs1972578	.	rs1972578	.
+chr16	9800846	9800846	A	G	intergenic	MIR548X(dist=472043),GRIN2A(dist=46419)	.	.	intergenic	RP11-297M9.1(dist=30146),RP11-297M9.2(dist=46426)	.	.	.	.	0.77	.	rs7189919	.	rs7189919	.
+chr16	9848131	9848131	A	G	UTR3	GRIN2A	.	.	ncRNA_exonic	RP11-297M9.2	.	.	.	.	.	.	.	.	.	.
+chr16	9862556	9862556	G	T	intronic	GRIN2A	.	.	intronic	GRIN2A	.	.	.	.	0.33	.	rs11866328	.	rs11866328	.
+chr16	9870244	9870244	G	A	intronic	GRIN2A	.	.	intronic	GRIN2A	.	.	.	.	0.31	.	rs1362321	.	rs1362321	.
+chr16	9870257	9870257	G	T	intronic	GRIN2A	.	.	intronic	GRIN2A	.	.	.	.	.	.	.	.	.	.
+chr16	9916204	9916204	C	G	exonic	GRIN2A	synonymous SNV	GRIN2A:NM_001134407:exon10:c.G2085C:p.R695R,GRIN2A:NM_001134408:exon10:c.G2085C:p.R695R,GRIN2A:NM_000833:exon11:c.G2085C:p.R695R	exonic	GRIN2A	synonymous SNV	GRIN2A:ENST00000396575.2:exon9:c.G2085C:p.R695R,GRIN2A:ENST00000535259.1:exon9:c.G1614C:p.R538R,GRIN2A:ENST00000562109.1:exon9:c.G2085C:p.R695R,GRIN2A:ENST00000330684.3:exon10:c.G2085C:p.R695R,GRIN2A:ENST00000404927.2:exon10:c.G2085C:p.R695R,GRIN2A:ENST00000396573.2:exon11:c.G2085C:p.R695R	.	Score=602;Name=lod=374	0.26	.	rs9806806	0.351085	rs9806806	.
+chr16	9923179	9923179	G	A	intronic	GRIN2A	.	.	intronic	GRIN2A	.	.	.	.	0.22	.	rs11642764	.	rs11642764	.
+chr16	9931179	9931179	A	G	intronic	GRIN2A	.	.	intronic	GRIN2A	.	.	.	.	.	.	.	.	.	.
+chr16	9934690	9934692	AGA	-	intronic	GRIN2A	.	.	intronic	GRIN2A	.	.	.	.	.	.	.	.	.	.
+chr16	9935066	9935066	T	G	intronic	GRIN2A	.	.	intronic	GRIN2A	.	.	.	.	0.30	.	rs6497540	.	rs6497540	.
+chr16	9943432	9943432	G	T	intronic	GRIN2A	.	.	intronic	GRIN2A	.	.	.	.	0.29	.	rs9934477	.	rs9934477	.
+chr16	9943666	9943666	C	T	exonic	GRIN2A	synonymous SNV	GRIN2A:NM_001134407:exon5:c.G1275A:p.L425L,GRIN2A:NM_001134408:exon5:c.G1275A:p.L425L,GRIN2A:NM_000833:exon6:c.G1275A:p.L425L	exonic	GRIN2A	synonymous SNV	GRIN2A:ENST00000396575.2:exon4:c.G1275A:p.L425L,GRIN2A:ENST00000535259.1:exon4:c.G804A:p.L268L,GRIN2A:ENST00000562109.1:exon4:c.G1275A:p.L425L,GRIN2A:ENST00000330684.3:exon5:c.G1275A:p.L425L,GRIN2A:ENST00000404927.2:exon5:c.G1275A:p.L425L,GRIN2A:ENST00000396573.2:exon6:c.G1275A:p.L425L	.	Score=514;Name=lod=164	0.22	.	rs2229193	0.296521	rs2229193	.
+chr16	9943995	9943995	A	G	intronic	GRIN2A	.	.	intronic	GRIN2A	.	.	.	.	0.33	.	rs8054791	.	rs8054791	.
+chr16	9984523	9984523	C	T	intronic	GRIN2A	.	.	intronic	GRIN2A	.	.	.	.	0.28	.	rs9931155	.	rs9931155	.
+chr16	10014228	10014228	A	G	intronic	GRIN2A	.	.	intronic	GRIN2A	.	.	.	.	.	.	.	.	.	.
+chr16	10017157	10017157	A	G	intronic	GRIN2A	.	.	intronic	GRIN2A	.	.	.	.	0.39	.	rs7203026	.	rs7203026	.
+chr16	16458760	16458760	T	C	intergenic	PKD1P1(dist=14295),NPIPA7(dist=14342)	.	.	ncRNA_exonic	RP11-958N24.2	.	.	Score=0.99233;Name=chr16:18447701	.	.	.	.	.	.	.
+chr3	129817239	129817239	C	G	ncRNA_exonic	FAM86HP	.	.	ncRNA_intronic	ALG1L2	.	.	Score=0.964426;Name=chr12:8379169	.	.	.	rs142691368	.	rs142691368	.

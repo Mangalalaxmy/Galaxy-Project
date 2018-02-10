@@ -1,0 +1,1313 @@
+{
+    "a_galaxy_workflow": "true", 
+    "annotation": "", 
+    "format-version": "0.1", 
+    "name": "Workflow constructed from history 'Project 1'", 
+    "steps": {
+        "0": {
+            "annotation": "Father 1", 
+            "content_id": null, 
+            "errors": null, 
+            "id": 0, 
+            "input_connections": {}, 
+            "inputs": [], 
+            "label": "Coriell-NA12877_R1.fastq", 
+            "name": "Input dataset", 
+            "outputs": [], 
+            "position": {
+                "left": 193, 
+                "top": 307
+            }, 
+            "tool_id": null, 
+            "tool_state": "{}", 
+            "tool_version": null, 
+            "type": "data_input", 
+            "uuid": "17ed2785-1407-4824-9b82-57a779b95335", 
+            "workflow_outputs": []
+        }, 
+        "1": {
+            "annotation": "Father 2", 
+            "content_id": null, 
+            "errors": null, 
+            "id": 1, 
+            "input_connections": {}, 
+            "inputs": [], 
+            "label": "Coriell-NA12877_R2.fastq", 
+            "name": "Input dataset", 
+            "outputs": [], 
+            "position": {
+                "left": 194, 
+                "top": 387
+            }, 
+            "tool_id": null, 
+            "tool_state": "{}", 
+            "tool_version": null, 
+            "type": "data_input", 
+            "uuid": "339caa47-a9d7-43f7-8c5d-f10e5be05670", 
+            "workflow_outputs": []
+        }, 
+        "2": {
+            "annotation": "Mother 1", 
+            "content_id": null, 
+            "errors": null, 
+            "id": 2, 
+            "input_connections": {}, 
+            "inputs": [], 
+            "label": "Coriell-NA12878_R1.fastq", 
+            "name": "Input dataset", 
+            "outputs": [], 
+            "position": {
+                "left": 206, 
+                "top": 782
+            }, 
+            "tool_id": null, 
+            "tool_state": "{}", 
+            "tool_version": null, 
+            "type": "data_input", 
+            "uuid": "88cce2dd-53b9-47d3-a195-2dd881695c16", 
+            "workflow_outputs": []
+        }, 
+        "3": {
+            "annotation": "Mother 2", 
+            "content_id": null, 
+            "errors": null, 
+            "id": 3, 
+            "input_connections": {}, 
+            "inputs": [], 
+            "label": "Coriell-NA12878_R2.fastq", 
+            "name": "Input dataset", 
+            "outputs": [], 
+            "position": {
+                "left": 206, 
+                "top": 864
+            }, 
+            "tool_id": null, 
+            "tool_state": "{}", 
+            "tool_version": null, 
+            "type": "data_input", 
+            "uuid": "29d309cb-4356-469a-b860-a7c72912765d", 
+            "workflow_outputs": []
+        }, 
+        "4": {
+            "annotation": "Daughter 1", 
+            "content_id": null, 
+            "errors": null, 
+            "id": 4, 
+            "input_connections": {}, 
+            "inputs": [], 
+            "label": "Coriell-NA12880_R1.fastq", 
+            "name": "Input dataset", 
+            "outputs": [], 
+            "position": {
+                "left": 202, 
+                "top": 1253
+            }, 
+            "tool_id": null, 
+            "tool_state": "{}", 
+            "tool_version": null, 
+            "type": "data_input", 
+            "uuid": "bed6b4b0-e927-449e-8fda-d986728a7009", 
+            "workflow_outputs": []
+        }, 
+        "5": {
+            "annotation": "Daughter 2", 
+            "content_id": null, 
+            "errors": null, 
+            "id": 5, 
+            "input_connections": {}, 
+            "inputs": [], 
+            "label": "Coriell-NA12880_R2.fastq", 
+            "name": "Input dataset", 
+            "outputs": [], 
+            "position": {
+                "left": 201, 
+                "top": 1334
+            }, 
+            "tool_id": null, 
+            "tool_state": "{}", 
+            "tool_version": null, 
+            "type": "data_input", 
+            "uuid": "232c71e6-87a1-4bb1-a2d7-d313b7e6896d", 
+            "workflow_outputs": []
+        }, 
+        "6": {
+            "annotation": "FastQC on Father 1", 
+            "content_id": "toolshed.g2.bx.psu.edu/repos/devteam/fastqc/fastqc/0.65", 
+            "errors": null, 
+            "id": 6, 
+            "input_connections": {
+                "input_file": {
+                    "id": 0, 
+                    "output_name": "output"
+                }
+            }, 
+            "inputs": [
+                {
+                    "description": "runtime parameter for tool FastQC", 
+                    "name": "contaminants"
+                }, 
+                {
+                    "description": "runtime parameter for tool FastQC", 
+                    "name": "limits"
+                }, 
+                {
+                    "description": "runtime parameter for tool FastQC", 
+                    "name": "input_file"
+                }
+            ], 
+            "label": null, 
+            "name": "FastQC", 
+            "outputs": [
+                {
+                    "name": "html_file", 
+                    "type": "html"
+                }, 
+                {
+                    "name": "text_file", 
+                    "type": "txt"
+                }
+            ], 
+            "position": {
+                "left": 413, 
+                "top": 177
+            }, 
+            "post_job_actions": {
+                "HideDatasetActionhtml_file": {
+                    "action_arguments": {}, 
+                    "action_type": "HideDatasetAction", 
+                    "output_name": "html_file"
+                }, 
+                "HideDatasetActiontext_file": {
+                    "action_arguments": {}, 
+                    "action_type": "HideDatasetAction", 
+                    "output_name": "text_file"
+                }
+            }, 
+            "tool_id": "toolshed.g2.bx.psu.edu/repos/devteam/fastqc/fastqc/0.65", 
+            "tool_shed_repository": {
+                "changeset_revision": "3fdc1a74d866", 
+                "name": "fastqc", 
+                "owner": "devteam", 
+                "tool_shed": "toolshed.g2.bx.psu.edu"
+            }, 
+            "tool_state": "{\"__page__\": null, \"contaminants\": \"{\\\"__class__\\\": \\\"RuntimeValue\\\"}\", \"__rerun_remap_job_id__\": null, \"limits\": \"{\\\"__class__\\\": \\\"RuntimeValue\\\"}\", \"input_file\": \"{\\\"__class__\\\": \\\"RuntimeValue\\\"}\"}", 
+            "tool_version": "0.65", 
+            "type": "tool", 
+            "uuid": "385da87b-4c23-4579-a62d-abb583d28003", 
+            "workflow_outputs": []
+        }, 
+        "7": {
+            "annotation": "FastQC on Father 2", 
+            "content_id": "toolshed.g2.bx.psu.edu/repos/devteam/fastqc/fastqc/0.65", 
+            "errors": null, 
+            "id": 7, 
+            "input_connections": {
+                "input_file": {
+                    "id": 1, 
+                    "output_name": "output"
+                }
+            }, 
+            "inputs": [
+                {
+                    "description": "runtime parameter for tool FastQC", 
+                    "name": "contaminants"
+                }, 
+                {
+                    "description": "runtime parameter for tool FastQC", 
+                    "name": "limits"
+                }, 
+                {
+                    "description": "runtime parameter for tool FastQC", 
+                    "name": "input_file"
+                }
+            ], 
+            "label": null, 
+            "name": "FastQC", 
+            "outputs": [
+                {
+                    "name": "html_file", 
+                    "type": "html"
+                }, 
+                {
+                    "name": "text_file", 
+                    "type": "txt"
+                }
+            ], 
+            "position": {
+                "left": 413, 
+                "top": 456
+            }, 
+            "post_job_actions": {
+                "HideDatasetActionhtml_file": {
+                    "action_arguments": {}, 
+                    "action_type": "HideDatasetAction", 
+                    "output_name": "html_file"
+                }, 
+                "HideDatasetActiontext_file": {
+                    "action_arguments": {}, 
+                    "action_type": "HideDatasetAction", 
+                    "output_name": "text_file"
+                }
+            }, 
+            "tool_id": "toolshed.g2.bx.psu.edu/repos/devteam/fastqc/fastqc/0.65", 
+            "tool_shed_repository": {
+                "changeset_revision": "3fdc1a74d866", 
+                "name": "fastqc", 
+                "owner": "devteam", 
+                "tool_shed": "toolshed.g2.bx.psu.edu"
+            }, 
+            "tool_state": "{\"__page__\": null, \"contaminants\": \"{\\\"__class__\\\": \\\"RuntimeValue\\\"}\", \"__rerun_remap_job_id__\": null, \"limits\": \"{\\\"__class__\\\": \\\"RuntimeValue\\\"}\", \"input_file\": \"{\\\"__class__\\\": \\\"RuntimeValue\\\"}\"}", 
+            "tool_version": "0.65", 
+            "type": "tool", 
+            "uuid": "c57706f8-85c3-4462-b1b8-64ca1e0012bc", 
+            "workflow_outputs": []
+        }, 
+        "8": {
+            "annotation": "Mapped Father's datasets to Human Ref genome hg19", 
+            "content_id": "toolshed.g2.bx.psu.edu/repos/devteam/bwa_wrappers/bwa_wrapper/1.2.3", 
+            "errors": null, 
+            "id": 8, 
+            "input_connections": {
+                "paired|input1": {
+                    "id": 0, 
+                    "output_name": "output"
+                }, 
+                "paired|input2": {
+                    "id": 1, 
+                    "output_name": "output"
+                }
+            }, 
+            "inputs": [
+                {
+                    "description": "runtime parameter for tool Map with BWA for Illumina", 
+                    "name": "paired"
+                }, 
+                {
+                    "description": "runtime parameter for tool Map with BWA for Illumina", 
+                    "name": "paired"
+                }
+            ], 
+            "label": null, 
+            "name": "Map with BWA for Illumina", 
+            "outputs": [
+                {
+                    "name": "output", 
+                    "type": "sam"
+                }
+            ], 
+            "position": {
+                "left": 708, 
+                "top": 358
+            }, 
+            "post_job_actions": {
+                "HideDatasetActionoutput": {
+                    "action_arguments": {}, 
+                    "action_type": "HideDatasetAction", 
+                    "output_name": "output"
+                }
+            }, 
+            "tool_id": "toolshed.g2.bx.psu.edu/repos/devteam/bwa_wrappers/bwa_wrapper/1.2.3", 
+            "tool_shed_repository": {
+                "changeset_revision": "b4427dbb6ced", 
+                "name": "bwa_wrappers", 
+                "owner": "devteam", 
+                "tool_shed": "toolshed.g2.bx.psu.edu"
+            }, 
+            "tool_state": "{\"genomeSource\": \"{\\\"indices\\\": \\\"/galaxy/data/hg19/bwa_index/hg19.fa\\\", \\\"refGenomeSource\\\": \\\"indexed\\\", \\\"__current_case__\\\": 0}\", \"__page__\": null, \"__rerun_remap_job_id__\": null, \"paired\": \"{\\\"input2\\\": {\\\"__class__\\\": \\\"RuntimeValue\\\"}, \\\"sPaired\\\": \\\"paired\\\", \\\"input1\\\": {\\\"__class__\\\": \\\"RuntimeValue\\\"}, \\\"__current_case__\\\": 1}\", \"params\": \"{\\\"__current_case__\\\": 0, \\\"source_select\\\": \\\"pre_set\\\"}\", \"suppressHeader\": \"\\\"false\\\"\"}", 
+            "tool_version": "1.2.3", 
+            "type": "tool", 
+            "uuid": "7f17dd2b-8282-42b3-8473-9a7fde295e27", 
+            "workflow_outputs": []
+        }, 
+        "9": {
+            "annotation": "FastQC on Mother 1", 
+            "content_id": "toolshed.g2.bx.psu.edu/repos/devteam/fastqc/fastqc/0.65", 
+            "errors": null, 
+            "id": 9, 
+            "input_connections": {
+                "input_file": {
+                    "id": 2, 
+                    "output_name": "output"
+                }
+            }, 
+            "inputs": [
+                {
+                    "description": "runtime parameter for tool FastQC", 
+                    "name": "contaminants"
+                }, 
+                {
+                    "description": "runtime parameter for tool FastQC", 
+                    "name": "limits"
+                }, 
+                {
+                    "description": "runtime parameter for tool FastQC", 
+                    "name": "input_file"
+                }
+            ], 
+            "label": null, 
+            "name": "FastQC", 
+            "outputs": [
+                {
+                    "name": "html_file", 
+                    "type": "html"
+                }, 
+                {
+                    "name": "text_file", 
+                    "type": "txt"
+                }
+            ], 
+            "position": {
+                "left": 413, 
+                "top": 644
+            }, 
+            "post_job_actions": {
+                "HideDatasetActionhtml_file": {
+                    "action_arguments": {}, 
+                    "action_type": "HideDatasetAction", 
+                    "output_name": "html_file"
+                }, 
+                "HideDatasetActiontext_file": {
+                    "action_arguments": {}, 
+                    "action_type": "HideDatasetAction", 
+                    "output_name": "text_file"
+                }
+            }, 
+            "tool_id": "toolshed.g2.bx.psu.edu/repos/devteam/fastqc/fastqc/0.65", 
+            "tool_shed_repository": {
+                "changeset_revision": "3fdc1a74d866", 
+                "name": "fastqc", 
+                "owner": "devteam", 
+                "tool_shed": "toolshed.g2.bx.psu.edu"
+            }, 
+            "tool_state": "{\"__page__\": null, \"contaminants\": \"{\\\"__class__\\\": \\\"RuntimeValue\\\"}\", \"__rerun_remap_job_id__\": null, \"limits\": \"{\\\"__class__\\\": \\\"RuntimeValue\\\"}\", \"input_file\": \"{\\\"__class__\\\": \\\"RuntimeValue\\\"}\"}", 
+            "tool_version": "0.65", 
+            "type": "tool", 
+            "uuid": "c14b8de2-5733-4ed9-bfb7-c740cc241ffb", 
+            "workflow_outputs": []
+        }, 
+        "10": {
+            "annotation": "FastQC on Mother 2", 
+            "content_id": "toolshed.g2.bx.psu.edu/repos/devteam/fastqc/fastqc/0.65", 
+            "errors": null, 
+            "id": 10, 
+            "input_connections": {
+                "input_file": {
+                    "id": 3, 
+                    "output_name": "output"
+                }
+            }, 
+            "inputs": [
+                {
+                    "description": "runtime parameter for tool FastQC", 
+                    "name": "contaminants"
+                }, 
+                {
+                    "description": "runtime parameter for tool FastQC", 
+                    "name": "limits"
+                }, 
+                {
+                    "description": "runtime parameter for tool FastQC", 
+                    "name": "input_file"
+                }
+            ], 
+            "label": null, 
+            "name": "FastQC", 
+            "outputs": [
+                {
+                    "name": "html_file", 
+                    "type": "html"
+                }, 
+                {
+                    "name": "text_file", 
+                    "type": "txt"
+                }
+            ], 
+            "position": {
+                "left": 425, 
+                "top": 936
+            }, 
+            "post_job_actions": {
+                "HideDatasetActionhtml_file": {
+                    "action_arguments": {}, 
+                    "action_type": "HideDatasetAction", 
+                    "output_name": "html_file"
+                }, 
+                "HideDatasetActiontext_file": {
+                    "action_arguments": {}, 
+                    "action_type": "HideDatasetAction", 
+                    "output_name": "text_file"
+                }
+            }, 
+            "tool_id": "toolshed.g2.bx.psu.edu/repos/devteam/fastqc/fastqc/0.65", 
+            "tool_shed_repository": {
+                "changeset_revision": "3fdc1a74d866", 
+                "name": "fastqc", 
+                "owner": "devteam", 
+                "tool_shed": "toolshed.g2.bx.psu.edu"
+            }, 
+            "tool_state": "{\"__page__\": null, \"contaminants\": \"{\\\"__class__\\\": \\\"RuntimeValue\\\"}\", \"__rerun_remap_job_id__\": null, \"limits\": \"{\\\"__class__\\\": \\\"RuntimeValue\\\"}\", \"input_file\": \"{\\\"__class__\\\": \\\"RuntimeValue\\\"}\"}", 
+            "tool_version": "0.65", 
+            "type": "tool", 
+            "uuid": "64c4a416-cd4e-4907-a7b8-d1c0d677e08a", 
+            "workflow_outputs": []
+        }, 
+        "11": {
+            "annotation": "Mapped Mother's datasets to Human Ref genome hg19", 
+            "content_id": "toolshed.g2.bx.psu.edu/repos/devteam/bwa_wrappers/bwa_wrapper/1.2.3", 
+            "errors": null, 
+            "id": 11, 
+            "input_connections": {
+                "paired|input1": {
+                    "id": 2, 
+                    "output_name": "output"
+                }, 
+                "paired|input2": {
+                    "id": 3, 
+                    "output_name": "output"
+                }
+            }, 
+            "inputs": [
+                {
+                    "description": "runtime parameter for tool Map with BWA for Illumina", 
+                    "name": "paired"
+                }, 
+                {
+                    "description": "runtime parameter for tool Map with BWA for Illumina", 
+                    "name": "paired"
+                }
+            ], 
+            "label": null, 
+            "name": "Map with BWA for Illumina", 
+            "outputs": [
+                {
+                    "name": "output", 
+                    "type": "sam"
+                }
+            ], 
+            "position": {
+                "left": 722, 
+                "top": 812
+            }, 
+            "post_job_actions": {
+                "HideDatasetActionoutput": {
+                    "action_arguments": {}, 
+                    "action_type": "HideDatasetAction", 
+                    "output_name": "output"
+                }
+            }, 
+            "tool_id": "toolshed.g2.bx.psu.edu/repos/devteam/bwa_wrappers/bwa_wrapper/1.2.3", 
+            "tool_shed_repository": {
+                "changeset_revision": "b4427dbb6ced", 
+                "name": "bwa_wrappers", 
+                "owner": "devteam", 
+                "tool_shed": "toolshed.g2.bx.psu.edu"
+            }, 
+            "tool_state": "{\"genomeSource\": \"{\\\"indices\\\": \\\"/galaxy/data/hg19/bwa_index/hg19.fa\\\", \\\"refGenomeSource\\\": \\\"indexed\\\", \\\"__current_case__\\\": 0}\", \"__page__\": null, \"__rerun_remap_job_id__\": null, \"paired\": \"{\\\"input2\\\": {\\\"__class__\\\": \\\"RuntimeValue\\\"}, \\\"sPaired\\\": \\\"paired\\\", \\\"input1\\\": {\\\"__class__\\\": \\\"RuntimeValue\\\"}, \\\"__current_case__\\\": 1}\", \"params\": \"{\\\"__current_case__\\\": 0, \\\"source_select\\\": \\\"pre_set\\\"}\", \"suppressHeader\": \"\\\"false\\\"\"}", 
+            "tool_version": "1.2.3", 
+            "type": "tool", 
+            "uuid": "1c8ad780-f5e0-4c0f-92f5-9b326d151b67", 
+            "workflow_outputs": []
+        }, 
+        "12": {
+            "annotation": "FastQC on Daughter 1", 
+            "content_id": "toolshed.g2.bx.psu.edu/repos/devteam/fastqc/fastqc/0.65", 
+            "errors": null, 
+            "id": 12, 
+            "input_connections": {
+                "input_file": {
+                    "id": 4, 
+                    "output_name": "output"
+                }
+            }, 
+            "inputs": [
+                {
+                    "description": "runtime parameter for tool FastQC", 
+                    "name": "contaminants"
+                }, 
+                {
+                    "description": "runtime parameter for tool FastQC", 
+                    "name": "limits"
+                }, 
+                {
+                    "description": "runtime parameter for tool FastQC", 
+                    "name": "input_file"
+                }
+            ], 
+            "label": null, 
+            "name": "FastQC", 
+            "outputs": [
+                {
+                    "name": "html_file", 
+                    "type": "html"
+                }, 
+                {
+                    "name": "text_file", 
+                    "type": "txt"
+                }
+            ], 
+            "position": {
+                "left": 425, 
+                "top": 1126
+            }, 
+            "post_job_actions": {
+                "HideDatasetActionhtml_file": {
+                    "action_arguments": {}, 
+                    "action_type": "HideDatasetAction", 
+                    "output_name": "html_file"
+                }, 
+                "HideDatasetActiontext_file": {
+                    "action_arguments": {}, 
+                    "action_type": "HideDatasetAction", 
+                    "output_name": "text_file"
+                }
+            }, 
+            "tool_id": "toolshed.g2.bx.psu.edu/repos/devteam/fastqc/fastqc/0.65", 
+            "tool_shed_repository": {
+                "changeset_revision": "3fdc1a74d866", 
+                "name": "fastqc", 
+                "owner": "devteam", 
+                "tool_shed": "toolshed.g2.bx.psu.edu"
+            }, 
+            "tool_state": "{\"__page__\": null, \"contaminants\": \"{\\\"__class__\\\": \\\"RuntimeValue\\\"}\", \"__rerun_remap_job_id__\": null, \"limits\": \"{\\\"__class__\\\": \\\"RuntimeValue\\\"}\", \"input_file\": \"{\\\"__class__\\\": \\\"RuntimeValue\\\"}\"}", 
+            "tool_version": "0.65", 
+            "type": "tool", 
+            "uuid": "75474073-73a1-4b37-8874-acf646766163", 
+            "workflow_outputs": []
+        }, 
+        "13": {
+            "annotation": "FastQC on Daughter 2", 
+            "content_id": "toolshed.g2.bx.psu.edu/repos/devteam/fastqc/fastqc/0.65", 
+            "errors": null, 
+            "id": 13, 
+            "input_connections": {
+                "input_file": {
+                    "id": 5, 
+                    "output_name": "output"
+                }
+            }, 
+            "inputs": [
+                {
+                    "description": "runtime parameter for tool FastQC", 
+                    "name": "contaminants"
+                }, 
+                {
+                    "description": "runtime parameter for tool FastQC", 
+                    "name": "limits"
+                }, 
+                {
+                    "description": "runtime parameter for tool FastQC", 
+                    "name": "input_file"
+                }
+            ], 
+            "label": null, 
+            "name": "FastQC", 
+            "outputs": [
+                {
+                    "name": "html_file", 
+                    "type": "html"
+                }, 
+                {
+                    "name": "text_file", 
+                    "type": "txt"
+                }
+            ], 
+            "position": {
+                "left": 423, 
+                "top": 1399
+            }, 
+            "post_job_actions": {
+                "HideDatasetActionhtml_file": {
+                    "action_arguments": {}, 
+                    "action_type": "HideDatasetAction", 
+                    "output_name": "html_file"
+                }, 
+                "HideDatasetActiontext_file": {
+                    "action_arguments": {}, 
+                    "action_type": "HideDatasetAction", 
+                    "output_name": "text_file"
+                }
+            }, 
+            "tool_id": "toolshed.g2.bx.psu.edu/repos/devteam/fastqc/fastqc/0.65", 
+            "tool_shed_repository": {
+                "changeset_revision": "3fdc1a74d866", 
+                "name": "fastqc", 
+                "owner": "devteam", 
+                "tool_shed": "toolshed.g2.bx.psu.edu"
+            }, 
+            "tool_state": "{\"__page__\": null, \"contaminants\": \"{\\\"__class__\\\": \\\"RuntimeValue\\\"}\", \"__rerun_remap_job_id__\": null, \"limits\": \"{\\\"__class__\\\": \\\"RuntimeValue\\\"}\", \"input_file\": \"{\\\"__class__\\\": \\\"RuntimeValue\\\"}\"}", 
+            "tool_version": "0.65", 
+            "type": "tool", 
+            "uuid": "fc8c9a28-5f1e-43db-a9e9-da215678f3ee", 
+            "workflow_outputs": []
+        }, 
+        "14": {
+            "annotation": "MappedDaughter's datasets to Human Ref genome hg19", 
+            "content_id": "toolshed.g2.bx.psu.edu/repos/devteam/bwa_wrappers/bwa_wrapper/1.2.3", 
+            "errors": null, 
+            "id": 14, 
+            "input_connections": {
+                "paired|input1": {
+                    "id": 4, 
+                    "output_name": "output"
+                }, 
+                "paired|input2": {
+                    "id": 5, 
+                    "output_name": "output"
+                }
+            }, 
+            "inputs": [
+                {
+                    "description": "runtime parameter for tool Map with BWA for Illumina", 
+                    "name": "paired"
+                }, 
+                {
+                    "description": "runtime parameter for tool Map with BWA for Illumina", 
+                    "name": "paired"
+                }
+            ], 
+            "label": null, 
+            "name": "Map with BWA for Illumina", 
+            "outputs": [
+                {
+                    "name": "output", 
+                    "type": "sam"
+                }
+            ], 
+            "position": {
+                "left": 725, 
+                "top": 1294
+            }, 
+            "post_job_actions": {
+                "HideDatasetActionoutput": {
+                    "action_arguments": {}, 
+                    "action_type": "HideDatasetAction", 
+                    "output_name": "output"
+                }
+            }, 
+            "tool_id": "toolshed.g2.bx.psu.edu/repos/devteam/bwa_wrappers/bwa_wrapper/1.2.3", 
+            "tool_shed_repository": {
+                "changeset_revision": "b4427dbb6ced", 
+                "name": "bwa_wrappers", 
+                "owner": "devteam", 
+                "tool_shed": "toolshed.g2.bx.psu.edu"
+            }, 
+            "tool_state": "{\"genomeSource\": \"{\\\"indices\\\": \\\"/galaxy/data/hg19/bwa_index/hg19.fa\\\", \\\"refGenomeSource\\\": \\\"indexed\\\", \\\"__current_case__\\\": 0}\", \"__page__\": null, \"__rerun_remap_job_id__\": null, \"paired\": \"{\\\"input2\\\": {\\\"__class__\\\": \\\"RuntimeValue\\\"}, \\\"sPaired\\\": \\\"paired\\\", \\\"input1\\\": {\\\"__class__\\\": \\\"RuntimeValue\\\"}, \\\"__current_case__\\\": 1}\", \"params\": \"{\\\"__current_case__\\\": 0, \\\"source_select\\\": \\\"pre_set\\\"}\", \"suppressHeader\": \"\\\"false\\\"\"}", 
+            "tool_version": "1.2.3", 
+            "type": "tool", 
+            "uuid": "af593ddc-f3d0-42b1-aef8-66902e450b73", 
+            "workflow_outputs": []
+        }, 
+        "15": {
+            "annotation": "Filtered the Father's SAM output after mapping", 
+            "content_id": "toolshed.g2.bx.psu.edu/repos/devteam/sam_bitwise_flag_filter/sam_bw_filter/1.0.0", 
+            "errors": null, 
+            "id": 15, 
+            "input_connections": {
+                "input1": {
+                    "id": 8, 
+                    "output_name": "output"
+                }
+            }, 
+            "inputs": [
+                {
+                    "description": "runtime parameter for tool Filter SAM", 
+                    "name": "input1"
+                }
+            ], 
+            "label": null, 
+            "name": "Filter SAM", 
+            "outputs": [
+                {
+                    "name": "out_file1", 
+                    "type": "sam"
+                }
+            ], 
+            "position": {
+                "left": 1025, 
+                "top": 581
+            }, 
+            "post_job_actions": {
+                "HideDatasetActionout_file1": {
+                    "action_arguments": {}, 
+                    "action_type": "HideDatasetAction", 
+                    "output_name": "out_file1"
+                }
+            }, 
+            "tool_id": "toolshed.g2.bx.psu.edu/repos/devteam/sam_bitwise_flag_filter/sam_bw_filter/1.0.0", 
+            "tool_shed_repository": {
+                "changeset_revision": "0b2424a404d9", 
+                "name": "sam_bitwise_flag_filter", 
+                "owner": "devteam", 
+                "tool_shed": "toolshed.g2.bx.psu.edu"
+            }, 
+            "tool_state": "{\"__page__\": null, \"__rerun_remap_job_id__\": null, \"input1\": \"{\\\"__class__\\\": \\\"RuntimeValue\\\"}\", \"bits\": \"[{\\\"states\\\": \\\"1\\\", \\\"__index__\\\": 0, \\\"flags\\\": \\\"--0x0001\\\"}, {\\\"states\\\": \\\"1\\\", \\\"__index__\\\": 1, \\\"flags\\\": \\\"--0x0002\\\"}]\"}", 
+            "tool_version": "1.0.0", 
+            "type": "tool", 
+            "uuid": "8914ea00-06b2-428f-96f3-2d9eb5cb7f57", 
+            "workflow_outputs": []
+        }, 
+        "16": {
+            "annotation": "Filtered the Mother's SAM output after mapping", 
+            "content_id": "toolshed.g2.bx.psu.edu/repos/devteam/sam_bitwise_flag_filter/sam_bw_filter/1.0.0", 
+            "errors": null, 
+            "id": 16, 
+            "input_connections": {
+                "input1": {
+                    "id": 11, 
+                    "output_name": "output"
+                }
+            }, 
+            "inputs": [
+                {
+                    "description": "runtime parameter for tool Filter SAM", 
+                    "name": "input1"
+                }
+            ], 
+            "label": null, 
+            "name": "Filter SAM", 
+            "outputs": [
+                {
+                    "name": "out_file1", 
+                    "type": "sam"
+                }
+            ], 
+            "position": {
+                "left": 1024, 
+                "top": 807
+            }, 
+            "post_job_actions": {
+                "HideDatasetActionout_file1": {
+                    "action_arguments": {}, 
+                    "action_type": "HideDatasetAction", 
+                    "output_name": "out_file1"
+                }
+            }, 
+            "tool_id": "toolshed.g2.bx.psu.edu/repos/devteam/sam_bitwise_flag_filter/sam_bw_filter/1.0.0", 
+            "tool_shed_repository": {
+                "changeset_revision": "0b2424a404d9", 
+                "name": "sam_bitwise_flag_filter", 
+                "owner": "devteam", 
+                "tool_shed": "toolshed.g2.bx.psu.edu"
+            }, 
+            "tool_state": "{\"__page__\": null, \"__rerun_remap_job_id__\": null, \"input1\": \"{\\\"__class__\\\": \\\"RuntimeValue\\\"}\", \"bits\": \"[{\\\"states\\\": \\\"1\\\", \\\"__index__\\\": 0, \\\"flags\\\": \\\"--0x0001\\\"}, {\\\"states\\\": \\\"1\\\", \\\"__index__\\\": 1, \\\"flags\\\": \\\"--0x0002\\\"}]\"}", 
+            "tool_version": "1.0.0", 
+            "type": "tool", 
+            "uuid": "8b829427-d980-4281-b4ca-09fe86a8fb6d", 
+            "workflow_outputs": []
+        }, 
+        "17": {
+            "annotation": "Filtered the Daughter's SAM output after mapping", 
+            "content_id": "toolshed.g2.bx.psu.edu/repos/devteam/sam_bitwise_flag_filter/sam_bw_filter/1.0.0", 
+            "errors": null, 
+            "id": 17, 
+            "input_connections": {
+                "input1": {
+                    "id": 14, 
+                    "output_name": "output"
+                }
+            }, 
+            "inputs": [
+                {
+                    "description": "runtime parameter for tool Filter SAM", 
+                    "name": "input1"
+                }
+            ], 
+            "label": null, 
+            "name": "Filter SAM", 
+            "outputs": [
+                {
+                    "name": "out_file1", 
+                    "type": "sam"
+                }
+            ], 
+            "position": {
+                "left": 1041, 
+                "top": 1044
+            }, 
+            "post_job_actions": {
+                "HideDatasetActionout_file1": {
+                    "action_arguments": {}, 
+                    "action_type": "HideDatasetAction", 
+                    "output_name": "out_file1"
+                }
+            }, 
+            "tool_id": "toolshed.g2.bx.psu.edu/repos/devteam/sam_bitwise_flag_filter/sam_bw_filter/1.0.0", 
+            "tool_shed_repository": {
+                "changeset_revision": "0b2424a404d9", 
+                "name": "sam_bitwise_flag_filter", 
+                "owner": "devteam", 
+                "tool_shed": "toolshed.g2.bx.psu.edu"
+            }, 
+            "tool_state": "{\"__page__\": null, \"__rerun_remap_job_id__\": null, \"input1\": \"{\\\"__class__\\\": \\\"RuntimeValue\\\"}\", \"bits\": \"[{\\\"states\\\": \\\"1\\\", \\\"__index__\\\": 0, \\\"flags\\\": \\\"--0x0001\\\"}, {\\\"states\\\": \\\"1\\\", \\\"__index__\\\": 1, \\\"flags\\\": \\\"--0x0002\\\"}]\"}", 
+            "tool_version": "1.0.0", 
+            "type": "tool", 
+            "uuid": "7c45dfae-b513-4c55-b1de-eb7c58b6a989", 
+            "workflow_outputs": []
+        }, 
+        "18": {
+            "annotation": "Converted SAM to BAM - Father", 
+            "content_id": "toolshed.g2.bx.psu.edu/repos/devteam/sam_to_bam/sam_to_bam/2.1", 
+            "errors": null, 
+            "id": 18, 
+            "input_connections": {
+                "source|input1": {
+                    "id": 15, 
+                    "output_name": "out_file1"
+                }
+            }, 
+            "inputs": [
+                {
+                    "description": "runtime parameter for tool SAM-to-BAM", 
+                    "name": "source"
+                }
+            ], 
+            "label": null, 
+            "name": "SAM-to-BAM", 
+            "outputs": [
+                {
+                    "name": "output1", 
+                    "type": "bam"
+                }
+            ], 
+            "position": {
+                "left": 1268, 
+                "top": 618
+            }, 
+            "post_job_actions": {
+                "HideDatasetActionoutput1": {
+                    "action_arguments": {}, 
+                    "action_type": "HideDatasetAction", 
+                    "output_name": "output1"
+                }
+            }, 
+            "tool_id": "toolshed.g2.bx.psu.edu/repos/devteam/sam_to_bam/sam_to_bam/2.1", 
+            "tool_shed_repository": {
+                "changeset_revision": "881e16ad05c6", 
+                "name": "sam_to_bam", 
+                "owner": "devteam", 
+                "tool_shed": "toolshed.g2.bx.psu.edu"
+            }, 
+            "tool_state": "{\"source\": \"{\\\"index_source\\\": \\\"cached\\\", \\\"index\\\": \\\"hg19\\\", \\\"input1\\\": {\\\"__class__\\\": \\\"RuntimeValue\\\"}, \\\"__current_case__\\\": 0}\", \"__rerun_remap_job_id__\": null, \"__page__\": null}", 
+            "tool_version": "2.1", 
+            "type": "tool", 
+            "uuid": "be5e4a8c-ad6b-43d2-8628-f268f42bdb73", 
+            "workflow_outputs": []
+        }, 
+        "19": {
+            "annotation": "Converted SAM to BAM - Mother", 
+            "content_id": "toolshed.g2.bx.psu.edu/repos/devteam/sam_to_bam/sam_to_bam/2.1", 
+            "errors": null, 
+            "id": 19, 
+            "input_connections": {
+                "source|input1": {
+                    "id": 16, 
+                    "output_name": "out_file1"
+                }
+            }, 
+            "inputs": [
+                {
+                    "description": "runtime parameter for tool SAM-to-BAM", 
+                    "name": "source"
+                }
+            ], 
+            "label": null, 
+            "name": "SAM-to-BAM", 
+            "outputs": [
+                {
+                    "name": "output1", 
+                    "type": "bam"
+                }
+            ], 
+            "position": {
+                "left": 1272, 
+                "top": 818
+            }, 
+            "post_job_actions": {
+                "HideDatasetActionoutput1": {
+                    "action_arguments": {}, 
+                    "action_type": "HideDatasetAction", 
+                    "output_name": "output1"
+                }
+            }, 
+            "tool_id": "toolshed.g2.bx.psu.edu/repos/devteam/sam_to_bam/sam_to_bam/2.1", 
+            "tool_shed_repository": {
+                "changeset_revision": "881e16ad05c6", 
+                "name": "sam_to_bam", 
+                "owner": "devteam", 
+                "tool_shed": "toolshed.g2.bx.psu.edu"
+            }, 
+            "tool_state": "{\"source\": \"{\\\"index_source\\\": \\\"cached\\\", \\\"index\\\": \\\"hg19\\\", \\\"input1\\\": {\\\"__class__\\\": \\\"RuntimeValue\\\"}, \\\"__current_case__\\\": 0}\", \"__rerun_remap_job_id__\": null, \"__page__\": null}", 
+            "tool_version": "2.1", 
+            "type": "tool", 
+            "uuid": "aaf992b7-b685-4b9c-86ce-478b5b6a70a2", 
+            "workflow_outputs": []
+        }, 
+        "20": {
+            "annotation": "Converted SAM to BAM - Daughter", 
+            "content_id": "toolshed.g2.bx.psu.edu/repos/devteam/sam_to_bam/sam_to_bam/2.1", 
+            "errors": null, 
+            "id": 20, 
+            "input_connections": {
+                "source|input1": {
+                    "id": 17, 
+                    "output_name": "out_file1"
+                }
+            }, 
+            "inputs": [
+                {
+                    "description": "runtime parameter for tool SAM-to-BAM", 
+                    "name": "source"
+                }
+            ], 
+            "label": null, 
+            "name": "SAM-to-BAM", 
+            "outputs": [
+                {
+                    "name": "output1", 
+                    "type": "bam"
+                }
+            ], 
+            "position": {
+                "left": 1278, 
+                "top": 1022
+            }, 
+            "post_job_actions": {
+                "HideDatasetActionoutput1": {
+                    "action_arguments": {}, 
+                    "action_type": "HideDatasetAction", 
+                    "output_name": "output1"
+                }
+            }, 
+            "tool_id": "toolshed.g2.bx.psu.edu/repos/devteam/sam_to_bam/sam_to_bam/2.1", 
+            "tool_shed_repository": {
+                "changeset_revision": "881e16ad05c6", 
+                "name": "sam_to_bam", 
+                "owner": "devteam", 
+                "tool_shed": "toolshed.g2.bx.psu.edu"
+            }, 
+            "tool_state": "{\"source\": \"{\\\"index_source\\\": \\\"cached\\\", \\\"index\\\": \\\"hg19\\\", \\\"input1\\\": {\\\"__class__\\\": \\\"RuntimeValue\\\"}, \\\"__current_case__\\\": 0}\", \"__rerun_remap_job_id__\": null, \"__page__\": null}", 
+            "tool_version": "2.1", 
+            "type": "tool", 
+            "uuid": "2172f031-10d7-4a5e-b808-872bb39e2e88", 
+            "workflow_outputs": []
+        }, 
+        "21": {
+            "annotation": "Add/Replace read groups in BAM dataset - Father", 
+            "content_id": "toolshed.g2.bx.psu.edu/repos/devteam/picard/picard_AddOrReplaceReadGroups/1.136.0", 
+            "errors": null, 
+            "id": 21, 
+            "input_connections": {
+                "inputFile": {
+                    "id": 18, 
+                    "output_name": "output1"
+                }
+            }, 
+            "inputs": [
+                {
+                    "description": "runtime parameter for tool AddOrReplaceReadGroups", 
+                    "name": "inputFile"
+                }
+            ], 
+            "label": null, 
+            "name": "AddOrReplaceReadGroups", 
+            "outputs": [
+                {
+                    "name": "outFile", 
+                    "type": "bam"
+                }
+            ], 
+            "position": {
+                "left": 1514, 
+                "top": 694
+            }, 
+            "post_job_actions": {
+                "HideDatasetActionoutFile": {
+                    "action_arguments": {}, 
+                    "action_type": "HideDatasetAction", 
+                    "output_name": "outFile"
+                }
+            }, 
+            "tool_id": "toolshed.g2.bx.psu.edu/repos/devteam/picard/picard_AddOrReplaceReadGroups/1.136.0", 
+            "tool_shed_repository": {
+                "changeset_revision": "efc56ee1ade4", 
+                "name": "picard", 
+                "owner": "devteam", 
+                "tool_shed": "toolshed.g2.bx.psu.edu"
+            }, 
+            "tool_state": "{\"__page__\": null, \"read_group_sm_conditional\": \"{\\\"do_auto_name\\\": \\\"false\\\", \\\"SM\\\": \\\"Father\\\", \\\"__current_case__\\\": 1}\", \"CN\": \"\\\"\\\"\", \"PU\": \"\\\"bc\\\"\", \"__rerun_remap_job_id__\": null, \"read_group_lb_conditional\": \"{\\\"do_auto_name\\\": \\\"false\\\", \\\"LB\\\": \\\"Corielle-NA12877\\\", \\\"__current_case__\\\": 1}\", \"read_group_id_conditional\": \"{\\\"do_auto_name\\\": \\\"false\\\", \\\"ID\\\": \\\"NA12877\\\", \\\"__current_case__\\\": 1}\", \"validation_stringency\": \"\\\"LENIENT\\\"\", \"DT\": \"\\\"\\\"\", \"PI\": \"\\\"\\\"\", \"DS\": \"\\\"\\\"\", \"PL\": \"\\\"ILLUMINA\\\"\", \"inputFile\": \"{\\\"__class__\\\": \\\"RuntimeValue\\\"}\"}", 
+            "tool_version": "1.136.0", 
+            "type": "tool", 
+            "uuid": "0df033ca-fa3d-4834-857c-6ba59e0bf82c", 
+            "workflow_outputs": []
+        }, 
+        "22": {
+            "annotation": "Add/Replace read groups in BAM dataset - Mother", 
+            "content_id": "toolshed.g2.bx.psu.edu/repos/devteam/picard/picard_AddOrReplaceReadGroups/1.136.0", 
+            "errors": null, 
+            "id": 22, 
+            "input_connections": {
+                "inputFile": {
+                    "id": 19, 
+                    "output_name": "output1"
+                }
+            }, 
+            "inputs": [
+                {
+                    "description": "runtime parameter for tool AddOrReplaceReadGroups", 
+                    "name": "inputFile"
+                }
+            ], 
+            "label": null, 
+            "name": "AddOrReplaceReadGroups", 
+            "outputs": [
+                {
+                    "name": "outFile", 
+                    "type": "bam"
+                }
+            ], 
+            "position": {
+                "left": 1511, 
+                "top": 811
+            }, 
+            "post_job_actions": {
+                "HideDatasetActionoutFile": {
+                    "action_arguments": {}, 
+                    "action_type": "HideDatasetAction", 
+                    "output_name": "outFile"
+                }
+            }, 
+            "tool_id": "toolshed.g2.bx.psu.edu/repos/devteam/picard/picard_AddOrReplaceReadGroups/1.136.0", 
+            "tool_shed_repository": {
+                "changeset_revision": "efc56ee1ade4", 
+                "name": "picard", 
+                "owner": "devteam", 
+                "tool_shed": "toolshed.g2.bx.psu.edu"
+            }, 
+            "tool_state": "{\"__page__\": null, \"read_group_sm_conditional\": \"{\\\"do_auto_name\\\": \\\"false\\\", \\\"SM\\\": \\\"Mother\\\", \\\"__current_case__\\\": 1}\", \"CN\": \"\\\"\\\"\", \"PU\": \"\\\"bc\\\"\", \"__rerun_remap_job_id__\": null, \"read_group_lb_conditional\": \"{\\\"do_auto_name\\\": \\\"false\\\", \\\"LB\\\": \\\"Coriell-NA12878\\\", \\\"__current_case__\\\": 1}\", \"read_group_id_conditional\": \"{\\\"do_auto_name\\\": \\\"false\\\", \\\"ID\\\": \\\"NA12878\\\", \\\"__current_case__\\\": 1}\", \"validation_stringency\": \"\\\"LENIENT\\\"\", \"DT\": \"\\\"\\\"\", \"PI\": \"\\\"\\\"\", \"DS\": \"\\\"\\\"\", \"PL\": \"\\\"ILLUMINA\\\"\", \"inputFile\": \"{\\\"__class__\\\": \\\"RuntimeValue\\\"}\"}", 
+            "tool_version": "1.136.0", 
+            "type": "tool", 
+            "uuid": "8b274f13-c628-4a9e-9a1f-9c6e146e95f4", 
+            "workflow_outputs": []
+        }, 
+        "23": {
+            "annotation": "Add/Replace read groups in BAM dataset - Daughter", 
+            "content_id": "toolshed.g2.bx.psu.edu/repos/devteam/picard/picard_AddOrReplaceReadGroups/1.136.0", 
+            "errors": null, 
+            "id": 23, 
+            "input_connections": {
+                "inputFile": {
+                    "id": 20, 
+                    "output_name": "output1"
+                }
+            }, 
+            "inputs": [
+                {
+                    "description": "runtime parameter for tool AddOrReplaceReadGroups", 
+                    "name": "inputFile"
+                }
+            ], 
+            "label": null, 
+            "name": "AddOrReplaceReadGroups", 
+            "outputs": [
+                {
+                    "name": "outFile", 
+                    "type": "bam"
+                }
+            ], 
+            "position": {
+                "left": 1510, 
+                "top": 930
+            }, 
+            "post_job_actions": {
+                "HideDatasetActionoutFile": {
+                    "action_arguments": {}, 
+                    "action_type": "HideDatasetAction", 
+                    "output_name": "outFile"
+                }
+            }, 
+            "tool_id": "toolshed.g2.bx.psu.edu/repos/devteam/picard/picard_AddOrReplaceReadGroups/1.136.0", 
+            "tool_shed_repository": {
+                "changeset_revision": "efc56ee1ade4", 
+                "name": "picard", 
+                "owner": "devteam", 
+                "tool_shed": "toolshed.g2.bx.psu.edu"
+            }, 
+            "tool_state": "{\"__page__\": null, \"read_group_sm_conditional\": \"{\\\"do_auto_name\\\": \\\"false\\\", \\\"SM\\\": \\\"Daughter\\\", \\\"__current_case__\\\": 1}\", \"CN\": \"\\\"\\\"\", \"PU\": \"\\\"bc\\\"\", \"__rerun_remap_job_id__\": null, \"read_group_lb_conditional\": \"{\\\"do_auto_name\\\": \\\"false\\\", \\\"LB\\\": \\\"Coriell-NA12880\\\", \\\"__current_case__\\\": 1}\", \"read_group_id_conditional\": \"{\\\"do_auto_name\\\": \\\"false\\\", \\\"ID\\\": \\\"NA12880\\\", \\\"__current_case__\\\": 1}\", \"validation_stringency\": \"\\\"LENIENT\\\"\", \"DT\": \"\\\"\\\"\", \"PI\": \"\\\"\\\"\", \"DS\": \"\\\"\\\"\", \"PL\": \"\\\"ILLUMINA\\\"\", \"inputFile\": \"{\\\"__class__\\\": \\\"RuntimeValue\\\"}\"}", 
+            "tool_version": "1.136.0", 
+            "type": "tool", 
+            "uuid": "e372096d-9b5f-4a23-95b3-e74c53c84462", 
+            "workflow_outputs": []
+        }, 
+        "24": {
+            "annotation": "Merge all 3 BAM datasets", 
+            "content_id": "toolshed.g2.bx.psu.edu/repos/devteam/sam_merge/sam_merge2/1.2.0", 
+            "errors": null, 
+            "id": 24, 
+            "input_connections": {
+                "inputs": [
+                    {
+                        "id": 21, 
+                        "output_name": "outFile"
+                    }, 
+                    {
+                        "id": 22, 
+                        "output_name": "outFile"
+                    }, 
+                    {
+                        "id": 23, 
+                        "output_name": "outFile"
+                    }
+                ]
+            }, 
+            "inputs": [
+                {
+                    "description": "runtime parameter for tool Merge BAM Files", 
+                    "name": "inputs"
+                }
+            ], 
+            "label": null, 
+            "name": "Merge BAM Files", 
+            "outputs": [
+                {
+                    "name": "output1", 
+                    "type": "bam"
+                }
+            ], 
+            "position": {
+                "left": 1881, 
+                "top": 827
+            }, 
+            "post_job_actions": {
+                "HideDatasetActionoutput1": {
+                    "action_arguments": {}, 
+                    "action_type": "HideDatasetAction", 
+                    "output_name": "output1"
+                }
+            }, 
+            "tool_id": "toolshed.g2.bx.psu.edu/repos/devteam/sam_merge/sam_merge2/1.2.0", 
+            "tool_shed_repository": {
+                "changeset_revision": "1977f1637890", 
+                "name": "sam_merge", 
+                "owner": "devteam", 
+                "tool_shed": "toolshed.g2.bx.psu.edu"
+            }, 
+            "tool_state": "{\"inputs\": \"{\\\"__class__\\\": \\\"RuntimeValue\\\"}\", \"__rerun_remap_job_id__\": null, \"mergeSD\": \"\\\"true\\\"\", \"__page__\": null}", 
+            "tool_version": "1.2.0", 
+            "type": "tool", 
+            "uuid": "36f4c5c2-e3f1-42cc-b637-7bea9e8ae940", 
+            "workflow_outputs": []
+        }, 
+        "25": {
+            "annotation": "Run FreeBayes genetic variant detector", 
+            "content_id": "toolshed.g2.bx.psu.edu/repos/devteam/freebayes/freebayes/0.4.1", 
+            "errors": null, 
+            "id": 25, 
+            "input_connections": {
+                "reference_source|input_bams_0|input_bam": {
+                    "id": 24, 
+                    "output_name": "output1"
+                }
+            }, 
+            "inputs": [], 
+            "label": null, 
+            "name": "FreeBayes", 
+            "outputs": [
+                {
+                    "name": "output_vcf", 
+                    "type": "vcf"
+                }, 
+                {
+                    "name": "output_failed_alleles_bed", 
+                    "type": "bed"
+                }, 
+                {
+                    "name": "output_trace", 
+                    "type": "txt"
+                }
+            ], 
+            "position": {
+                "left": 2094, 
+                "top": 787
+            }, 
+            "post_job_actions": {
+                "HideDatasetActionoutput_failed_alleles_bed": {
+                    "action_arguments": {}, 
+                    "action_type": "HideDatasetAction", 
+                    "output_name": "output_failed_alleles_bed"
+                }, 
+                "HideDatasetActionoutput_trace": {
+                    "action_arguments": {}, 
+                    "action_type": "HideDatasetAction", 
+                    "output_name": "output_trace"
+                }, 
+                "HideDatasetActionoutput_vcf": {
+                    "action_arguments": {}, 
+                    "action_type": "HideDatasetAction", 
+                    "output_name": "output_vcf"
+                }
+            }, 
+            "tool_id": "toolshed.g2.bx.psu.edu/repos/devteam/freebayes/freebayes/0.4.1", 
+            "tool_shed_repository": {
+                "changeset_revision": "99684adf84de", 
+                "name": "freebayes", 
+                "owner": "devteam", 
+                "tool_shed": "toolshed.g2.bx.psu.edu"
+            }, 
+            "tool_state": "{\"__page__\": null, \"reference_source\": \"{\\\"ref_file\\\": \\\"hg19\\\", \\\"reference_source_selector\\\": \\\"cached\\\", \\\"input_bams\\\": [{\\\"__index__\\\": 0, \\\"input_bam\\\": {\\\"__class__\\\": \\\"RuntimeValue\\\"}}], \\\"__current_case__\\\": 0}\", \"__rerun_remap_job_id__\": null, \"options_type\": \"{\\\"__current_case__\\\": 1, \\\"options_type_selector\\\": \\\"simple\\\"}\", \"target_limit_type\": \"{\\\"target_limit_type_selector\\\": \\\"do_not_limit\\\", \\\"__current_case__\\\": 0}\"}", 
+            "tool_version": "0.4.1", 
+            "type": "tool", 
+            "uuid": "b6261121-af09-4234-8683-86757ca98be2", 
+            "workflow_outputs": []
+        }, 
+        "26": {
+            "annotation": "Filtered the FreeBayes VCF file for QUAL > 40 or chances of false positive for 1 in 10,000.", 
+            "content_id": "toolshed.g2.bx.psu.edu/repos/devteam/vcffilter/vcffilter2/0.0.3", 
+            "errors": null, 
+            "id": 26, 
+            "input_connections": {
+                "input1": {
+                    "id": 25, 
+                    "output_name": "output_vcf"
+                }
+            }, 
+            "inputs": [
+                {
+                    "description": "runtime parameter for tool VCFfilter:", 
+                    "name": "input1"
+                }
+            ], 
+            "label": null, 
+            "name": "VCFfilter:", 
+            "outputs": [
+                {
+                    "name": "out_file1", 
+                    "type": "vcf"
+                }
+            ], 
+            "position": {
+                "left": 2403, 
+                "top": 795
+            }, 
+            "post_job_actions": {}, 
+            "tool_id": "toolshed.g2.bx.psu.edu/repos/devteam/vcffilter/vcffilter2/0.0.3", 
+            "tool_shed_repository": {
+                "changeset_revision": "e729e584cd6f", 
+                "name": "vcffilter", 
+                "owner": "devteam", 
+                "tool_shed": "toolshed.g2.bx.psu.edu"
+            }, 
+            "tool_state": "{\"filterList\": \"\\\"-f \\\\\\\"QUAL > 40\\\\\\\"\\\"\", \"__page__\": null, \"__rerun_remap_job_id__\": null, \"input1\": \"{\\\"__class__\\\": \\\"RuntimeValue\\\"}\"}", 
+            "tool_version": "0.0.3", 
+            "type": "tool", 
+            "uuid": "5e0dd597-b823-49c7-bee7-18cd7ab2cb1e", 
+            "workflow_outputs": [
+                {
+                    "label": null, 
+                    "output_name": "out_file1", 
+                    "uuid": "8482fedb-8681-4361-98dc-39c13fef7d6a"
+                }
+            ]
+        }
+    }, 
+    "uuid": "b8ea57d3-7a49-46a5-96a1-d4d3d761601b"
+}
